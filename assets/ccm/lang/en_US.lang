@@ -1,0 +1,12 @@
+tile.ccmBlockBuilding.name=Construction Block
+tile.ccmBlockPlanner.name=Planning Table
+item.ccmItemBlueprint.name=Blueprint
+item.ccmItemCreationTool.name=Pencil Tool
+item.ccmItemConstructionHelmet.name=Hard Hat
+item.ccmItemWoodHammer.name=Wood Hammer
+item.ccmItemStoneHammer.name=Stone Hammer
+item.ccmItemIronHammer.name=Iron Hammer
+item.ccmItemGoldHammer.name=Gold Hammer
+item.ccmItemDiamondHammer.name=Diamond Hammer
+
+itemGroup.tabConstruction=MrCrayfish's Construction Mod

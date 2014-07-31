@@ -1,0 +1,12 @@
+tile.ccmBlockBuilding.name=Строительный блок
+tile.ccmBlockPlanner.name=Планировочный стол
+item.ccmItemBlueprint.name=План
+item.ccmItemCreationTool.name=Рабочий карандаш
+item.ccmItemConstructionHelmet.name=Каска
+item.ccmItemWoodHammer.name=Деревянный молоток
+item.ccmItemStoneHammer.name=Каменный молоток
+item.ccmItemIronHammer.name=Железный молоток
+item.ccmItemGoldHammer.name=Золотой молоток
+item.ccmItemDiamondHammer.name=Алмазный молоток
+
+itemGroup.tabConstruction=MrCrayfish's Construction Mod
