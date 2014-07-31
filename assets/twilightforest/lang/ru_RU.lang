@@ -138,6 +138,8 @@ tile.TFDeadrock.surface.name=Выветрившийся мёртвый каме�
 tile.TFDeadrock.cracked.name=Потрескавшийся мёртвый камень
 tile.TFDeadrock.solid.name=Мёртвый камень
 tile.DarkLeaves.name=Листва тёмного дерева
+tile.AuroraPillar.name=Северная колонна
+tile.AuroraSlab.name=Северная плита
 
 item.nagaScale.name=Сердце Наги
 item.plateNaga.name=Мундир из сердца Наги
@@ -227,6 +229,17 @@ item.phantomHelm.name=Шлем призрака
 item.phantomPlate.name=Кираса призрака
 item.lampOfCinders.name=Лампа огня
 item.fieryTears.name=Пламенные слёзы
+item.iceBomb.name=Ледяная бомба
+item.yetiHelm.name=Рогатый шлем Йети
+item.yetiPlate.name=Шкура Йети
+item.yetiLegs.name=Поножи Йети
+item.yetiBoots.name=Ботинки Йети
+item.alphaFur.name=Мех Альфа-Йети
+item.arcticFur.name=Арктический мех
+item.arcticHelm.name=Арктический капюшон
+item.arcticPlate.name=Арктическая шкура
+item.arcticLegs.name=Арктические поножи
+item.arcticBoots.name=Арктические ботинки
 
 item.minotaurAxe.tooltip=Дополнительный урон, когда заряжен
 item.knightlySword.tooltip=Дополнительный урон бронированным целям
@@ -236,6 +249,7 @@ item.knightlyAxe.tooltip=Дополнительный урон небронир�
 item.tfspawnegg.name=Призвать существо - 
 
 enchantment.tfFireReact=Пламенная аура
+enchantment.tfChillAura=Холодная аура
 
 itemGroup.twilightForest=Twilight Forest
 
@@ -285,7 +299,11 @@ entity.TwilightForest.Block&Chain Goblin.name=Гоблин с блоком и ц
 entity.TwilightForest.Upper Goblin Knight.name=Высший гоблин-рыцарь
 entity.TwilightForest.Lower Goblin Knight.name=Низший гоблин-рыцарь
 entity.TwilightForest.Helmet Crab.name=Шлемный краб
-entity.TwilightForest.Knight Phantom.name=Рыцарь-призрак [WIP]
+entity.TwilightForest.Knight Phantom.name=Рыцарь-призрак
+entity.TwilightForest.Yeti.name=Йети
+entity.TwilightForest.Yeti Boss.name=Альфа-Йети
+entity.TwilightForest.WinterWolf.name=Зимний волк
+entity.TwilightForest.SnowGuardian.name=Снежный хранитель
 
 achievement.twilightPortal=Сумеречный портал
 achievement.twilightPortal.desc=Постройте портал в Twilight Forest.
@@ -352,3 +370,6 @@ achievement.twilightProgressThorns=Минуя шипы
 achievement.twilightProgressThorns.desc=Минуйте земли с шипами и откройте дверь замка.
 achievement.twilightProgressCastle=Такой замок, очень круто
 achievement.twilightProgressCastle.desc=Что ещё может быть в этом замке?!?
+
+
+
