@@ -11,4 +11,4 @@ This Resource Pack is licensed under Calclavia's Educational Public License (htt
 
 ###Credits:
 
-Adaptivity for Russian language.
+Adaptivity (Russian language)
