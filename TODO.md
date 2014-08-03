@@ -1,7 +1,9 @@
-Mod Name(s): The Farlanders
+- [ ] Mod Name(s): The Farlanders
 
 Author(s): Fabiulu
+
 Link: http://goo.gl/v1RZhu
+
 Status: Not yet started.
 
 Mod Name(s): Reika's Mods
