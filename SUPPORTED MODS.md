@@ -28,4 +28,4 @@ Status: sent to Author. No response for 2 months.
 
 - Hardcore Ender Expansion by chylex
 Link: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281889-hardcore-ender-expansion-v1-6-2-108-000-dls
-Status: sent to Author. No response yet.
+Status: sent to Author. In the next version.

@@ -1,0 +1,87 @@
+item.gemEndumium.name=Endumium Crystal
+item.farlanderEgg.name=Spawn Farlander
+item.endergolemEgg.name=Spawn Ender Golem
+item.elderEgg.name=Spawn Elder Farlander
+item.classicendermanEgg.name=Spawn Classic Enderman
+item.nightfallsword.name=Nightfall Sword
+item.enderhorn.name=Ender Golem Horn
+item.wandererEgg.name=Spawn Wanderer
+item.mysticendermanEgg.name=Spawn Mystic Enderman
+item.rebelEgg.name=Spawn Rebel Farlander
+item.mysticWandOre.name=Mystic Wand
+item.mysticWandTeleport.name=Mystic Wand
+item.mysticWandRegen.name=Mystic Wand
+item.mysticWandInvisible.name=Mystic Wand
+item.looterEgg.name=Spawn Looter
+item.enderminionEgg.name=Spawn Enderminion
+item.fanendermanEgg.name=Spawn Fanmade Enderman
+item.mysticEnderminionEgg.name=Spawn Mystic Enderminion
+item.mysticWandFireS.name=Mystic Wand
+item.mysticWandFireL.name=Mystic Wand
+item.titanEgg.name=Spawn Titan
+item.titanHide.name=Titan Hide
+item.enderGuardianEgg.name=Spawn Ender Guardian
+item.farlanders.iron_helmet.name=Nightfall Helmet
+item.nightfallChest.name=Nightfall Chestplate
+item.nightfallPants.name=Nightfall Leggings
+item.nightfallBoots.name=Nightfall Boots
+item.farlanders.gold_helmet.name=Rebel Farlander Helmet
+
+tile.endumiumOre.name=Endumium Ore
+tile.endumiumBlock.name=Block of Endumium
+
+entity.farlanders.Ender Golem.name=Ender Golem
+entity.farlanders.Farlander.name=Farlander
+entity.farlanders.Elder Farlander.name=Elder Farlander
+entity.farlanders.Classic Enderman.name=Classic Enderman	
+entity.farlanders.Wanderer.name=Wanderer
+entity.farlanders.Ender Colossus.name=Ender Colossus
+entity.farlanders.Mystic Enderman.name=Mystic Enderman
+entity.farlanders.Rebel Farlander.name=Rebel Farlander
+entity.farlanders.Looter.name=Looter
+entity.farlanders.Enderminion.name=Enderminion
+entity.farlanders.Fanmade Enderman.name=Fanmade Enderman
+entity.farlanders.Mystic Enderminion.name=Mystic Enderminion
+entity.farlanders.Titan.name=Titan
+entity.farlanders.Ender Guardian.name=Ender Guardian
+
+itemGroup.farlandersTab=The Farlanders
+
+achievement.thisIsTheEnd=This is the End
+achievement.thisIsTheEnd.desc=Slay a Classic Enderman.
+
+achievement.alternativeEnding=Alternative Ending
+achievement.alternativeEnding.desc=The Classic Enderman dropped an End Portal Frame!
+
+achievement.cleaningTheDust=Cleaning the Dust
+achievement.cleaningTheDust.desc=Slay a Classic Enderman holding Dirt or Sand.
+
+achievement.ironMaiden=Iron Maiden
+achievement.ironMaiden.desc=Slay a Classic Enderman holding Iron.
+
+achievement.blazingGoldDigger=Gold Digger
+achievement.blazingGoldDigger.desc=Slay a Classic Enderman holding Gold.
+
+achievement.whatTheHell=What the Hell?
+achievement.whatTheHell.desc=Slay a Classic Enderman holding Netherrack or Soul Sand, while it's on fire.
+
+achievement.rockBottom=Rock Bottom
+achievement.rockBottom.desc=Slay a Classic Enderman holding Obsidian, while it's on fire.
+
+achievement.diamondsOhWait=DIAMONDS! Oh, wait...
+achievement.diamondsOhWait.desc=Slay a Classic Enderman holding Diamond.
+
+achievement.cuttingEdge=It's Cutting Edge!
+achievement.cuttingEdge.desc=Craft a Nightfall Sword.
+
+achievement.abraKadabra=Abra Kadabra
+achievement.abraKadabra.desc=The Mystic Enderman dropped a Mystic Wand!
+		
+achievement.amongEndermen=Among Endermen
+achievement.amongEndermen.desc=Equip all the pieces of the Nightfall Armor.
+		
+achievement.leaderMinions=Leader of the Minions
+achievement.leaderMinions.desc=Tame a Enderminion.
+		
+achievement.wandDestruction=Wands of Destruction
+achievement.wandDestruction.desc=Buy a Mystic Wand from a Mystic Enderminion.
