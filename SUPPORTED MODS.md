@@ -1,31 +1,44 @@
-- Archimedes' Ships by BalkondeurAlpha
-Link: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289952-archimedes-ships-v1-7-banking-ships
+- Mod Name(s): Archimedes' Ships
+Author(s): BalkondeurAlpha
+Link: http://goo.gl/V7SQMS
 Status: ru_RU included in mod but outdated a bit.
 
-- Pam's Mods by MatrexsVigil
-Link: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413-pams-mods-july-16th-all-mods-updated-to-1-7-10
-Status: sent to Author. Planned for the next update.
+- Mod Name(s): Pam's Mods
+Author(s): MatrexsVigil
+Link: http://goo.gl/BR9sKg
+Status: Sent to Author. Planned for the next update.
 
-- GrowthCraft by Gwafu
-Link: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286298-growthcraft-jul-15-2014-proper-1-7-10-release
-Status: sent to Author. No response yet.
+- Mod Name(s): GrowthCraft
+Author(s): Gwafu
+Link: http://goo.gl/WYVNOU
+Status: Sent to Author. No response yet.
 
-- The Twilight Forest by Benimatic
-Link: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258-the-twilight-forest-v2-2-3-domain-of-the-alpha
-Status: sent to Author. No response for 2 months. Included ru_RU outdated and REALLY bad.
+- Mod Name(s): The Twilight Forest
+Author(s): Benimatic
+Link: http://goo.gl/ayJy3C
+Status: Sent to Author. No response for 2 months. Included ru_RU outdated and REALLY bad.
 
-- MrCrayfish's Furniture Mod by Mr_Crayfish
-Link: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282349-mrcrayfishs-furniture-mod-v3-3-4-bathroom-update
-Status: sent to Author. Will be added in the next update.
+- Mod Name(s): MrCrayfish's Furniture Mod
+Author(s): Mr_Crayfish
+Link: http://goo.gl/5eMEJy
+Status: Sent to Author. Will be added in the next update.
 
-- MrCrayfish's Construction Mod by Mr_Crayfish
-Link: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292698-mrcrayfishs-construction-mod-v1-1-a-o-e-inspired
-Status: sent to Author. Will be added in the next update(???)
+- Mod Name(s): MrCrayfish's Construction Mod
+Author(s): Mr_Crayfish
+Link: http://goo.gl/0q6yIX
+Status: Sent to Author. Will be added in the next update(???)
 
-- Ex Nihilo by Erasmus_Crowley
-Link: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291850-ex-nihilo-the-skyblock-companion-mod 
-Status: sent to Author. No response for 2 months.
+- Mod Name(s): MrCrayfish's Construction Mod
+Author(s): Mr_Crayfish
+Link: http://goo.gl/0q6yIX
+Status: Sent to Author. Will be added in the next update(???)
 
-- Hardcore Ender Expansion by chylex
-Link: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281889-hardcore-ender-expansion-v1-6-2-108-000-dls
-Status: sent to Author. In the next version.
+- Mod Name(s): Ex Nihilo
+Author(s): Erasmus_Crowley
+Link: http://goo.gl/yQZiNo
+Status: Sent to Author. No response for 2 months.
+
+- Mod Name(s): Hardcore Ender Expansion
+Author(s): chylex
+Link: http://goo.gl/eL142n
+Status: Sent to Author. In the next version.
