@@ -77,3 +77,12 @@ Author(s): chylex
 Link: http://goo.gl/eL142n
 
 Status: Sent to Author. In the next version.
+
+
+- Mod Name(s): FinndusFillies
+
+Author(s): Myrathi
+
+Link: http://goo.gl/Uhgihr
+
+Status: -
