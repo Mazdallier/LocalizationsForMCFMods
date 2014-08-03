@@ -1,4 +1,4 @@
-- [ ] ######Mod Name(s): The Farlanders
+- [ ] #####Mod Name(s): The Farlanders
 
 Author(s): Fabiulu
 
