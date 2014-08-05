@@ -1,0 +1,65 @@
+//Blocks
+tile.bronze_block.name=Бронзовый блок
+tile.thyrium_block.name=Блок тириума
+tile.sinisite_block.name=Блок синасайта
+tile.fusion_furnace.name=Плавильная печь
+tile.fusion_furnace_lit.name=Плавильная печь
+
+//Items
+item.bronze_ingot.name=Бронзовый слиток
+item.thyrium_ingot.name=Слиток тириума
+item.sinisite_ingot.name=Слиток синасайта
+item.thyrium_rod.name=Палка из тириума
+item.sinisite_rod.name=Палка из синасайта
+item.small_bronze_chunk.name=Маленький кусок бронзы
+item.medium_bronze_chunk.name=Средний кусок бронзы
+item.large_bronze_chunk.name=Большой кусок бронзы
+item.small_thyrium_chunk.name=Маленький кусок тириума
+item.medium_thyrium_chunk.name=Средний кусок тириума
+item.large_thyrium_chunk.name=Большой кусок тириума
+item.small_sinisite_chunk.name=Маленький кусок синасайта
+item.medium_sinisite_chunk.name=Средний кусок синасайта
+item.large_sinisite_chunk.name=Большой кусок синасайта
+
+//Tools
+item.bronze_pickaxe.name=Бронзовая кирка
+item.bronze_axe.name=Бронзовый топор
+item.bronze_shovel.name=Бронзовая лопата
+item.bronze_sword.name=Бронзовый меч
+item.bronze_hoe.name=Бронзовая мотыга
+item.thyrium_pickaxe.name=Кирка из тириума
+item.thyrium_axe.name=Топор из тириума
+item.thyrium_shovel.name=Лопата из тириума
+item.thyrium_sword.name=Меч из тириума
+item.thyrium_hoe.name=Мотыга из тириума
+item.sinisite_pickaxe.name=Кирка из синасайта
+item.sinisite_axe.name=Топор из синасайта
+item.sinisite_shovel.name=Лопата из синасайта
+item.sinisite_sword.name=Меч из синасайта
+item.sinisite_hoe.name=Мотыга из синасайта
+item.thyrium_bow.name=Лук из тириума
+item.sinisite_bow.name=Лук из синасайта
+
+//Armor
+item.bronze_helmet.name=Бронзовый шлем
+item.bronze_chestplate.name=Бронзовая кираса
+item.bronze_leggings.name=Бронзовые поножи
+item.bronze_boots.name=Бронзовые ботинки
+item.thyrium_helmet.name=Шлем из тириума
+item.thyrium_chestplate.name=Кираса из тириума
+item.thyrium_leggings.name=Поножи из тириума
+item.thyrium_boots.name=Ботинки из тириума
+item.sinisite_helmet.name=Шлем из синасайта
+item.sinisite_chestplate.name=Кираса из синасайта
+item.sinisite_leggings.name=Поножи из синасайта
+item.sinisite_boots.name=Ботинки из синасайта
+
+//Achievements
+achievement.fusionAch=Слияние
+achievement.fusionAch.desc=Сделайте плавильную печь, чтобы открыть новые возможности
+achievement.bronzeAch=Моя первая плавка
+achievement.bronzeAch.desc=Сделайте первый сплав - бронзовый слиток
+
+//Update
+fusionplugin.updateMessage1=§3Плагин SimpleOres Fusion §rустарел. Последняя версия: §c
+fusionplugin.updateMessage2=§r. Пожалуйста, обновитесь по ссылке §9http://bit.ly/SimpleOres

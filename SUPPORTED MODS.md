@@ -86,3 +86,39 @@ Author(s): Myrathi
 Link: http://goo.gl/Uhgihr
 
 Status: Sent to Author. Soon.
+
+
+- Mod Name(s): Usefulfood
+
+Author(s): Silentspy
+
+Link: http://goo.gl/442APq
+
+Status: Sent to Author. When he returns.
+
+
+- Mod Name(s): Mo' Creatures
+
+Author(s): DrZhark, bloodshot45
+
+Link: http://goo.gl/9rzhH9
+
+Status: Not yet sent.
+
+
+- Mod Name(s): Mo' Chickens
+
+Author(s): saxon564
+
+Link: http://goo.gl/nnoyUl
+
+Status: Not yet sent.
+
+
+- Mod Name(s): SimpleOres 2
+
+Author(s): AleXndrTheGr8st
+
+Link: http://goo.gl/WMcjUR
+
+Status: Not yet sent.

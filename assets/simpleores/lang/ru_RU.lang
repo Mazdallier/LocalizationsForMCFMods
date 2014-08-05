@@ -1,0 +1,125 @@
+//blocks
+tile.copper_ore.name=Медная руда
+tile.copper_block.name=Медный блок
+tile.tin_ore.name=Оловянная руда
+tile.tin_block.name=Оловянный блок
+tile.mythril_ore.name=Мифриловая руда
+tile.mythril_block.name=Мифриловый блок
+tile.adamantium_ore.name=Адамантовая руда
+tile.adamantium_block.name=Адамантовый блок
+tile.onyx_ore.name=Ониксовая руда
+tile.onyx_block.name=Ониксовый блок
+tile.mythril_furnace.name=Мифриловая печь
+tile.mythril_furnace_lit.name=Мифриловая печь
+tile.onyx_furnace.name=Ониксовая печь
+tile.onyx_furnace_lit.name=Ониксовая печь
+tile.copper_door_block.name=Медная дверь
+tile.onyx_door_block.name=Ониксовая дверь
+tile.copper_bars.name=Медные прутья
+tile.tin_bars.name=Оловянные прутья
+tile.mythril_bars.name=Мифриловые прутья
+tile.adamantium_bars.name=Адамантовые прутья
+tile.onyx_bars.name=Ониксовые прутья
+
+//Items
+item.copper_ingot.name=Медный слиток
+item.tin_ingot.name=Оловянный слиток
+item.mythril_ingot.name=Мифриловый слиток
+item.adamantium_ingot.name=Адамантовый слиток
+item.onyx_gem.name=Оникс
+item.copper_bucket.name=Медное ведро
+item.copper_bucket_water.name=Медное ведро воды
+item.mythril_rod.name=Мифриловая палка
+item.onyx_rod.name=Ониксовая палка
+item.copper_door.name=Медная дверь
+item.onyx_door.name=Ониксовая дверь
+
+//Tools
+item.copper_pickaxe.name=Медная кирка
+item.copper_axe.name=Медный топор
+item.copper_shovel.name=Медная лопата
+item.copper_sword.name=Медный меч
+item.copper_hoe.name=Медная мотыга
+item.tin_pickaxe.name=Оловянная кирка
+item.tin_axe.name=Оловянный топор
+item.tin_shovel.name=Оловянная лопата
+item.tin_sword.name=Оловянный меч
+item.tin_hoe.name=Оловянная мотыга
+item.mythril_pickaxe.name=Мифриловая кирка
+item.mythril_axe.name=Мифриловый топор
+item.mythril_shovel.name=Мифриловая лопата
+item.mythril_sword.name=Мифриловый меч
+item.mythril_hoe.name=Мифриловая мотыга
+item.adamantium_pickaxe.name=Адамантовая кирка
+item.adamantium_axe.name=Адамантовый топор
+item.adamantium_shovel.name=Адамантовая лопата
+item.adamantium_sword.name=Адамантовый меч
+item.adamantium_hoe.name=Адамантовая мотыга
+item.onyx_pickaxe.name=Ониксовая кирка
+item.onyx_axe.name=Ониксовый топор
+item.onyx_shovel.name=Ониксовая лопата
+item.onyx_sword.name=Ониксовый меч
+item.onyx_hoe.name=Ониксовая мотыга
+item.mythril_bow.name=Мифриловый лук
+item.onyx_bow.name=Ониксовый лук
+item.tin_shears.name=Оловянные ножницы
+item.adamantium_shears.name=Адамантовые ножницы
+item.onyx_shears.name=Ониксовые ножницы
+
+//Armor
+item.copper_helmet.name=Медный шлем
+item.copper_chestplate.name=Медная кираса
+item.copper_leggings.name=Медные поножи
+item.copper_boots.name=Медные ботинки
+item.tin_helmet.name=Оловянный шлем
+item.tin_chestplate.name=Оловянная кираса
+item.tin_leggings.name=Оловянные поножи
+item.tin_boots.name=Оловянные ботинки
+item.mythril_helmet.name=Мифриловый шлем
+item.mythril_chestplate.name=Мифриловая кираса
+item.mythril_leggings.name=Мифриловые поножи
+item.mythril_boots.name=Мифриловые ботинки
+item.adamantium_helmet.name=Адамантовый шлем
+item.adamantium_chestplate.name=Адамантовая кираса
+item.adamantium_leggings.name=Адамантовые поножи
+item.adamantium_boots.name=Адамантовые ботинки
+item.onyx_helmet.name=Ониксовый шлем
+item.onyx_chestplate.name=Ониксовая кираса
+item.onyx_leggings.name=Ониксовые поножи
+item.onyx_boots.name=Ониксовые ботинки
+
+//Achievements
+achievement.simpleOresAch=Добро пожаловать в SimpleOres!
+achievement.simpleOresAch.desc=Начните свои SimpleOres приключения, собрав немного меди.
+achievement.adamantiumAch=Зелёная руда
+achievement.adamantiumAch.desc=Копайте глубоко, чтобы найти немного адамантия
+achievement.onyxAch=Замаскированная руда
+achievement.onyxAch.desc=Удачи в поисках
+achievement.ironPickAch=Улучшение MK II
+achievement.ironPickAch.desc=Постройте и железная кирка
+achievement.adamantiumPickAch=Молниеносный!
+achievement.adamantiumPickAch.desc=Сделайте адамантовую кирку, чтобы копать быстрее, чем когда-либо
+achievement.onyxPickAch=Неразрушимая
+achievement.onyxPickAch.desc=Велик шанс, что она переживёт вас
+achievement.mythrilBowAch=Мистический лук
+achievement.mythrilBowAch.desc=Изобретите новый лук с магическими свойствами
+achievement.onyxBowAch=Поджигатель
+achievement.onyxBowAch.desc=Подожгите Ваших врагов этим луком из ада
+
+//Tab Names
+itemGroup.tabSimpleBlocks=SimpleOres: Блоки
+itemGroup.tabSimpleDecorations=SimpleOres: Декорации
+itemGroup.tabSimpleTools=SimpleOres: Инструменты
+itemGroup.tabSimpleCombat=SimpleOres: Оружие
+itemGroup.tabSimpleMaterials=SimpleOres: Материалы
+
+//Bow Tooltips
+tips.damageTooltip=+Урон
+tips.flameTooltip=+Поджигание
+tips.knockbackTooltip=+Отбрасывание
+tips.zoomTooltip=+Точность
+tips.efficiencyTooltip=+Эффективность
+
+//Updater
+simpleores.updateMessage1=§3Мод SimpleOres §rустарел. Последняя версия: §c
+simpleores.updateMessage2=§r. Пожалуйста, обновитесь по ссылке §9http://bit.ly/SimpleOres

@@ -36,13 +36,13 @@ Link: http://goo.gl/kuIBs7
 Status: Not yet started.
 
 
-- [ ] Mod Name(s): Mo' Creatures
+- [x] Mod Name(s): Mo' Creatures
 
 Author(s): DrZhark, bloodshot45
 
 Link: http://goo.gl/SXS13U
 
-Status: Not yet started.
+Status: Done.
 
 
 - [ ] Mod Name(s): Enhanced Biomes
@@ -160,3 +160,12 @@ Author(s): Binnie
 Link: http://goo.gl/NC2Sl6
 
 Status: Not yet started. No 1.7.10 builds.
+
+
+- [ ] Mod Name(s): Better Archery
+
+Author(s): Zaggy1024
+
+Link: http://goo.gl/D9stnc
+
+Status: Not yet started. Only in 1.8.x
