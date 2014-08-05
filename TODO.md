@@ -126,28 +126,37 @@ Link: http://goo.gl/wxSyEI
 Status: No localization support yet. No 1.7.10 builds.
 
 
-- [ ] Mod Name(s): Placeholder
+- [ ] Mod Name(s): Magical Crops
 
-Author(s): Placeholder
+Author(s): Mark719
 
-Link: Placeholder
+Link: http://goo.gl/lbMrrN
+
+Status: No localization support yet. No 1.7.10 builds.
+
+
+- [ ] Mod Name(s): QuiverBow
+
+Author(s): Domochevsky
+
+Link: http://goo.gl/p75kTz
+
+Status: Not yet started.
+
+
+- [ ] Mod Name(s): Ivorius' Mods
+
+Author(s): Ivorius
+
+Link: http://goo.gl/8HMYcH
 
 Status: Not yet started.
 
 
-- [ ] Mod Name(s): Placeholder
+- [ ] Mod Name(s): Extra Bees and Trees
 
-Author(s): Placeholder
+Author(s): Binnie
 
-Link: Placeholder
+Link: http://goo.gl/NC2Sl6
 
-Status: Not yet started.
-
-
-- [ ] Mod Name(s): Placeholder
-
-Author(s): Placeholder
-
-Link: Placeholder
-
-Status: Not yet started.
+Status: Not yet started. No 1.7.10 builds.
