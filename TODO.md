@@ -1,10 +1,10 @@
-- [ ] Mod Name(s): The Farlanders
+- [x] Mod Name(s): The Farlanders
 
 Author(s): Fabiulu
 
 Link: http://goo.gl/v1RZhu
 
-Status: Not yet started.
+Status: Done.
 
 
 - [ ] Mod Name(s): Reika's Mods
@@ -45,13 +45,13 @@ Link: http://goo.gl/SXS13U
 Status: Done.
 
 
-- [ ] Mod Name(s): Enhanced Biomes
+- [x] Mod Name(s): Enhanced Biomes
 
 Author(s): SMEZ1234
 
 Link: http://goo.gl/cRi2DP
 
-Status: Not yet started.
+Status: Done.
 
 
 - [ ] Mod Name(s): Eternal Isles
@@ -87,16 +87,16 @@ Author(s): MineMaarten
 
 Link: http://goo.gl/pT93oo
 
-Status: Not yet started.
+Status: Work In Progress.
 
 
-- [ ] Mod Name(s): Better Furnaces Mod
+- [x] Mod Name(s): Better Furnaces Mod
 
 Author(s): TheFrogMC
 
 Link: http://goo.gl/4FL1cy
 
-Status: No localization support yet. When(if) rise up.
+Status: Done.
 
 
 - [ ] Mod Name(s): CubeX2's Mods
@@ -169,3 +169,21 @@ Author(s): Zaggy1024
 Link: http://goo.gl/D9stnc
 
 Status: Not yet started. Only in 1.8.x
+
+
+- [ ] Mod Name(s): Mad Science
+
+Author(s): Mad Science Team
+
+Link: http://goo.gl/QLxnHu
+
+Status: Not yet started. No 1.7.x support.
+
+
+- [ ] Mod Name(s): Animal Bikes
+
+Author(s): Noppes
+
+Link: http://goo.gl/1kbscV
+
+Status: Not yet started.

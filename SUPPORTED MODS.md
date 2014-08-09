@@ -122,3 +122,30 @@ Author(s): AleXndrTheGr8st
 Link: http://goo.gl/WMcjUR
 
 Status: Not yet sent.
+
+
+- Mod Name(s): The Farlanders
+
+Author(s): Fabiulu
+
+Link: http://goo.gl/v1RZhu
+
+Status: Not yet sent.
+
+
+- Mod Name(s): Better Furnaces Mod
+
+Author(s): TheFrogMC
+
+Link: http://goo.gl/4FL1cy
+
+Status: Not yet sent.
+
+
+- Mod Name(s): Enhanced Biomes
+
+Author(s): SMEZ1234
+
+Link: http://goo.gl/cRi2DP
+
+Status: Not yet sent.
