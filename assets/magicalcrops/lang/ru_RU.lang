@@ -1,0 +1,360 @@
+tile.EssenceOre.name=Руда эссенции
+
+tile.EssenceTorch.name=Факел из эссенции
+
+tile.MagicCropCoal.name=Ростки угля
+tile.MagicCropEssence.name=Ростки эссенции
+tile.MagicCropDye.name=Ростки красителя
+tile.MagicCropRedstone.name=Ростки красного камня
+tile.MagicCropGlowstone.name=Ростки светящегося камня
+tile.MagicCropObsidian.name=Ростки обсидиана
+tile.MagicCropIron.name=Ростки железа
+tile.MagicCropGold.name=Ростки золота
+tile.MagicCropLapis.name=Ростки лазурита
+tile.MagicCropEnder.name=Ростки Края
+tile.MagicCropNether.name=Ростки Нижнего мира
+tile.MagicCropExperience.name=Ростки опыта
+tile.MagicCropBlaze.name=Пламенные ростки
+tile.MagicCropDiamond.name=Ростки алмаза
+tile.MagicCropEmerald.name=Ростки изумруда
+
+tile.ElementCropAir.name=Ростки воздуха
+tile.ElementCropWater.name=Ростки воды
+tile.ElementCropEarth.name=Ростки земли
+tile.ElementCropFire.name=Ростки огня
+
+tile.ModMagicCropCopper.name=Ростки меди
+tile.ModMagicCropTin.name=Ростки олова
+tile.ModMagicCropSilver.name=Ростки серебра
+tile.ModMagicCropLead.name=Ростки свинца
+tile.ModMagicCropQuartz.name=Ростки истинного кварца
+tile.ModMagicCropSapphire.name=Ростки сапфира
+tile.ModMagicCropRuby.name=Ростки рубина
+tile.ModMagicCropPeridot.name=Ростки оливина
+tile.ModMagicCropAlumin.name=Ростки алюминия
+tile.ModMagicCropForce.name=Силовые ростки
+tile.ModMagicCropCobalt.name=Ростки кобальта
+tile.ModMagicCropArdite.name=Ростки ардита
+tile.ModMagicCropNickel.name=Ростки никеля
+tile.ModMagicCropPlatinum.name=Ростки платины
+tile.ModMagicCropThaumcraftShard.name=Ростки наполненного осколка
+tile.ModMagicCropUranium.name=Ростки урана
+tile.ModMagicCropOil.name=Ростки нефти
+tile.ModMagicCropRubber.name=Ростки резины
+tile.ModMagicCropVinteum.name=Ростки винтеума
+tile.ModMagicCropBlueTopaz.name=Ростки синего топаза
+tile.ModMagicCropChimerite.name=Ростки химерита
+tile.ModMagicCropMoonstone.name=Ростки лунного камня
+tile.ModMagicCropSunstone.name=Ростки солнечного камня
+tile.ModMagicCropIridium.name=Ростки иридия
+tile.ModMagicCropYellorite.name=Ростки йелорита
+tile.ModMagicCropOsmium.name=Ростки осмия
+tile.ModMagicCropManganese.name=Ростки марганца
+tile.ModMagicCropSulfur.name=Ростки серы
+tile.ModMagicCropDarkiron.name=Ростки тёмного железа
+
+tile.SoulCropCow.name=Ростки души коровы
+tile.SoulCropCreeper.name=Ростки души крипера
+tile.SoulCropMagma.name=Ростки души магмового куба
+tile.SoulCropSkeleton.name=Ростки души скелета
+tile.SoulCropSlime.name=Ростки души слизня
+tile.SoulCropSpider.name=Ростки души паука
+tile.SoulCropGhast.name=Ростки души гаста
+tile.SoulCropWither.name=Ростки души иссушителя
+
+tile.PotionCropFire.name=Ростки огнестойкости
+tile.PotionCropWater.name=Ростки подводного дыхания
+tile.PotionCropStrength.name=Ростки силы
+tile.PotionCropRegen.name=Ростки регенерации
+tile.PotionCropNight.name=Ростки ночного зрения
+tile.PotionCropSpeed.name=Ростки скорости
+
+tile.CropBlackberry.name=Ростки ежевики
+tile.CropBlueberry.name=Ростки черники
+tile.CropChili.name=Ростки перца чили
+tile.CropCucumber.name=Ростки огурца
+tile.CropGrape.name=Ростки винограда
+tile.CropRaspberry.name=Ростки малины
+tile.CropStrawberry.name=Ростки клубники
+tile.CropSugarCane.name=Ростки сахарного тростника
+tile.CropSweetcorn.name=Ростки сахарной кукурузы
+tile.CropTomato.name=Ростки томата
+
+item.MagicEssence.dust.name=Пыль эссенции
+item.MagicEssence.weak.name=Слабая эссенция
+item.MagicEssence.regular.name=Обычная эссенция
+item.MagicEssence.strong.name=Сильная эссенция
+item.MagicEssence.extreme.name=Очень сильная эссенция
+
+item.InfusionStone.weak.name=Слабый камень наполнения
+item.InfusionStone.regular.name=Обычный камень наполнения
+item.InfusionStone.strong.name=Сильный камень наполнения
+item.InfusionStone.extreme.name=Очень сильный камень наполнения
+item.InfusionStone.master.name=Мастерский камень наполнения
+
+item.ExperienceDrop.name=Капля опыта
+
+item.MagicalCropFertilizer.name=Магическое удобрение
+
+item.CropEssence.nature.name=Эссенция природы
+item.CropEssence.redstone.name=Эссенция красного камня
+item.CropEssence.glowstone.name=Эссенция светящегося камня
+item.CropEssence.diamond.name=Эссенция алмаза
+item.CropEssence.iron.name=Эссенция железа
+item.CropEssence.gold.name=Эссенция золота
+item.CropEssence.lapis.name=Эссенция лазурита
+item.CropEssence.blaze.name=Пламенная эссенция
+item.CropEssence.emerald.name=Эссенция изумруда
+item.CropEssence.ender.name=Эссенция Края
+item.CropEssence.obsidian.name=Эссенция обсидиана
+item.CropEssence.coal.name=Эссенция угля
+item.CropEssence.experience.name=Эссенция опыта
+item.CropEssence.dye.name=Эссенция красителя
+item.CropEssence.nether.name=Эссенция Нижнего мира
+
+item.ElementEssence.air.name=Эссенция воздуха
+item.ElementEssence.water.name=Эссенция воды
+item.ElementEssence.earth.name=Эссенция земли
+item.ElementEssence.fire.name=Эссенция огня
+
+item.ModCropEssence.copper.name=Эссенция меди
+item.ModCropEssence.tin.name=Эссенция олова
+item.ModCropEssence.silver.name=Эссенция серебра
+item.ModCropEssence.lead.name=Эссенция свинца
+item.ModCropEssence.quartz.name=Эссенция истинного кварца
+item.ModCropEssence.sapphire.name=Эссенция сапфира
+item.ModCropEssence.ruby.name=Эссенция рубина
+item.ModCropEssence.peridot.name=Эссенция оливина
+item.ModCropEssence.alumin.name=Эссенция алюминия
+item.ModCropEssence.force.name=Силовая эссенция
+item.ModCropEssence.cobalt.name=Эссенция кобальта
+item.ModCropEssence.ardite.name=Эссенция ардита
+item.ModCropEssence.nickel.name=Эссенция никеля
+item.ModCropEssence.platinum.name=Эссенция платины
+item.ModCropEssence.thaumcraft.name=Эссенция осколков
+item.ModCropEssence.uranium.name=Эссенция урана
+item.ModCropEssence.oil.name=Эссенция нефти
+item.ModCropEssence.rubber.name=Эссенция резины
+item.ModCropEssence.vinteum.name=Эссенция винтеума
+item.ModCropEssence.bluetopaz.name=Эссенция синего топаза
+item.ModCropEssence.chimerite.name=Эссенция химерита
+item.ModCropEssence.moonstone.name=Эссенция лунного камня
+item.ModCropEssence.sunstone.name=Эссенция солнечного камня
+item.ModCropEssence.iridium.name=Эссенция иридия
+item.ModCropEssence.yellorite.name=Эссенция йелорита
+item.ModCropEssence.osmium.name=Эссенция осмия
+item.ModCropEssence.manganese.name=Эссенция марганца
+item.ModCropEssence.sulfur.name=Эссенция серы
+item.ModCropEssence.darkiron.name=Эссенция тёмного железа
+
+item.SoulEssence.cow.name=Эссенция коровы
+item.SoulEssence.creeper.name=Эссенция крипера
+item.SoulEssence.magma.name=Эссенция магмового куба
+item.SoulEssence.skeleton.name=Эссенция скелета
+item.SoulEssence.slime.name=Эссенция слизня
+item.SoulEssence.spider.name=Эссенция паука
+item.SoulEssence.ghast.name=Эссенция гаста
+item.SoulEssence.wither.name=Эссенция иссушителя
+
+item.PotionPetals.petalFire.name=Лепесток огнестойкости
+item.PotionPetals.petalWater.name=Лепесток подводного дыхания
+item.PotionPetals.petalStrength.name=Лепесток силы
+item.PotionPetals.petalRegen.name=Лепесток регенерации
+item.PotionPetals.petalNight.name=Лепесток ночного зрения
+
+item.PotionPetals.petalSpeedWeak.name=Лепесток скорости
+item.PotionPetals.potionFireWeak.name=Зелье огнестойкости
+item.PotionPetals.potionWaterWeak.name=Зелье подводного дыхания
+item.PotionPetals.potionStrengthWeak.name=Зелье силы II
+item.PotionPetals.potionRegenWeak.name=Зелье регенерации
+item.PotionPetals.potionNightWeak.name=Зелье ночного зрения
+item.PotionPetals.potionSpeedWeak.name=Зелье скорости
+item.PotionPetals.potionMagicalWeak.name=Магическое зелье
+
+item.PotionPetals.petalSpeedRegular.name=Лепесток скорости
+item.PotionPetals.potionFireRegular.name=Зелье огнестойкости
+item.PotionPetals.potionWaterRegular.name=Зелье подводного дыхания
+item.PotionPetals.potionStrengthRegular.name=Зелье силы II
+item.PotionPetals.potionRegenRegular.name=Зелье регенерации
+item.PotionPetals.potionNightRegular.name=Зелье ночного зрения
+item.PotionPetals.potionSpeedRegular.name=Зелье скорости
+item.PotionPetals.potionMagicalRegular.name=Магическое зелье
+
+item.PotionPetals.petalSpeedStrong.name=Лепесток скорости
+item.PotionPetals.potionFireStrong.name=Зелье огнестойкости
+item.PotionPetals.potionWaterStrong.name=Зелье подводного дыхания
+item.PotionPetals.potionStrengthStrong.name=Зелье силы II
+item.PotionPetals.potionRegenStrong.name=Зелье регенерации
+item.PotionPetals.potionNightStrong.name=Зелье ночного зрения
+item.PotionPetals.potionSpeedStrong.name=Зелье скорости
+item.PotionPetals.potionMagicalStrong.name=Магическое зелье
+
+item.PotionPetals.petalSpeedExtreme.name=Лепесток скорости
+item.PotionPetals.potionFireExtreme.name=Зелье огнестойкости
+item.PotionPetals.potionWaterExtreme.name=Зелье подводного дыхания
+item.PotionPetals.potionStrengthExtreme.name=Зелье силы II
+item.PotionPetals.potionRegenExtreme.name=Зелье регенерации
+item.PotionPetals.potionNightExtreme.name=Зелье ночного зрения
+item.PotionPetals.potionSpeedExtreme.name=Зелье скорости
+item.PotionPetals.potionMagicalExtreme.name=Магическое зелье
+
+item.MagicSeedsEssence.name=Семена эссенции
+item.MagicSeedsCoal.name=Семена угля
+item.MagicSeedsDye.name=Семена красителя
+item.MagicSeedsRedstone.name=Семена красного камня
+item.MagicSeedsGlowstone.name=Семена светящегося камня
+item.MagicSeedsObsidian.name=Семена обсидиана
+item.MagicSeedsIron.name=Семена железа
+item.MagicSeedsGold.name=Семена золота
+item.MagicSeedsLapis.name=Семена лазурита
+item.MagicSeedsEnder.name=Семена Края
+item.MagicSeedsNether.name=Семена Нижнего мира
+item.MagicSeedsExperience.name=Семена опыта
+item.MagicSeedsBlaze.name=Пламенные семена
+item.MagicSeedsDiamond.name=Семена алмаза
+item.MagicSeedsEmerald.name=Семена изумруда
+
+item.ElementSeedsAir.name=Семена воздуха
+item.ElementSeedsWater.name=Семена воды
+item.ElementSeedsEarth.name=Семена земли
+item.ElementSeedsFire.name=Семена огня
+
+item.ModMagicSeedsCopper.name=Семена меди
+item.ModMagicSeedsTin.name=Семена олова
+item.ModMagicSeedsSilver.name=Семена серебра
+item.ModMagicSeedsLead.name=Семена свинца
+item.ModMagicSeedsQuartz.name=Семена истинного кварца
+item.ModMagicSeedsSapphire.name=Семена сапфира
+item.ModMagicSeedsRuby.name=Семена рубина
+item.ModMagicSeedsPeridot.name=Семена оливина
+item.ModMagicSeedsAlumin.name=Семена алюминия
+item.ModMagicSeedsForce.name=Силовое семена
+item.ModMagicSeedsCobalt.name=Семена кобальта
+item.ModMagicSeedsArdite.name=Семена ардита
+item.ModMagicSeedsNickel.name=Семена никеля
+item.ModMagicSeedsPlatinum.name=Семена платины
+item.ModMagicSeedsThaumcraftShard.name=Семена наполненного осколка
+item.ModMagicSeedsUranium.name=Семена урана
+item.ModMagicSeedsOil.name=Семена нефти
+item.ModMagicSeedsRubber.name=Семена резины
+item.ModMagicSeedsVinteum.name=Семена винтеума
+item.ModMagicSeedsBlueTopaz.name=Семена синего топаза
+item.ModMagicSeedsChimerite.name=Семена химерита
+item.ModMagicSeedsMoonstone.name=Семена лунного камня
+item.ModMagicSeedsSunstone.name=Семена солнечного камня
+item.ModMagicSeedsIridium.name=Семена иридия
+item.ModMagicSeedsYellorite.name=Семена йелорита
+item.ModMagicSeedsOsmium.name=Семена осмия
+item.ModMagicSeedsManganese.name=Семена марганца
+item.ModMagicSeedsSulfur.name=Семена серы
+item.ModMagicSeedsDarkiron.name=Семена тёмного железа
+
+item.SoulSeedsCow.name=Семена души коровы
+item.SoulSeedsCreeper.name=Семена души крипера
+item.SoulSeedsMagma.name=Семена души магмового куба
+item.SoulSeedsSkeleton.name=Семена души скелета
+item.SoulSeedsSlime.name=Семена души слизня
+item.SoulSeedsSpider.name=Семена души паука
+item.SoulSeedsGhast.name=Семена души гаста
+item.SoulSeedsWither.name=Семена души иссушителя
+
+item.PotionSeedsFire.name=Семена огнестойкости
+item.PotionSeedsNight.name=Семена ночного зрения
+item.PotionSeedsRegen.name=Семена регенерации
+item.PotionSeedsStrength.name=Семена силы
+item.PotionSeedsWater.name=Семена подводного дыхания
+item.PotionSeedsSpeed.name=Семена скорости
+
+item.SeedsBlackberry.name=Семена ежевики
+item.SeedsBlueberry.name=Семена черники
+item.SeedsChili.name=Семена перца чили
+item.SeedsCucumber.name=Семена огурца
+item.SeedsGrape.name=Семена винограда
+item.SeedsRaspberry.name=Семена малины
+item.SeedsStrawberry.name=Семена клубники
+item.SeedsSugarCane.name=Семена сахарного тростника
+item.SeedsSweetcorn.name=Семена сахарной кукурузы
+item.SeedsTomato.name=Семена томата
+
+item.infusedIngotHelmet.name=Шлем наполненный эссенцией
+item.infusedIngotPlatebody.name=Кираса наполненная эссенцией
+item.infusedIngotLeggings.name=Поножи наполненные эссенцией
+item.infusedIngotBoots.name=Ботинки наполненные эссенцией
+
+item.infusedHelmet.name=Шлем наполненный эссенцией
+item.infusedPlatebody.name=Кираса наполненная эссенцией
+item.infusedLeggings.name=Поножи наполненные эссенцией
+item.infusedBoots.name=Ботинки наполненные эссенцией
+
+item.infusedHelmetEpic.name=Шлем наполненный эссенцией
+item.infusedPlatebodyEpic.name=Кираса наполненная эссенцией
+item.infusedLeggingsEpic.name=Поножи наполненные эссенцией
+item.infusedBootsEpic.name=Ботинки наполненные эссенцией
+
+item.infusedHelmetEpicFlight.name=Шлем наполненный эссенцией
+item.infusedPlatebodyEpicFlight.name=Кираса наполненная эссенцией
+item.infusedLeggingsEpicFlight.name=Поножи наполненные эссенцией
+item.infusedBootsEpicFlight.name=Ботинки наполненные эссенцией
+
+item.InfusedT1Pickaxe.name=Кирка наполненная эссенцией
+item.InfusedT1Sword.name=Меч наполненный эссенцией
+item.InfusedT1Axe.name=Топор наполненный эссенцией
+item.InfusedT1Shovel.name=Лопата наполненная эссенцией
+
+item.InfusedT2Pickaxe.name=Кирка наполненная эссенцией
+item.InfusedT2Sword.name=Меч наполненный эссенцией
+item.InfusedT2Axe.name=Топор наполненный эссенцией
+item.InfusedT2Shovel.name=Лопата наполненная эссенцией
+
+item.InfusedT3Pickaxe.name=Кирка наполненная эссенцией
+item.InfusedT3Sword.name=Меч наполненный эссенцией
+item.InfusedT3Axe.name=Топор наполненный эссенцией
+item.InfusedT3Shovel.name=Лопата наполненная эссенцией
+item.InfusedT3Hoe.name=Мотыга наполненная эссенцией
+item.InfusedT3Bow.name=Лук наполненный эссенцией
+
+item.ArmourMaterials.infusedDiamond.name=Наполненный алмаз
+item.ArmourMaterials.infusedIngot.name=Наполненный слиток
+item.ArmourMaterials.infusedFeather.name=Наполненное перо
+item.ArmourMaterials.infusedString.name=Наполненная нить
+
+item.Charms.witherCharm.name=Амулет иссушения
+item.Charms.poisonCharm.name=Амулет отравления
+item.Charms.fireCharm.name=Амулет пламени
+item.Charms.waterCharm.name=Амулет океана
+item.Charms.baseCharm.name=Основной амулет
+
+item.EssenceOrb.name=Шар эссенции [WIP]
+item.JuiceSqueezer.name=Соковыжималка
+
+item.CropProduce.blackberry.name=Ежевика
+item.CropProduce.blueberry.name=Черника
+item.CropProduce.chili.name=Перец чили
+item.CropProduce.cucumber.name=Огурец
+item.CropProduce.grape.name=Виноград
+item.CropProduce.raspberry.name=Малина
+item.CropProduce.strawberry.name=Клубника
+item.CropProduce.sweetcorn.name=Сахарная кукуруза
+item.CropProduce.tomato.name=Помидор
+item.MagicalFood.name=Магическая еда
+
+item.FoodJuice.apple.name=Яблочный сок
+item.FoodJuice.blackberry.name=Ежевичный сок
+item.FoodJuice.blueberry.name=Черничный сок
+item.FoodJuice.carrot.name=Морковный сок
+item.FoodJuice.grape.name=Виноградный сок
+item.FoodJuice.raspberry.name=Малиновый сок
+item.FoodJuice.strawberry.name=Клубничный сок
+item.FoodJuice.tomato.name=Томатный сок
+item.FoodJuice.watermelon.name=Арбузный сок
+
+item.FoodStew.stewBeef.name=Рагу из говядины
+item.FoodStew.stewChicken.name=Куриное рагу
+item.FoodStew.stewLamb.name=Рагу из баранины
+item.FoodStew.stewPork.name=Свиное рагу
+
+item.RawMeat.rawLamb.name=Сырая баранина
+item.RawMeat.rawSquid.name=Сырые кальмары
+
+item.CookedMeat.cookedLamb.name=Приготовленная баранина
+item.CookedMeat.cookedSquid.name=Приготовленные кальмары

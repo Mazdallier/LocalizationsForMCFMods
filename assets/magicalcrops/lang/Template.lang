@@ -1,0 +1,360 @@
+tile.EssenceOre.name=Essence Ore
+
+tile.EssenceTorch.name=Essence Torch
+
+tile.MagicCropCoal.name=Coal Crop
+tile.MagicCropEssence.name=Essence Crop
+tile.MagicCropDye.name=Dye Crop
+tile.MagicCropRedstone.name=Redstone Crop
+tile.MagicCropGlowstone.name=Glowstone Crop
+tile.MagicCropObsidian.name=Obsidian Crop
+tile.MagicCropIron.name=Iron Crop
+tile.MagicCropGold.name=Gold Crop
+tile.MagicCropLapis.name=Lapis Lazuli Crop
+tile.MagicCropEnder.name=Ender Crop
+tile.MagicCropNether.name=Nether Crop
+tile.MagicCropExperience.name=Experience Crop
+tile.MagicCropBlaze.name=Blaze Crop
+tile.MagicCropDiamond.name=Diamond Crop
+tile.MagicCropEmerald.name=Emerald Crop
+
+tile.ElementCropAir.name=Air Crop
+tile.ElementCropWater.name=Water Crop
+tile.ElementCropEarth.name=Earth Crop
+tile.ElementCropFire.name=Fire Crop
+
+tile.ModMagicCropCopper.name=Copper Crop
+tile.ModMagicCropTin.name=Tin Crop
+tile.ModMagicCropSilver.name=Silver Crop
+tile.ModMagicCropLead.name=Lead Crop
+tile.ModMagicCropQuartz.name=Certus Quartz Crop
+tile.ModMagicCropSapphire.name=Sapphire Crop
+tile.ModMagicCropRuby.name=Ruby Crop
+tile.ModMagicCropPeridot.name=Peridot Crop
+tile.ModMagicCropAlumin.name=Aluminium Crop
+tile.ModMagicCropForce.name=Force Crop
+tile.ModMagicCropCobalt.name=Cobalt Crop
+tile.ModMagicCropArdite.name=Ardite Crop
+tile.ModMagicCropNickel.name=Nickel Crop
+tile.ModMagicCropPlatinum.name=Platinum Crop
+tile.ModMagicCropThaumcraftShard.name=Infused Shard Crop
+tile.ModMagicCropUranium.name=Uranium Crop
+tile.ModMagicCropOil.name=Oil Crop
+tile.ModMagicCropRubber.name=Rubber Crop
+tile.ModMagicCropVinteum.name=Vinteum Crop
+tile.ModMagicCropBlueTopaz.name=Bluetopaz Crop
+tile.ModMagicCropChimerite.name=Chimerite Crop
+tile.ModMagicCropMoonstone.name=Moonstone Crop
+tile.ModMagicCropSunstone.name=Sunstone Crop
+tile.ModMagicCropIridium.name=Iridium Crop
+tile.ModMagicCropYellorite.name=Yellorite Crop
+tile.ModMagicCropOsmium.name=Osmium Crop
+tile.ModMagicCropManganese.name=Manganese Crop
+tile.ModMagicCropSulfur.name=Sulfur Crop
+tile.ModMagicCropDarkiron.name=Dark Iron Crop
+
+tile.SoulCropCow.name=Cow Soul Crop
+tile.SoulCropCreeper.name=Creeper Soul Crop
+tile.SoulCropMagma.name=Magma Soul Crop
+tile.SoulCropSkeleton.name=Skeleton Soul Crop
+tile.SoulCropSlime.name=Slime Soul Crop
+tile.SoulCropSpider.name=Spider Soul Crop
+tile.SoulCropGhast.name=Ghast Soul Crop
+tile.SoulCropWither.name=Wither Soul Crop
+
+tile.PotionCropFire.name=Fire Resistance Crop
+tile.PotionCropWater.name=Water Breathing Crop
+tile.PotionCropStrength.name=Strength Crop
+tile.PotionCropRegen.name=Regeneration Crop
+tile.PotionCropNight.name=Night Vision Crop
+tile.PotionCropSpeed.name=Speed Crop
+
+tile.CropBlackberry.name=Blackberry Crop
+tile.CropBlueberry.name=Blueberry Crop
+tile.CropChili.name=Chili Crop
+tile.CropCucumber.name=Cucumber Crop
+tile.CropGrape.name=Grape Crop
+tile.CropRaspberry.name=Raspberry Crop
+tile.CropStrawberry.name=Strawberry Crop
+tile.CropSugarCane.name=Sugar Cane Crop
+tile.CropSweetcorn.name=Sweetcorn Crop
+tile.CropTomato.name=Tomato Crop
+
+item.MagicEssence.dust.name=Essence Dust
+item.MagicEssence.weak.name=Weak Essence
+item.MagicEssence.regular.name=Regular Essence
+item.MagicEssence.strong.name=Strong Essence
+item.MagicEssence.extreme.name=Extreme Essence
+
+item.InfusionStone.weak.name=Weak Infusion Stone
+item.InfusionStone.regular.name=Regular Infusion Stone
+item.InfusionStone.strong.name=Strong Infusion Stone
+item.InfusionStone.extreme.name=Extreme Infusion Stone
+item.InfusionStone.master.name=Master Infusion Stone
+
+item.ExperienceDrop.name=Experience Drop
+
+item.MagicalCropFertilizer.name=Magical Fertiliser
+
+item.CropEssence.nature.name=Essence of Nature
+item.CropEssence.redstone.name=Essence of Redstone
+item.CropEssence.glowstone.name=Essence of Glowstone
+item.CropEssence.diamond.name=Essence of Diamond
+item.CropEssence.iron.name=Essence of Iron
+item.CropEssence.gold.name=Essence of Gold
+item.CropEssence.lapis.name=Essence of Lapis Lazuli
+item.CropEssence.blaze.name=Essence of Blaze
+item.CropEssence.emerald.name=Essence of Emerald
+item.CropEssence.ender.name=Essence of Ender
+item.CropEssence.obsidian.name=Essence of Obsidian
+item.CropEssence.coal.name=Essence of Coal
+item.CropEssence.experience.name=Essence of Experience
+item.CropEssence.dye.name=Essence of Dye
+item.CropEssence.nether.name=Essence of Nether
+
+item.ElementEssence.air.name=Essence of Air
+item.ElementEssence.water.name=Essence of Water
+item.ElementEssence.earth.name=Essence of Earth
+item.ElementEssence.fire.name=Essence of Fire
+
+item.ModCropEssence.copper.name=Essence of Copper
+item.ModCropEssence.tin.name=Essence of Tin
+item.ModCropEssence.silver.name=Essence of Silver
+item.ModCropEssence.lead.name=Essence of Lead
+item.ModCropEssence.quartz.name=Essence of Certus Quartz
+item.ModCropEssence.sapphire.name=Essence of Sapphire
+item.ModCropEssence.ruby.name=Essence of Ruby
+item.ModCropEssence.peridot.name=Essence of Peridot
+item.ModCropEssence.alumin.name=Essence of Aluminium
+item.ModCropEssence.force.name=Essence of Force
+item.ModCropEssence.cobalt.name=Essence of Cobalt
+item.ModCropEssence.ardite.name=Essence of Ardite
+item.ModCropEssence.nickel.name=Essence of Nickel
+item.ModCropEssence.platinum.name=Essence of Platinum
+item.ModCropEssence.thaumcraft.name=Essence of Shards
+item.ModCropEssence.uranium.name=Essence of Uranium
+item.ModCropEssence.oil.name=Essence of Oil
+item.ModCropEssence.rubber.name=Essence of Rubber
+item.ModCropEssence.vinteum.name=Essence of Vinteum
+item.ModCropEssence.bluetopaz.name=Essence of Bluetopaz
+item.ModCropEssence.chimerite.name=Essence of Chimerite
+item.ModCropEssence.moonstone.name=Essence of Moonstone
+item.ModCropEssence.sunstone.name=Essence of Sunstone
+item.ModCropEssence.iridium.name=Essence of Iridium
+item.ModCropEssence.yellorite.name=Essence of Yellorite
+item.ModCropEssence.osmium.name=Essence of Osmium
+item.ModCropEssence.manganese.name=Essence of Manganese
+item.ModCropEssence.sulfur.name=Essence of Sulfur
+item.ModCropEssence.darkiron.name=Essence of Dark Iron
+
+item.SoulEssence.cow.name=Essence of the Cow
+item.SoulEssence.creeper.name=Essence of the Creeper
+item.SoulEssence.magma.name=Essence of the Magama
+item.SoulEssence.skeleton.name=Essence of the Skeleton
+item.SoulEssence.slime.name=Essence of the Slime
+item.SoulEssence.spider.name=Essence of the Spider
+item.SoulEssence.ghast.name=Essence of the Ghast
+item.SoulEssence.wither.name=Essence of the Wither
+
+item.PotionPetals.petalFire.name=Fire Resistance Petal
+item.PotionPetals.petalWater.name=Water Breathing Petal
+item.PotionPetals.petalStrength.name=Strength Petal
+item.PotionPetals.petalRegen.name=Regeneration Petal
+item.PotionPetals.petalNight.name=Night Vision Petal
+
+item.PotionPetals.petalSpeedWeak.name=Speed Petal
+item.PotionPetals.potionFireWeak.name=Fire Resistance Potion
+item.PotionPetals.potionWaterWeak.name=Water Breathing Potion
+item.PotionPetals.potionStrengthWeak.name=Strength II Potion
+item.PotionPetals.potionRegenWeak.name=Regeneration Potion
+item.PotionPetals.potionNightWeak.name=Night Vision Potion
+item.PotionPetals.potionSpeedWeak.name=Speed Potion
+item.PotionPetals.potionMagicalWeak.name=Magical Potion
+
+item.PotionPetals.petalSpeedRegular.name=Speed Petal
+item.PotionPetals.potionFireRegular.name=Fire Resistance Potion
+item.PotionPetals.potionWaterRegular.name=Water Breathing Potion
+item.PotionPetals.potionStrengthRegular.name=Strength II Potion
+item.PotionPetals.potionRegenRegular.name=Regeneration Potion
+item.PotionPetals.potionNightRegular.name=Night Vision Potion
+item.PotionPetals.potionSpeedRegular.name=Speed Potion
+item.PotionPetals.potionMagicalRegular.name=Magical Potion
+
+item.PotionPetals.petalSpeedStrong.name=Speed Petal
+item.PotionPetals.potionFireStrong.name=Fire Resistance Potion
+item.PotionPetals.potionWaterStrong.name=Water Breathing Potion
+item.PotionPetals.potionStrengthStrong.name=Strength II Potion
+item.PotionPetals.potionRegenStrong.name=Regeneration Potion
+item.PotionPetals.potionNightStrong.name=Night Vision Potion
+item.PotionPetals.potionSpeedStrong.name=Speed Potion
+item.PotionPetals.potionMagicalStrong.name=Magical Potion
+
+item.PotionPetals.petalSpeedExtreme.name=Speed Petal
+item.PotionPetals.potionFireExtreme.name=Fire Resistance Potion
+item.PotionPetals.potionWaterExtreme.name=Water Breathing Potion
+item.PotionPetals.potionStrengthExtreme.name=Strength II Potion
+item.PotionPetals.potionRegenExtreme.name=Regeneration Potion
+item.PotionPetals.potionNightExtreme.name=Night Vision Potion
+item.PotionPetals.potionSpeedExtreme.name=Speed Potion
+item.PotionPetals.potionMagicalExtreme.name=Magical Potion
+
+item.MagicSeedsEssence.name=Essence Seeds
+item.MagicSeedsCoal.name=Coal Seeds
+item.MagicSeedsDye.name=Dye Seeds
+item.MagicSeedsRedstone.name=Redstone Seeds
+item.MagicSeedsGlowstone.name=Glowstone Seeds
+item.MagicSeedsObsidian.name=Obsidian Seeds
+item.MagicSeedsIron.name=Iron Seeds
+item.MagicSeedsGold.name=Gold Seeds
+item.MagicSeedsLapis.name=Lapis Lazuli Seeds
+item.MagicSeedsEnder.name=Ender Seeds
+item.MagicSeedsNether.name=Nether Seeds
+item.MagicSeedsExperience.name=Experience Seeds
+item.MagicSeedsBlaze.name=Blaze Seeds
+item.MagicSeedsDiamond.name=Diamond Seeds
+item.MagicSeedsEmerald.name=Emerald Seeds
+
+item.ElementSeedsAir.name=Air Seeds
+item.ElementSeedsWater.name=Water Seeds
+item.ElementSeedsEarth.name=Earth Seeds
+item.ElementSeedsFire.name=Fire Seeds
+
+item.ModMagicSeedsCopper.name=Copper Seeds
+item.ModMagicSeedsTin.name=Tin Seeds
+item.ModMagicSeedsSilver.name=Silver Seeds
+item.ModMagicSeedsLead.name=Lead Seeds
+item.ModMagicSeedsQuartz.name=Certus Quartz Seeds
+item.ModMagicSeedsSapphire.name=Sapphire Seeds
+item.ModMagicSeedsRuby.name=Ruby Seeds
+item.ModMagicSeedsPeridot.name=Peridot Seeds
+item.ModMagicSeedsAlumin.name=Aluminium Seeds
+item.ModMagicSeedsForce.name=Force Seeds
+item.ModMagicSeedsCobalt.name=Cobalt Seeds
+item.ModMagicSeedsArdite.name=Ardite Seeds
+item.ModMagicSeedsNickel.name=Nickel Seeds
+item.ModMagicSeedsPlatinum.name=Platinum Seeds
+item.ModMagicSeedsThaumcraftShard.name=Infused Shard Seeds
+item.ModMagicSeedsUranium.name=Urnaium Seeds
+item.ModMagicSeedsOil.name=Oil Seeds
+item.ModMagicSeedsRubber.name=Rubber Seeds
+item.ModMagicSeedsVinteum.name=Vinteum Seeds
+item.ModMagicSeedsBlueTopaz.name=Bluetopaz Seeds
+item.ModMagicSeedsChimerite.name=Chimerite Seeds
+item.ModMagicSeedsMoonstone.name=Moonstone Seeds
+item.ModMagicSeedsSunstone.name=Sunstone Seeds
+item.ModMagicSeedsIridium.name=Iridium Seeds
+item.ModMagicSeedsYellorite.name=Yellorite Seeds
+item.ModMagicSeedsOsmium.name=Osmium Seeds
+item.ModMagicSeedsManganese.name=Manganese Seeds
+item.ModMagicSeedsSulfur.name=Sulfur Seeds
+item.ModMagicSeedsDarkiron.name=Dark Iron Seeds
+
+item.SoulSeedsCow.name=Cow Soul Seeds
+item.SoulSeedsCreeper.name=Creeper Soul Seeds
+item.SoulSeedsMagma.name=Magma Soul Seeds
+item.SoulSeedsSkeleton.name=Skeleton Soul Seeds
+item.SoulSeedsSlime.name=Slime Soul Seeds
+item.SoulSeedsSpider.name=Spider Soul Seeds
+item.SoulSeedsGhast.name=Ghast Soul Seeds
+item.SoulSeedsWither.name=Wither Soul Seeds
+
+item.PotionSeedsFire.name=Fire Resistance Seeds
+item.PotionSeedsNight.name=Night Vision Seeds
+item.PotionSeedsRegen.name=Regeneration Seeds
+item.PotionSeedsStrength.name=Strength Seeds
+item.PotionSeedsWater.name=Water Breathing Seeds
+item.PotionSeedsSpeed.name=Speed Seeds
+
+item.SeedsBlackberry.name=Blackberry Seeds
+item.SeedsBlueberry.name=Blueberry Seeds
+item.SeedsChili.name=Chili Seeds
+item.SeedsCucumber.name=Cucumber Seeds
+item.SeedsGrape.name=Grape Seeds
+item.SeedsRaspberry.name=Raspberry Seeds
+item.SeedsStrawberry.name=Strawberry Seeds
+item.SeedsSugarCane.name=Sugar Cane Seeds
+item.SeedsSweetcorn.name=Sweetcorn Seeds
+item.SeedsTomato.name=Tomato Seeds
+
+item.infusedIngotHelmet.name=Essence Infused Helmet
+item.infusedIngotPlatebody.name=Essence Infused Chestplate
+item.infusedIngotLeggings.name=Essence Infused Leggings
+item.infusedIngotBoots.name=Essence Infused Boots
+
+item.infusedHelmet.name=Essence Infused Helmet
+item.infusedPlatebody.name=Essence Infused Chestplate
+item.infusedLeggings.name=Essence Infused Leggings
+item.infusedBoots.name=Essence Infused Boots
+
+item.infusedHelmetEpic.name=Essence Infused Helmet
+item.infusedPlatebodyEpic.name=Essence Infused Chestplate
+item.infusedLeggingsEpic.name=Essence Infused Leggings
+item.infusedBootsEpic.name=Essence Infused Boots
+
+item.infusedHelmetEpicFlight.name=Essence Infused Helmet
+item.infusedPlatebodyEpicFlight.name=Essence Infused Chestplate
+item.infusedLeggingsEpicFlight.name=Essence Infused Leggings
+item.infusedBootsEpicFlight.name=Essence Infused Boots
+
+item.InfusedT1Pickaxe.name=Essence Infused Pickaxe
+item.InfusedT1Sword.name=Essence Infused Sword
+item.InfusedT1Axe.name=Essence Infused Axe
+item.InfusedT1Shovel.name=Essence Infused Shovel
+
+item.InfusedT2Pickaxe.name=Essence Infused Pickaxe
+item.InfusedT2Sword.name=Essence Infused Sword
+item.InfusedT2Axe.name=Essence Infused Axe
+item.InfusedT2Shovel.name=Essence Infused Shovel
+
+item.InfusedT3Pickaxe.name=Essence Infused Pickaxe
+item.InfusedT3Sword.name=Essence Infused Sword
+item.InfusedT3Axe.name=Essence Infused Axe
+item.InfusedT3Shovel.name=Essence Infused Shovel
+item.InfusedT3Hoe.name=Essence Infused Hoe
+item.InfusedT3Bow.name=Essence Infused Bow
+
+item.ArmourMaterials.infusedDiamond.name=Infused Diamond
+item.ArmourMaterials.infusedIngot.name=Infused Ingot
+item.ArmourMaterials.infusedFeather.name=Infused Feather
+item.ArmourMaterials.infusedString.name=Infused String
+
+item.Charms.witherCharm.name=Charm of the Wither
+item.Charms.poisonCharm.name=Charm of Poison
+item.Charms.fireCharm.name=Charm of the Flame
+item.Charms.waterCharm.name=Charm of the Ocean
+item.Charms.baseCharm.name=Base Charm
+
+item.EssenceOrb.name=Essence Orb [WIP]
+item.JuiceSqueezer.name=Juice Squeezer
+
+item.CropProduce.blackberry.name=Blackberry
+item.CropProduce.blueberry.name=Blueberry
+item.CropProduce.chili.name=Chili
+item.CropProduce.cucumber.name=Cucumber
+item.CropProduce.grape.name=Grape
+item.CropProduce.raspberry.name=Raspberry
+item.CropProduce.strawberry.name=Strawberry
+item.CropProduce.sweetcorn.name=Sweetcorn
+item.CropProduce.tomato.name=Tomato
+item.MagicalFood.name=Magical Food
+
+item.FoodJuice.apple.name=Apple Juice
+item.FoodJuice.blackberry.name=Blackberry Juice
+item.FoodJuice.blueberry.name=Blueberry Juice
+item.FoodJuice.carrot.name=Carrot Juice
+item.FoodJuice.grape.name=Grape Juice
+item.FoodJuice.raspberry.name=Raspberry Juice
+item.FoodJuice.strawberry.name=Strawberry Juice
+item.FoodJuice.tomato.name=Tomato Juice
+item.FoodJuice.watermelon.name=Watermelon Juice
+
+item.FoodStew.stewBeef.name=Beef Stew
+item.FoodStew.stewChicken.name=Chicken Stew
+item.FoodStew.stewLamb.name=Lamb Stew
+item.FoodStew.stewPork.name=Pork Stew
+
+item.RawMeat.rawLamb.name=Raw Lamb
+item.RawMeat.rawSquid.name=Raw Calamari
+
+item.CookedMeat.cookedLamb.name=Cooked Lamb
+item.CookedMeat.cookedSquid.name=Cooked Calamari

@@ -121,7 +121,7 @@ Author(s): AleXndrTheGr8st
 
 Link: http://goo.gl/WMcjUR
 
-Status: Not yet sent.
+Status: Sent to Author. No response.
 
 
 - Mod Name(s): The Farlanders
@@ -147,5 +147,14 @@ Status: Not yet sent.
 Author(s): SMEZ1234
 
 Link: http://goo.gl/cRi2DP
+
+Status: Not yet sent.
+
+
+- Mod Name(s): Magical Crops
+
+Author(s): Mark719
+
+Link: http://goo.gl/lbMrrN
 
 Status: Not yet sent.

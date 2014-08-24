@@ -27,13 +27,13 @@ Link: http://goo.gl/MWrNyQ
 Status: No localization support yet.
 
 
-- [ ] Mod Name(s): Traincraft
+- [-] Mod Name(s): Traincraft
 
 Author(s): Traincraft Team
 
 Link: http://goo.gl/kuIBs7
 
-Status: Not yet started.
+Status: Already in it.
 
 
 - [x] Mod Name(s): Mo' Creatures
@@ -126,13 +126,13 @@ Link: http://goo.gl/wxSyEI
 Status: No localization support yet. No 1.7.10 builds.
 
 
-- [ ] Mod Name(s): Magical Crops
+- [x] Mod Name(s): Magical Crops
 
 Author(s): Mark719
 
 Link: http://goo.gl/lbMrrN
 
-Status: No localization support yet. No 1.7.10 builds.
+Status: Done.
 
 
 - [ ] Mod Name(s): QuiverBow
@@ -159,7 +159,7 @@ Author(s): Binnie
 
 Link: http://goo.gl/NC2Sl6
 
-Status: Not yet started. No 1.7.10 builds.
+Status: Not yet started.
 
 
 - [ ] Mod Name(s): Better Archery
