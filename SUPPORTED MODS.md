@@ -139,7 +139,7 @@ Author(s): TheFrogMC
 
 Link: http://goo.gl/4FL1cy
 
-Status: Not yet sent.
+Status: Sent to Author. Waiting for response.
 
 
 - Mod Name(s): Enhanced Biomes
@@ -157,4 +157,4 @@ Author(s): Mark719
 
 Link: http://goo.gl/lbMrrN
 
-Status: Not yet sent.
+Status: Sent to Author. Waiting for response.
