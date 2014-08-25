@@ -148,7 +148,7 @@ Author(s): SMEZ1234
 
 Link: http://goo.gl/cRi2DP
 
-Status: Not yet sent.
+Status: Sent to Author. Waiting for response.
 
 
 - Mod Name(s): Magical Crops
