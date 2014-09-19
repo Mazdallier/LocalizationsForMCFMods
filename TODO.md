@@ -27,15 +27,6 @@ Link: http://goo.gl/MWrNyQ
 Status: No localization support yet.
 
 
-- [-] Mod Name(s): Traincraft
-
-Author(s): Traincraft Team
-
-Link: http://goo.gl/kuIBs7
-
-Status: Already in it.
-
-
 - [x] Mod Name(s): Mo' Creatures
 
 Author(s): DrZhark, bloodshot45
@@ -168,7 +159,7 @@ Author(s): Zaggy1024
 
 Link: http://goo.gl/D9stnc
 
-Status: Not yet started. Only in 1.8.x
+Status: Not yet started. Soon?
 
 
 - [ ] Mod Name(s): Mad Science
