@@ -148,7 +148,7 @@ Author(s): SMEZ1234
 
 Link: http://goo.gl/cRi2DP
 
-Status: Sent to Author. Waiting for response.
+Status: Added.
 
 
 - Mod Name(s): Magical Crops
@@ -158,3 +158,12 @@ Author(s): Mark719
 Link: http://goo.gl/lbMrrN
 
 Status: Sent to Author. Waiting for response.
+
+
+- Mod Name(s): Animal Bikes
+
+Author(s): Noppes
+
+Link: http://goo.gl/1kbscV
+
+Status: Not yet sent.

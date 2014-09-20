@@ -72,15 +72,6 @@ Link: http://goo.gl/S5p0vB
 Status: Not yet started. Low priority due to no 1.7.10 support
 
 
-- [ ] Mod Name(s): PneumaticCraft
-
-Author(s): MineMaarten
-
-Link: http://goo.gl/pT93oo
-
-Status: Work In Progress.
-
-
 - [x] Mod Name(s): Better Furnaces Mod
 
 Author(s): TheFrogMC
@@ -171,10 +162,10 @@ Link: http://goo.gl/QLxnHu
 Status: Not yet started. No 1.7.x support.
 
 
-- [ ] Mod Name(s): Animal Bikes
+- [x] Mod Name(s): Animal Bikes
 
 Author(s): Noppes
 
 Link: http://goo.gl/1kbscV
 
-Status: Not yet started.
+Status: Done.
