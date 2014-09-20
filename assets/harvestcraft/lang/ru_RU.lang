@@ -1,5 +1,8 @@
 itemGroup.tabHarvestCraft=HarvestCraft
 
+# Tooltips
+tooltip.harvestcraft.item.queenbeeItem=Пасека: Медовые соты, восковые соты, личинки\nСетка создания: Маточное молочко при 0 прочности
+
 # Blocks
 tile.cuttingboard.name=Разделочная доска
 tile.pot.name=Горшок
