@@ -144,16 +144,16 @@ tile.AuroraSlab.name=Северная плита
 tile.TrollSteinn.name=Камень тролля
 tile.WispyCloud.name=Тонкое облако
 tile.FluffyCloud.name=Пушистое облако
-tile.GiantCobble.name=Булыжник гигантов
-tile.GiantLog.name=Древесина гигантов
-tile.GiantLeaves.name=Листва гигантов
-tile.GiantObsidian.name=Обсидиан гигантов
+tile.GiantCobble.name=Гигантский булыжник
+tile.GiantLog.name=Гигантская древесина
+tile.GiantLeaves.name=Гигантская листва
+tile.GiantObsidian.name=Гигантский обсидиан
 tile.UberousSoil.name=Плодородная почва
 tile.HugeStalk.name=Большой стебель
 tile.HugeGloomBlock.name=Huge Mushgloom
 tile.TrollVidr.name=Trollvidr
-tile.UnripeTrollBer.name=Unripe Trollber
-tile.TrollBer.name=Trollber
+tile.UnripeTrollBer.name=Неспелая ягода троллей
+tile.TrollBer.name=Ягода троллей
 
 item.nagaScale.name=Сердце Наги
 item.plateNaga.name=Мундир из сердца Наги
@@ -269,7 +269,7 @@ item.minotaurAxe.tooltip=Дополнительный урон, когда за�
 item.knightlySword.tooltip=Дополнительный урон бронированным целям
 item.knightlyPick.tooltip=Дополнительный урон бронированным целям
 item.knightlyAxe.tooltip=Дополнительный урон небронированным целям
-item.giantPick.tooltip=Ломает блоки гигантов
+item.giantPick.tooltip=Ломает гигантские блоки
 
 item.tfspawnegg.name=Призвать существо - 
 
