@@ -31,7 +31,7 @@ Author(s): Benimatic
 
 Link: http://goo.gl/ayJy3C
 
-Status: Sent to Author. No response for 2 months. Included ru_RU outdated and REALLY bad.
+Status: Won't be added due to aggressiveness of the current translator
 
 
 - Mod Name(s): MrCrayfish's Furniture Mod
