@@ -13,7 +13,7 @@ Author(s): MatrexsVigil
 
 Link: http://goo.gl/BR9sKg
 
-Status: Sent to Author. Planned for the next update.
+Status: Sent to Author. HarvestCraft added.
 
 
 - Mod Name(s): GrowthCraft
@@ -22,7 +22,7 @@ Author(s): Gwafu
 
 Link: http://goo.gl/WYVNOU
 
-Status: Sent to Author. No response yet.
+Status: In the next update.
 
 
 - Mod Name(s): The Twilight Forest
@@ -76,7 +76,7 @@ Author(s): chylex
 
 Link: http://goo.gl/eL142n
 
-Status: Sent to Author. In the next version.
+Status: Added.
 
 
 - Mod Name(s): FinndusFillies
