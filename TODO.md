@@ -15,7 +15,7 @@ Author(s): Reika
 
 Link: http://goo.gl/Aw40El
 
-Status: Not yet started.
+Status: Soon.
 
 
 - [ ] Mod Name(s): Coros Mods
