@@ -20,6 +20,10 @@ sink_3.name=Кирпичный колодец
 
 tile.salt.name=Соляная руда
 
+tile.market.name=Рынок
+
+tile.oven.name=Печь
+
 tile.berrygarden.name=Ягодный куст
 tile.desertgarden.name=Пустынный куст
 tile.gourdgarden.name=Тыквенный куст
@@ -145,6 +149,7 @@ tile.pamscallionCrop.name=Лук-шалот
 tile.pamartichokeCrop.name=Артишок
 tile.pambrusselsproutCrop.name=Брюссельская капуста
 tile.pamcabbageCrop.name=Капуста
+tile.pamspinachCrop.name=Шпинат
 tile.pamwhitemushroomCrop.name=Белый гриб
 tile.pambeanCrop.name=Бобы
 tile.pamsoybeanCrop.name=Соевые бобы
@@ -178,6 +183,15 @@ tile.pamcandleDeco13.name=Коричневая свечка
 tile.pamcandleDeco14.name=Зелёная свечка
 tile.pamcandleDeco15.name=Красная свечка
 tile.pamcandleDeco16.name=Чёрная свечка
+
+tile.pamcarrotCake.name=Морковный торт
+tile.pamcheeseCake.name=Чизкейк
+tile.pamcherrycheeseCake.name=Вишнёвый чизкейк
+tile.pampineappleupsidedownCake.name=Ананасовый перевёрнутый торт
+tile.pamchocolatesprinkleCake.name=Торт, посыпанный шоколадом
+tile.pamredvelvetCake.name=Красный бархатный торт
+tile.pamlamingtonCake.name=Ламингтон
+tile.pampavlovaCake.name=Павлова
 
 # Items
 item.cottonItem.name=Хлопок
@@ -336,6 +350,8 @@ item.zucchiniItem.name=Цуккини
 item.zucchiniseedItem.name=Семя цуккини
 item.bambooshootItem.name=Бамбуковый побег
 item.bambooshootseedItem.name=Семя бамбукового побега
+item.spinachItem.name=Шпинат
+item.spinachseedItem.name=Семя шпината
         
 item.almondItem.name=Миндаль
 item.apricotItem.name=Абрикос
@@ -889,4 +905,38 @@ item.pavlovaItem.name=Павлова
 item.gherkinItem.name=Корнишон
 item.mcpamItem.name=McPam
 
-item.pamscookbookItem.name=Поваренная книга Пэм
+item.ceasarsaladItem.name=Салат «Цезарь»
+item.chaoscookieItem.name=Печенье «Хаос»
+item.chocolatebaconItem.name=Бекон в шоколаде
+item.lambkebabItem.name=Кебаб
+item.nutellaItem.name=Нутелла
+item.snickersbarItem.name=Сникерс
+item.spinachpieItem.name=Пирог со шпинатом
+item.steamedspinachItem.name=Шпинат, приготовленный на пару
+item.vegemiteontoastItem.name=Веджимайт на тосте
+    
+item.anchovyrawItem.name=Сырой анчоус
+item.bassrawItem.name=Сырой басс
+item.carprawItem.name=Сырой карп
+item.catfishrawItem.name=Сырой сом
+item.charrrawItem.name=Сырой голец
+item.clamrawItem.name=Сырой моллюск
+item.crabrawItem.name=Сырой краб
+item.crayfishrawItem.name=Сырой рак
+item.eelrawItem.name=Сырой угорь
+item.frograwItem.name=Сырая лягушка
+item.grouperrawItem.name=Сырой морской окунь
+item.herringrawItem.name=Сырая сельдь
+item.jellyfishrawItem.name=Сырая медуза
+item.mudfishrawItem.name=Сырая ильная рыба
+item.octopusrawItem.name=Сырой осьминог
+item.perchrawItem.name=Сырой окунь
+item.scalloprawItem.name=Сырой гребешок
+item.shrimprawItem.name=Сырая креветка
+item.snailrawItem.name=Сырая улитка
+item.snapperrawItem.name=Сырой рифовый окунь
+item.tilapiarawItem.name=Сырая тилапия
+item.troutrawItem.name=Сырая форель
+item.tunarawItem.name=Сырой тунец
+item.turtlerawItem.name=Сырая черепаха
+item.walleyerawItem.name=Сырой судак
