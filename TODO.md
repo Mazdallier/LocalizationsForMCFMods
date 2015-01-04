@@ -36,15 +36,6 @@ Link: http://goo.gl/SXS13U
 Status: Done.
 
 
-- [x] Mod Name(s): Enhanced Biomes
-
-Author(s): SMEZ1234
-
-Link: http://goo.gl/cRi2DP
-
-Status: Done.
-
-
 - [ ] Mod Name(s): Eternal Isles
 
 Author(s): Xolova
@@ -60,7 +51,7 @@ Author(s): tarun1998
 
 Link: http://goo.gl/ZC4ngs
 
-Status: Not yet started. Low priority due to no 1.7.10 support
+Status: Not yet started.
 
 
 - [ ] Mod Name(s): Plant Mega Pack
@@ -69,7 +60,7 @@ Author(s): 10paktimbits
 
 Link: http://goo.gl/S5p0vB
 
-Status: Not yet started. Low priority due to no 1.7.10 support
+Status: Not yet started.
 
 
 - [x] Mod Name(s): Better Furnaces Mod
@@ -96,7 +87,7 @@ Author(s): bluedart
 
 Link: http://goo.gl/vdkcy3
 
-Status: No localization support yet. No 1.7.10 builds.
+Status: No localization support yet. No 1.7.10 support.
 
 
 - [ ] Mod Name(s): Tropicraft
@@ -105,7 +96,7 @@ Author(s): Tropicraft Team
 
 Link: http://goo.gl/wxSyEI
 
-Status: No localization support yet. No 1.7.10 builds.
+Status: No localization support yet. No 1.7.10 support.
 
 
 - [x] Mod Name(s): Magical Crops
@@ -135,7 +126,7 @@ Link: http://goo.gl/8HMYcH
 Status: Not yet started.
 
 
-- [ ] Mod Name(s): Extra Bees and Trees
+- [ ] Mod Name(s): Binnie's Mods
 
 Author(s): Binnie
 

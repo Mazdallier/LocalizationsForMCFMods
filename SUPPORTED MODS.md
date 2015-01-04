@@ -1,12 +1,3 @@
-- Mod Name(s): Archimedes' Ships
-
-Author(s): BalkondeurAlpha
-
-Link: http://goo.gl/V7SQMS
-
-Status: Confirmed "soon".
-
-
 - Mod Name(s): Pam's Mods
 
 Author(s): MatrexsVigil
@@ -31,7 +22,7 @@ Author(s): Benimatic
 
 Link: http://goo.gl/ayJy3C
 
-Status: Won't be added due to aggressiveness of the current translator
+Status: Won't be added.
 
 
 - Mod Name(s): MrCrayfish's Furniture Mod
@@ -142,15 +133,6 @@ Link: http://goo.gl/4FL1cy
 Status: Sent to Author. Waiting for response.
 
 
-- Mod Name(s): Enhanced Biomes
-
-Author(s): SMEZ1234
-
-Link: http://goo.gl/cRi2DP
-
-Status: Added.
-
-
 - Mod Name(s): Magical Crops
 
 Author(s): Mark719
@@ -174,5 +156,14 @@ Status: Not yet sent.
 Author(s): tonius11
 
 Link: http://goo.gl/7CVUDn
+
+Status: Not yet sent.
+
+
+- Mod Name(s): Thermal Expansion
+
+Author(s): TeamCoFH
+
+Link: http://goo.gl/xNVwV2
 
 Status: Not yet sent.
