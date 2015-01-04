@@ -151,15 +151,6 @@ Link: http://goo.gl/1kbscV
 Status: Not yet sent.
 
 
-- Mod Name(s): NEI Plugins Unofficial
-
-Author(s): tonius11
-
-Link: http://goo.gl/7CVUDn
-
-Status: Not yet sent.
-
-
 - Mod Name(s): Thermal Expansion
 
 Author(s): TeamCoFH
