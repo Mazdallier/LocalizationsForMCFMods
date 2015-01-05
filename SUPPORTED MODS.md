@@ -149,12 +149,3 @@ Author(s): Noppes
 Link: http://goo.gl/1kbscV
 
 Status: Not yet sent.
-
-
-- Mod Name(s): Thermal Expansion
-
-Author(s): TeamCoFH
-
-Link: http://goo.gl/xNVwV2
-
-Status: Not yet sent.
