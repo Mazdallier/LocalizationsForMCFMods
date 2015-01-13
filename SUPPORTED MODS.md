@@ -61,15 +61,6 @@ Link: http://goo.gl/yQZiNo
 Status: Sent to Author. No response for 2 months.
 
 
-- Mod Name(s): Hardcore Ender Expansion
-
-Author(s): chylex
-
-Link: http://goo.gl/eL142n
-
-Status: Added.
-
-
 - Mod Name(s): FinndusFillies
 
 Author(s): Myrathi
