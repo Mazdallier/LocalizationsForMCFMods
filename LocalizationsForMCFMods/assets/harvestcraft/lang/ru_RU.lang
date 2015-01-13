@@ -192,6 +192,7 @@ tile.pamchocolatesprinkleCake.name=Торт, посыпанный шоколад
 tile.pamredvelvetCake.name=Красный бархатный торт
 tile.pamlamingtonCake.name=Ламингтон
 tile.pampavlovaCake.name=Павлова
+tile.pamholidayCake.name=Праздничный торт
 
 # Items
 item.cottonItem.name=Хлопок
@@ -940,3 +941,31 @@ item.troutrawItem.name=Сырая форель
 item.tunarawItem.name=Сырой тунец
 item.turtlerawItem.name=Сырая черепаха
 item.walleyerawItem.name=Сырой судак
+
+item.holidaycakeItem.name=Праздничный торт
+
+item.clamcookedItem.name=Приготовленный моллюск
+item.crabcookedItem.name=Приготовленный краб
+item.crayfishcookedItem.name=Приготовленный рак
+item.frogcookedItem.name=Приготовленные Лягушачьи лапки
+item.octopuscookedItem.name=Приготовленный осьминог
+item.scallopcookedItem.name=Приготовленный гребешок
+item.shrimpcookedItem.name=Приготовленная креветка
+item.snailcookedItem.name=Приготовленная улитка
+item.turtlecookedItem.name=Приготовленная черепаха
+    
+item.appleciderItem.name=Яблочный сидр
+item.bangersandmashItem.name=Сосиски с картофельным пюре
+item.batteredsausageItem.name=Сосиска в тесте
+item.batterItem.name=Жидкое тесто
+item.chorizoItem.name=Чоризо
+item.coleslawItem.name=Салат из капусты
+item.energydrinkItem.name=Энергетический напиток
+item.friedonionsItem.name=Жареный лук
+item.meatfeastpizzaItem.name=Пицца «Мясной пир»
+item.mincepieItem.name=Сладкий пирожок
+item.onionhamburgerItem.name=Гамбургер с луком
+item.pepperoniItem.name=Пепперони
+item.pickledonionsItem.name=Маринованный лук
+item.porksausageItem.name=Свиная колбаса
+item.raspberrytrifleItem.name=Малиновый трайфл

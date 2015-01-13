@@ -192,6 +192,7 @@ tile.pamchocolatesprinkleCake.name=Chocolate Sprinkle Cake
 tile.pamredvelvetCake.name=Red Velvet Cake
 tile.pamlamingtonCake.name=Lamington
 tile.pampavlovaCake.name=Pavlova
+tile.pamholidayCake.name=Holiday Cake
 
 # Items
 item.cottonItem.name=Cotton
@@ -940,3 +941,31 @@ item.troutrawItem.name=Raw Trout
 item.tunarawItem.name=Raw Tuna
 item.turtlerawItem.name=Raw Turtle
 item.walleyerawItem.name=Raw Walleye
+
+item.holidaycakeItem.name=Holiday Cake
+
+item.clamcookedItem.name=Cooked Clam
+item.crabcookedItem.name=Cooked Crab
+item.crayfishcookedItem.name=Cooked Crayfish
+item.frogcookedItem.name=Cooked Frog Legs
+item.octopuscookedItem.name=Cooked Octopus
+item.scallopcookedItem.name=Cooked Scallop
+item.shrimpcookedItem.name=Cooked Shrimp
+item.snailcookedItem.name=Cooked Snail
+item.turtlecookedItem.name=Cooked Turtle
+    
+item.appleciderItem.name=Apple Cider
+item.bangersandmashItem.name=Bangers and Mash
+item.batteredsausageItem.name=Battered Sausage
+item.batterItem.name=Batter
+item.chorizoItem.name=Chorizo
+item.coleslawItem.name=Coleslaw
+item.energydrinkItem.name=Energy Drink
+item.friedonionsItem.name=Fried Onions
+item.meatfeastpizzaItem.name=Meat Feast Pizza
+item.mincepieItem.name=Mince Pie
+item.onionhamburgerItem.name=Onion Hamburger
+item.pepperoniItem.name=Pepperoni
+item.pickledonionsItem.name=Pickled Onions
+item.porksausageItem.name=Pork Sausage
+item.raspberrytrifleItem.name=Raspberry Trifle
