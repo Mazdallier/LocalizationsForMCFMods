@@ -1,0 +1,92 @@
+potion.potency.9=X
+
+entity.SpecialMobs.SMFireball.name=Огненный шар
+entity.SpecialMobs.SMFishHook.name=Рыболовный крючок
+
+entity.SpecialMobs.SpecialCaveSpider.name=Пещерный паук
+entity.SpecialMobs.BabyCaveSpider.name=Пещерный паук-ребёнок
+entity.SpecialMobs.FlyingCaveSpider.name=Летающий пещерный паук
+entity.SpecialMobs.MotherCaveSpider.name=Пещерная паучиха
+entity.SpecialMobs.ToughCaveSpider.name=Жестокий пещерный паук
+entity.SpecialMobs.WebCaveSpider.name=Паутинный пещерный паук
+entity.SpecialMobs.WitchCaveSpider.name=Пещерный паук-ведьма
+
+entity.SpecialMobs.SpecialCreeper.name=Крипер
+entity.SpecialMobs.ArmorCreeper.name=Бронированный крипер
+entity.SpecialMobs.DarkCreeper.name=Тёмный крипер
+entity.SpecialMobs.DeathCreeper.name=Смертельный крипер
+entity.SpecialMobs.DirtCreeper.name=Земляной крипер
+entity.SpecialMobs.DoomCreeper.name=Гибельный крипер
+entity.SpecialMobs.DrowningCreeper.name=Утопляющий крипер
+entity.SpecialMobs.EnderCreeper.name=Крипер Края
+entity.SpecialMobs.FireCreeper.name=Огненный крипер
+entity.SpecialMobs.JumpingCreeper.name=Прыгающий крипер
+entity.SpecialMobs.LightningCreeper.name=Крипер молний
+entity.SpecialMobs.MiniCreeper.name=Мини-крипер
+entity.SpecialMobs.SplittingCreeper.name=Пронзительный крипер
+
+entity.SpecialMobs.SpecialEnderman.name=Странник Края
+entity.SpecialMobs.BlindingEnderman.name=Ослепляющий странник Края
+entity.SpecialMobs.CursedEnderman.name=Проклятый странник Края
+entity.SpecialMobs.IcyEnderman.name=Ледяной странник Края
+entity.SpecialMobs.LightningEnderman.name=Странник Края молний
+entity.SpecialMobs.MiniEnderman.name=Мини-странник Края
+entity.SpecialMobs.MirageEnderman.name=Мираж странника Края
+entity.SpecialMobs.ThiefEnderman.name=Странник Края-вор
+
+entity.SpecialMobs.SpecialGhast.name=Гаст
+entity.SpecialMobs.BabyGhast.name=Гаст-ребёнок
+entity.SpecialMobs.FaintGhast.name=Слабый гаст
+entity.SpecialMobs.FighterGhast.name=Гаст-боец
+entity.SpecialMobs.KingGhast.name=Король гастов
+entity.SpecialMobs.MiniGhast.name=Мини-гаст
+entity.SpecialMobs.QueenGhast.name=Королева гастов
+entity.SpecialMobs.UnholyGhast.name=Злобный гаст
+
+entity.SpecialMobs.SpecialPigZombie.name=Зомби-свиночеловек
+entity.SpecialMobs.BrutishPigZombie.name=Зверский зомби-свиночеловек
+entity.SpecialMobs.FishingPigZombie.name=Рыбацкий зомби-свиночеловек
+entity.SpecialMobs.GiantPigZombie.name=Гигантский зомби-свиночеловек
+entity.SpecialMobs.HungryPigZombie.name=Голодный зомби-свиночеловек
+entity.SpecialMobs.PlaguePigZombie.name=Чумной зомби-свиночеловек
+entity.SpecialMobs.VampirePigZombie.name=Вампирский зомби-свиночеловек
+
+entity.SpecialMobs.SpecialSilverfish.name=Чешуйница
+entity.SpecialMobs.BlindingSilverfish.name=Ослепляющая чешуйница
+entity.SpecialMobs.FishingSilverfish.name=Рыбацкая чешуйница
+entity.SpecialMobs.FlyingSilverfish.name=Летающая чешуйница
+entity.SpecialMobs.PoisonSilverfish.name=Ядовитая чешуйница
+entity.SpecialMobs.ToughSilverfish.name=Жестокая чешуйница
+
+entity.SpecialMobs.SpecialSkeleton.name=Скелет
+entity.SpecialMobs.BrutishSkeleton.name=Зверский скелет
+entity.SpecialMobs.FireSkeleton.name=Огненный скелет
+entity.SpecialMobs.GatlingSkeleton.name=Быстрый скелет
+entity.SpecialMobs.GiantSkeleton.name=Гигантский скелет
+entity.SpecialMobs.PoisonSkeleton.name=Ядовитый скелет
+entity.SpecialMobs.SniperSkeleton.name=Скелет-снайпер
+entity.SpecialMobs.SpitfireSkeleton.name=Злой скелет
+entity.SpecialMobs.ThiefSkeleton.name=Скелет-вор
+
+entity.SpecialMobs.SpecialSpider.name=Паук
+entity.SpecialMobs.BabySpider.name=Паук-ребёнок
+entity.SpecialMobs.DesertSpider.name=Пустынный паук
+entity.SpecialMobs.FlyingSpider.name=Летающий паук
+entity.SpecialMobs.GhostSpider.name=Призрачный паук
+entity.SpecialMobs.GiantSpider.name=Гигантский паук
+entity.SpecialMobs.HungrySpider.name=Голодный паук
+entity.SpecialMobs.MotherSpider.name=Паучиха
+entity.SpecialMobs.PaleSpider.name=Бледный паук
+entity.SpecialMobs.PoisonSpider.name=Ядовитый паук
+entity.SpecialMobs.SmallSpider.name=Маленький паук
+entity.SpecialMobs.ToughSpider.name=Жестокий паук
+entity.SpecialMobs.WebSpider.name=Паутинный паук
+entity.SpecialMobs.WitchSpider.name=Паук-ведьма
+
+entity.SpecialMobs.SpecialZombie.name=Зомби
+entity.SpecialMobs.BrutishZombie.name=Зверский зомби
+entity.SpecialMobs.FireZombie.name=Огненный зомби
+entity.SpecialMobs.FishingZombie.name=Рыбацкий зомби
+entity.SpecialMobs.GiantZombie.name=Гигантский зомби
+entity.SpecialMobs.HungryZombie.name=Голодный зомби
+entity.SpecialMobs.PlagueZombie.name=Чумной зомби

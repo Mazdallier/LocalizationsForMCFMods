@@ -140,3 +140,12 @@ Author(s): Noppes
 Link: http://goo.gl/1kbscV
 
 Status: Not yet sent.
+
+
+- Mod Name(s): Father Toast's Mods
+
+Author(s): FatherToast
+
+Link: http://goo.gl/V8VM8r
+
+Status: Sent to Author.
