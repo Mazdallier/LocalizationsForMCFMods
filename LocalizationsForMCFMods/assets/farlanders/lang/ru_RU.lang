@@ -27,8 +27,8 @@ item.nightfallPants.name=Сумеречные поножи
 item.nightfallBoots.name=Сумеречные ботинки
 item.farlanders.gold_helmet.name=Шлем мятежного фарландера
 
-tile.endumiumOre.name=Руда Края
-tile.endumiumBlock.name=Блок Края
+tile.endumiumOre.name=Руда эндумиума
+tile.endumiumBlock.name=Блок эндумиума
 
 entity.farlanders.Ender Golem.name=Голем Края
 entity.farlanders.Farlander.name=Фарландер
@@ -76,12 +76,12 @@ achievement.cuttingEdge.desc=Сделайте сумеречный меч.
 
 achievement.abraKadabra=Абракадабра
 achievement.abraKadabra.desc=Таинственный странник Края уронил таинственный жезл!
-		
+
 achievement.amongEndermen=Среди странников Края
 achievement.amongEndermen.desc=Оденьте все части сумеречной брони.
-		
+
 achievement.leaderMinions=Лидер миньонов
 achievement.leaderMinions.desc=Приручите миньона Края.
-		
+
 achievement.wandDestruction=Жезлы разрушения
 achievement.wandDestruction.desc=Купите таинственный жезл у таинственного странника Края.
