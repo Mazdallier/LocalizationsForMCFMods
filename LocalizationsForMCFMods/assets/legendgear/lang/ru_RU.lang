@@ -1,0 +1,155 @@
+item.shardEmerald.name=Изумрудный осколок
+item.pieceEmerald.name=Изумрудный кусочек
+item.fulgurite.name=Фульгурит
+
+item.starDust.name=Звёздная пыль
+item.starPiece.name=Кусочек звезды
+item.starStone.name=Звёздный камень
+item.starDustCharged.name=Наполненная звёздная пыль
+item.starPieceCharged.name=Наполненный кусочек звезды
+item.starStoneCharged.name=Наполненный звёздный камень
+
+
+item.ingotStarglass.name=Кусок звёздного стекла
+item.ingotStarsteel.name=Слиток звёздной стали
+item.starglassSword.name=Меч из звёздного стекла
+item.magicBoomerang.name=Магический бумеранг
+item.dustStarsteel.name=Звёздная железная пыль
+
+
+item.dimensionalCatalyst.name=Пространственный катализатор
+item.abstractionGel.name=Абстрактный гель
+
+item.milkChocolate.name=Молочный шоколад
+item.reedPipes.name=Свирели
+item.badBow.name=Лук?
+
+item.orb.empty.name=Оболочка звёздного стекла
+item.orb.lava.name=Лавовая оболочка
+item.orb.water.name=Водяная оболочка
+item.orb.milk.name=Молочная оболочка
+item.orb.blast.name=Взрывная оболочка
+item.orb.twinkle.name=Блестящая оболочка
+item.orb.fire.name=Горящая оболочка
+item.orb.zap.name=Шокирующая оболочка
+item.orb.ice.name=Замораживающая оболочка
+
+item.nucleusFIRE.name=Огненное ядро
+item.nucleusICE.name=Ледяное ядро
+item.nucleusLIGHTNING.name=Ядро молний
+item.nucleusCUT.name=Обрезанное ядро
+item.nucleusSKY.name=Небесное ядро
+item.nucleusSUN.name=Солнечное ядро
+item.nucleusNAVIGATE.name=Навигационное ядро
+
+item.tome.RAYFIRE.name=Том огненного луча
+item.tome.SCYTHEWIND.name=Том ветра косы
+item.tome.EXEUNT.name=Том ухода
+
+
+item.dustBreak.name=Лизис-пыль
+item.dustJoin.name=Пыль соединения
+item.dustSacrifice.name=Пыль погребального костра
+item.tuningFork.name=Вилка настройки
+item.fortuneCookie.name=Печенье с предсказанием
+item.phoenixFeather.name=Перо феникса
+item.azuriteDust.name=Азуритовая пыль
+item.azuriteDot.name=Азуритовое пятнышко
+item.azuriteSphere.name=Азуритовая сфера
+item.blankSpellbook.name=Пустая книга для заклинаний
+item.blankEmblem.name=Пустая эмблема
+item.phoenixEmblem.name=Эмблема феникса
+item.phoenixCharm.name=Амулет феникса
+item.sunfireDiamond.name=Алмаз солнечного огня
+
+item.twinkleStaff.name=Мерцающий посох
+item.fireStaff.name=Тлеющий посох
+item.iceStaff.name=Ледяной посох
+item.zapStaff.name=Посох тряски
+item.infernoScroll.name=Адский свиток
+item.scythewindScroll.name=Свиток ветра косы
+
+item.record.dragondot.name=Музыкальная пластинка
+item.record.dragondot.desc=Dragondot's Return
+
+entity.fallingStar.name=Падающая звезда
+
+tile.starstoneBlock.name=Блок звёздного камня
+tile.infusedStarstoneBlock.name=Наполненный блок звёздного камня
+tile.starSand.name=Звёздный песок
+tile.starGlass.name=Звёздное стекло
+tile.caltrops.name=Рогульки
+tile.azuriteOre.name=Азуритовая руда
+tile.starAltar.name=Алтарь феникса
+tile.fragstoneBlock.name=Осколочный камень
+tile.struckSand.name=Ударенный молнией песок
+tile.struckDirt.name=Ударенная молнией земля
+tile.starwellFrame.name=Каркас звёздного колодца
+tile.starwellCore.name=Ядро звёздного колодца
+tile.starwellCoreActive.name=Ядро звёздного колодца (Активное)
+tile.ritualBlock.name=Ритуальный локус
+tile.skylensBlock.name=Небесная линза
+
+
+
+death.attack.soul=%1$s заплатил слишком высокую цену
+death.attack.caltrops=%1$s умер от продырявленной ступни
+death.attack.caltrops.player=%1$s наступил на рогульки, когда убегал от %2$s
+death.attack.magic.Explosion=%1$s был неосторожен со взрывчаткой
+death.attack.magic.Explosion.player=%1$s был взорван %1$s
+death.attack.magic.Lightning=%1$s был убит электрической магией
+death.attack.magic.Lightning.player=%1$s был убит электрической магией, благодаря заклинанию %2$s
+death.attack.magic.Fire=%1$s сгорел в результате магии
+death.attack.magic.Fire.player=%1$s был поджарен заклинанием %2$s
+death.attack.magic.Ice=%1$s был натвердо заморожен магией
+death.attack.magic.Ice.player=%1$s был натвердо заморожен %2$s
+death.attack.magic.Star=%1$s замерцал до смерти
+death.attack.magic.Star.player=%1$s заискрился, благодаря магии %2$s
+death.attack.magic.Wind=%1$s испытал турбулентность
+death.attack.magic.Wind.player=%1$s был сдут магией %2$s
+death.attack.magic.Radiant=%1$s увидел свет
+death.attack.magic.Radiant.player=%1$s был просвещён %2$s
+
+death.attack.exhaustion=%1$s умер от истощения
+
+
+
+enchantment.magicProtection=Магическая защита
+enchantment.spellReach=Область действия
+enchantment.spellSpread=Распространение
+enchantment.spellArmored=Стойкость
+
+achievement.starGet=Собиратель звёзд
+achievement.starGet.desc=Соберите упавшую звезду прежде чем она исчезнет
+achievement.ritualist=Ритуалист
+achievement.ritualist.desc=Успешно совершите ритуал
+achievement.mage=Колдовство
+achievement.mage.desc=Совершите заклинание, используя посох
+achievement.readScroll=Чтение магии
+achievement.readScroll.desc=Прочитайте заклинание, используя посох
+achievement.phoenixBoon=Под покровительством феникса
+achievement.phoenixBoon.desc=Получите благославление феникса
+achievement.fortunate=Фортуна
+achievement.fortunate.desc=Съешьте печенье с предсказанием
+achievement.boomerang=Верное оружие
+achievement.boomerang.desc=Сделайте бумеранг
+achievement.dayRitual=Импровизация
+achievement.dayRitual.desc=Совершите ритуал днём
+achievement.starsteel=Метеоритное
+achievement.starsteel.desc=Сделайте звёздную сталь
+achievement.literate=Образованность
+achievement.literate.desc=Совершите заклинание, используя большую книгу
+
+itemGroup.lgTab=LegendGear 2
+
+attribute.name.lg2.criticalBonus=Урон от критического удара
+attribute.name.lg2.arcanePower=Урон от заклинания
+attribute.name.lg2.spellSurgePower=Усиление волны
+attribute.name.lg2.spellRange=Дальность заклинания
+attribute.name.lg2.spellRadius=Радиус заклинания
+
+attribute.name.lg2.spellDamageRatio=Коэффициент урона от заклинания
+attribute.name.lg2.spellDurationRatio=Коэффициент длительности заклинания
+attribute.name.lg2.armorPenaltyScaling=Множитель штрафа за броню
+
+lg2text.armorPenaltyAnnotation=(Броня: -%1$d%% скорость заклинания)

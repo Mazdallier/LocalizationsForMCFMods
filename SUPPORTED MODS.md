@@ -149,3 +149,30 @@ Author(s): FatherToast
 Link: http://goo.gl/V8VM8r
 
 Status: Sent to Author.
+
+
+- Mod Name(s): Primitive Mobs
+
+Author(s): Daveyx0
+
+Link: http://goo.gl/hjVBOn
+
+Status: Sent to Author.
+
+
+- Mod Name(s): Myths and Monsters
+
+Author(s): UKdeccy
+
+Link: http://goo.gl/23jx1u
+
+Status: Not yet sent.
+
+
+- Mod Name(s): LegendGear 2
+
+Author(s): NMcCoy
+
+Link: http://goo.gl/tcjyp0
+
+Status: Sent to Author.
