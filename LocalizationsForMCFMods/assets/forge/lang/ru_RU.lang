@@ -1,0 +1,57 @@
+commands.forge.usage=Используйте /forge <подкоманда>. Подкоманды: tps, track
+commands.forge.usage.tracking=Используйте /forge track <тип> <длительность>. Возможные типы te (Tile Entities). Длительность < 60. 
+commands.forge.tps.summary=%s : Среднее время (такт): %d ms. Средняя TPS: %d
+
+commands.forge.tracking.te.enabled=Tile Entity отслеживание включено на %d секунд.
+forge.texture.preload.warning=Предупреждение: Текстура %s не загрузилась, вызовет графические глюки!
+forge.client.shutdown.internal=Остановка внутреннего сервера ...
+forge.update.newversion=Доступна новая версия Forge: %s
+forge.update.beta.1=%sПредупреждение: %sэто Бета-версия Forge
+forge.update.beta.2=Возможны серьёзные проблемы, проверьте их перед отправкой отчёта.
+
+forge.configgui.forgeConfigTitle=Конфигурация Minecraft Forge
+forge.configgui.ctgy.forgeGeneralConfig.tooltip=Здесь, Вы можете изменять настройки хранимые в файле forge.cfg.
+forge.configgui.ctgy.forgeGeneralConfig=Общие настройки
+forge.configgui.ctgy.forgeChunkLoadingConfig.tooltip=Здесь, Вы можете изменять настройки хранимые в forgeChunkLoading.cfg.
+forge.configgui.ctgy.forgeChunkLoadingConfig=Настройки по умолчанию для загрузчика чанков Forge
+forge.configgui.ctgy.forgeChunkLoadingModConfig.tooltip=Здесь, Вы можете изменять настройки модификаций, которые будут использоваться вместо параметров по умолчанию.
+forge.configgui.ctgy.forgeChunkLoadingModConfig=Изменение настроек модификаций
+forge.configgui.ctgy.forgeChunkLoadingAddModConfig.tooltip=Позволяет изменить настройки модификаций, переопределяющие параметры по умолчанию. Значение ноль в любом пункте, отключит возможность загрузки чанков для этого мода.
+forge.configgui.ctgy.forgeChunkLoadingAddModConfig=+ Новое переопределение
+
+forge.configgui.biomeSkyBlendRange.tooltip=Контролирует диапазон размытия цветного неба в биомах.
+forge.configgui.biomeSkyBlendRange=Диапазон смешивания цветов неба
+forge.configgui.clumpingThreshold.tooltip=Контролирует порог предпочтения пакета 51 перед пакетом 52.
+forge.configgui.clumpingThreshold=Порог объединения пакетов
+forge.configgui.disableVersionCheck.tooltip=Отметьте, для отключения проверки версии Forge. Forge запрашивает маленький json файл с нашего сервера для получения информации о версии. Подробности можно найти в классе ForgeVersion, на странице проекта в github.
+forge.configgui.disableVersionCheck=Отключить проверку обновлений Forge
+forge.configgui.enableGlobalConfig=Включить глобальные настройки
+forge.configgui.forceDuplicateFluidBlockCrash.tooltip=Отметьте, для принудительного выхода при попытке связи более чем одного блока с одной и той же жидкостью.
+forge.configgui.forceDuplicateFluidBlockCrash=Принудительный выход при дублировании блоков жидкости
+forge.configgui.fullBoundingBoxLadders.tooltip=Отметьте, для полной проверки столкновения сущности с лестницей вместо простой проверки нахождения её в блоке. Вызывает значительные изменения в механике.
+forge.configgui.fullBoundingBoxLadders=Полные области соприкосновения у лестниц
+forge.configgui.removeErroringEntities.tooltip=Отметьте, для удаления из мира любых сущностей вызывающих ошибку, вместо полной остановки сервера. БУДЬТЕ ОСТОРОЖНЫ, ЭТО МОЖЕТ СЛОМАТЬ ВСЁ! ИСПОЛЬЗУЙТЕ С УМОМ. МЫ НЕ НЕСЁМ ОТВЕТСТВЕННОСТИ ЗА УЩЕРБ.
+forge.configgui.removeErroringEntities=Удаление сущностей, вызывающих ошибку
+forge.configgui.removeErroringTileEntities.tooltip=Отметьте, для удаления из мира любых блоков вызывающих ошибку, вместо полной остановки сервера. БУДЬТЕ ОСТОРОЖНЫ, ЭТО МОЖЕТ СЛОМАТЬ ВСЁ! ИСПОЛЬЗУЙТЕ С УМОМ. МЫ НЕ НЕСЁМ ОТВЕТСТВЕННОСТИ ЗА УЩЕРБ.
+forge.configgui.removeErroringTileEntities=Удаление блоков, вызывающих ошибку
+forge.configgui.sortRecipies.tooltip=Отметьте, для включения сортировки рецептов в фазе пост-инициализации. Может вызвать десинхронизацию у конфликтующих рецептов. НЕОБХОДИМО ПЕРЕЗАПУСТИТЬ MINECRAFT ЕСЛИ ЭТО БЫЛО ИЗМЕНЕНО ИЗ ИНТЕРФЕЙСА.
+forge.configgui.sortRecipies=Отсортировать рецепты
+forge.configgui.zombieBabyChance.tooltip=Шанс спауна зомби-детей (или одного из его подкласса). Позволяет изменить механизм спауна зомби.
+forge.configgui.zombieBabyChance=Шанс спауна зомби-детей
+forge.configgui.zombieBaseSummonChance.tooltip=Базовый шанс спауна зомби. Позволяет изменить механику бонусного шанса при спауне зомби.
+forge.configgui.zombieBaseSummonChance=Шанс спауна зомби
+forge.configgui.stencilbits=Включить GL Stencil Bits
+forge.configgui.spawnfuzz=Диаметр защиты точки респауна
+
+forge.configgui.modID.tooltip=ID модификации, настройки которого Вы хотите изменить.
+forge.configgui.modID=ID модификации
+forge.configgui.dormantChunkCacheSize.tooltip=Выгруженные чанки могут быть помещены в кеш, для ускорения будущих загрузок чанков. Укажите размер (в чанках) для кеша.
+forge.configgui.dormantChunkCacheSize=Размер кеша выгруженных чанков
+forge.configgui.enableModOverrides.tooltip=Включите, для возможности переопределения настроек для модификаций отдельно.
+forge.configgui.enableModOverrides=Включить переопределение настроек модификаций
+forge.configgui.maximumChunksPerTicket.tooltip=Максимальное количество чанков на один запрос, которые будут загружены по запросу модификаций.
+forge.configgui.maximumChunksPerTicket=Лимит чанков на один запрос
+forge.configgui.maximumTicketCount.tooltip=Количество запросов на поддержание чанков в загруженом состоянии.
+forge.configgui.maximumTicketCount=Лимит запросов для модификаций
+forge.configgui.playerTicketCount.tooltip=Количество запросов, которые будут присвоены игроку вместо модификаций. Этот лимит разделяется между всеми модификациями.
+forge.configgui.playerTicketCount=Лимит запросов на игрока
