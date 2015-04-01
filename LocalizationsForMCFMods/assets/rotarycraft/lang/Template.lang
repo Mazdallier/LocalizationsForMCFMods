@@ -186,8 +186,11 @@ fluid.jet fuel=Jet Fuel
 fluid.rc ethanol=Ethanol
 fluid.liquid nitrogen=Liquid Nitrogen
 
+canola.seed=Canola Seeds
+canola.dense=Dense Canola Seeds
+canola.husk=Canola Seed Husks
+
 item.spawner=Monster Spawner
-item.canola=Canola Seeds
 item.screwdriver=Screwdriver
 item.meter=Angular Transducer
 item.debug=Magic Wand
@@ -250,6 +253,7 @@ item.bedsaw=Bedrock Handsaw
 item.bedreveal=Bedrock Helmet of Revealing
 item.steelpack=HSLA Steel Jetpack
 item.craftpattern=Crafting Pattern
+item.rangefinder=Range Finder
 
 extract.coaldust=Coal Ore Dust
 extract.irondust=Iron Ore Dust
@@ -276,7 +280,7 @@ extract.redsolu=Redstone Ore Solution
 extract.bluesolu=Lapis Ore Solution
 extract.diasolu=Diamond Ore Solution
 extract.greensolu=Emerald Ore Solution
-extract.quartzsolu=Nether Quartz Dust
+extract.quartzsolu=Nether Quartz Solution
 
 extract.coalflakes=Coal Ore Flakes
 extract.ironflakes=Iron Ore Flakes
@@ -306,6 +310,7 @@ crafting.paddle=Paddle Panel
 crafting.shaftcore=Shaft Core
 crafting.ignition=Ignition Unit
 crafting.diamondcore=Diamond Shaft Core
+crafting.compoundcompress=Compound Compressor
 
 crafting.panel=Base Panel
 crafting.ingot=HSLA Steel Ingot
@@ -373,6 +378,8 @@ misc.coaldust=Coal Dust
 misc.dryice=Dry Ice
 misc.redgolddust=Inductive Metal Blend
 misc.compost=Compost
+misc.silicondust=Silicon Powder
+misc.mulch=Mulch
 
 misc.anthra=Anthracite
 misc.prisma=Prismane
@@ -384,6 +391,7 @@ misc.wingot=Sintered Tungsten Ingot
 misc.redgoldingot=Inductive Ingot
 misc.coke=Coal Coke
 misc.springingot=Spring Steel Ingot
+misc.silicon=Silicon
 
 interface.slipperycomb=Slippery Comb
 interface.slipperypropolis=Slippery Propolis
@@ -395,6 +403,7 @@ upgrade.tier3=Flux Conductance Upgrade
 upgrade.tier4=Thermal Stability Upgrade
 upgrade.tier5=Torsion Resistance Upgrade
 upgrade.afterburn=Afterburner Upgrade
+upgrade.efficiency=Resonance Stability Upgrade
 
 label.temperature=Temperature
 label.pressure=Pressure
@@ -424,7 +433,7 @@ achievement.extractor.desc=Multiply ores in the extractor
 achievement.borer=Getting Bored
 achievement.borer.desc=Activate the Borer
 achievement.recycle=Yay for Recycling
-achievement.recycle.desc=Melt scrap in the pulse jet furnace back into ingots
+achievement.recycle.desc=Melt scrap back into ingots
 achievement.jetengine=A Matter of Thrust
 achievement.jetengine.desc=Fire up a jet engine
 achievement.makerailgun=Overkill
@@ -495,5 +504,7 @@ achievement.pump=Pumped
 achievement.pump.desc=Pump up water
 achievement.doublekill=Two birds, one stone
 achievement.doublekill.desc=Kill two mobs at once with one gravel gun shot
+achievement.insanity=Insanity
+achievement.insanity.desc=Run an extractor at 1-tick operation times for all four stages
 
 tc.research_category.rotarycraft=RotaryCraft
