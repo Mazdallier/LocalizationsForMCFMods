@@ -66,8 +66,31 @@ item.dragonstone_leggings.name=Dragonstone Leggings
 item.dragonstone_boots.name=Dragonstone Boots
 
 //Achievements
-achievement.netherRocksAch=Welcome to Netherrocks!
-achievement.netherRocksAch.desc=Collect some Malachite Ore in the Nether.
+achievement.fyriteOreAch=Warm to the Touch
+achievement.fyriteOreAch.desc=Collect some Fyrite Ore from the Nether
+achievement.malachiteOreAch=Born to Enchant
+achievement.malachiteOreAch.desc=Collect some Malachite Ore. It is very enchantable
+achievement.ashstoneOreAch=Super Fast!
+achievement.ashstoneOreAch.desc=Ashstone tools are super fast, so start looking!
+achievement.illumeniteOreAch=Light the Way
+achievement.illumeniteOreAch.desc=It grows amongst glowstone
+achievement.argoniteOreAch=All Rounder
+achievement.argoniteOreAch.desc=Argonite produces some great tools
+achievement.dragonstoneOreAch=From the Belly of the Beast
+achievement.dragonstoneOreAch.desc=Behold, true power awaits they who harness this ore
+
+achievement.fyriteSetAch=Lava Proof
+achievement.fyriteSetAch.desc=Wear a full set and you won't even feel the burn
+achievement.malachiteSetAch=Super Jump
+achievement.malachiteSetAch.desc=Wear a full set to jump like you weigh nothing
+achievement.ashstoneAxeAch=Tree Nemesis
+achievement.ashstoneAxeAch.desc=Trees have never been felled so fast
+achievement.illumeniteSetAch=Unbreakable Bones
+achievement.illumeniteSetAch.desc=Wear a full set to conquer your fear of heights
+achievement.argoniteSwordAch=Monster Hunter's Best Friend
+achievement.argoniteSwordAch.desc=A powerful sword will never let you down
+achievement.dragonstonePickaxeAch=Life's Companion
+achievement.dragonstonePickaxeAch.desc=Don't worry, we actually mean it
 achievement.netherFurnaceAch=Super Furnace
 achievement.netherFurnaceAch.desc=Construct a Nether Furnace!
 

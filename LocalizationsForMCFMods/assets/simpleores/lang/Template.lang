@@ -9,17 +9,6 @@ tile.adamantium_ore.name=Adamantium Ore
 tile.adamantium_block.name=Adamantium Block
 tile.onyx_ore.name=Onyx Ore
 tile.onyx_block.name=Onyx Block
-tile.mythril_furnace.name=Mythril Furnace
-tile.mythril_furnace_lit.name=Mythril Furnace
-tile.onyx_furnace.name=Onyx Furnace
-tile.onyx_furnace_lit.name=Onyx Furnace
-tile.copper_door_block.name=Copper Door
-tile.onyx_door_block.name=Onyx Door
-tile.copper_bars.name=Copper Bars
-tile.tin_bars.name=Tin Bars
-tile.mythril_bars.name=Mythril Bars
-tile.adamantium_bars.name=Adamantium Bars
-tile.onyx_bars.name=Onyx Bars
 
 //Items
 item.copper_ingot.name=Copper Ingot
@@ -31,8 +20,6 @@ item.copper_bucket.name=Copper Bucket
 item.copper_bucket_water.name=Copper Bucket of Water
 item.mythril_rod.name=Mythril Rod
 item.onyx_rod.name=Onyx Rod
-item.copper_door.name=Copper Door
-item.onyx_door.name=Onyx Door
 
 //Tools
 item.copper_pickaxe.name=Copper Pickaxe
@@ -89,29 +76,44 @@ item.onyx_leggings.name=Onyx Leggings
 item.onyx_boots.name=Onyx Boots
 
 //Achievements
-achievement.simpleOresAch=Welcome to SimpleOres!
-achievement.simpleOresAch.desc=Begin your SimpleOres adventure by collecting some Copper."
-achievement.adamantiumAch=The Green One
-achievement.adamantiumAch.desc=Dig deep to find some Adamantium
-achievement.onyxAch=The Camouflaged Ore
+achievement.copperAch=Welcome to SimpleOres!
+achievement.copperAch.desc=Begin your SimpleOres adventure by collecting some Copper
+achievement.tinAch=Not Silver
+achievement.tinAch.desc=Shouldn't be too hard finding some of this
+achievement.mythrilAch=Ooh, Pretty!
+achievement.mythrilAch.desc=Dig deep to find some Mythril Ore
+achievement.adamantiumAch=Green is Good
+achievement.adamantiumAch.desc=It's lightning fast!
+achievement.onyxAch=Ninja Ore
 achievement.onyxAch.desc=Good luck finding some
-achievement.ironPickAch=Upgrade MK II
-achievement.ironPickAch.desc=Construct and Iron Pickaxe
-achievement.adamantiumPickAch=Lightning Fast!
-achievement.adamantiumPickAch.desc=Make an Adamantium Pickaxe to dig faster than ever
-achievement.onyxPickAch=The Unbreakable
-achievement.onyxPickAch.desc=There's a good chance it will out-live you
+
+achievement.copperPickAch=Upgrade II?
+achievement.copperPickAch.desc=I guess it's better than Stone...
+achievement.copperBucketAch=Caution: Don't Use On Lava
+achievement.copperBucketAch.desc=Save your Iron, make a bucket with Copper!
+achievement.tinChestplateAch=White Knight
+achievement.tinChestplateAch.desc=Seems impractical, but give it a try
+achievement.tinShearsAch=Who Would Ever Use These?
+achievement.tinShearsAch.desc=Because normal shears obviously last too long
+achievement.mythrilAxeAch=Now We're Talking
+achievement.mythrilAxeAch.desc=Craft a Mythril Axe for a significant improvement over Iron.
 achievement.mythrilBowAch=Mystical Bow
 achievement.mythrilBowAch.desc=Forge a new bow with magical properties
+achievement.adamantiumLegsAch=Suit Up
+achievement.adamantiumLegsAch.desc=Stand out from the crowd with a stylish pair of Adamantium Leggings!
+achievement.adamantiumShearsAch=Endless Sheep Shearing
+achievement.adamantiumShearsAch.desc=Finally, shears that don't break instantly!
+achievement.onyxSwordAch=Sheer, Absolute Ownage
+achievement.onyxSwordAch.desc=Craft an Onyx Sword. Your enemies will tremble in fear
 achievement.onyxBowAch=Firebug
-achievement.onyxBowAch.desc=Scorch your enemies with this bow from the Hells
+achievement.onyxBowAch.desc=Scorch your enemies with this bow straight from the Hells
 
 //Tab Names
-itemGroup.tabSimpleBlocks=SimpleOres Blocks
-itemGroup.tabSimpleDecorations=SimpleOres Decorations
-itemGroup.tabSimpleTools=SimpleOres Tools
-itemGroup.tabSimpleCombat=SimpleOres Combat
-itemGroup.tabSimpleMaterials=SimpleOres Materials
+itemGroup.simpleOresBlocks=SimpleOres Blocks
+itemGroup.simpleOresDecorations=SimpleOres Decorations
+itemGroup.simpleOresTools=SimpleOres Tools
+itemGroup.simpleOresCombat=SimpleOres Combat
+itemGroup.simpleOresMaterials=SimpleOres Materials
 
 //Bow Tooltips
 tips.damageTooltip=+Damage

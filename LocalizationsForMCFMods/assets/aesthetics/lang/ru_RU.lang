@@ -1,0 +1,80 @@
+//Minecraft Blocks
+tile.iron_bricks.name=Железный кирпич
+tile.gold_bricks.name=Золотой кирпич
+tile.diamond_bricks.name=Алмазный кирпич
+	
+tile.iron_brick_stairs.name=Ступеньки из железного кирпича
+tile.gold_brick_stairs.name=Ступеньки из золотого кирпича
+tile.diamond_brick_stairs.name=Ступеньки из алмазного кирпича
+
+//SimpleOres Blocks
+tile.copper_bricks.name=Медный кирпич
+tile.tin_bricks.name=Оловянный кирпич
+tile.mythril_bricks.name=Мифриловый кирпич
+tile.adamantium_bricks.name=Адамантовый кирпич
+tile.onyx_bricks.name=Ониксовый кирпич
+	
+tile.copper_brick_stairs.name=Ступеньки из медного кирпича
+tile.tin_brick_stairs.name=Ступеньки из оловянного кирпича
+tile.mythril_brick_stairs.name=Ступеньки из мифрилового кирпича
+tile.adamantium_brick_stairs.name=Ступеньки из адамантового кирпича
+tile.onyx_brick_stairs.name=Ступеньки из ониксового кирпича
+
+tile.copper_bars.name=Медная решётка
+tile.tin_bars.name=Оловянная решётка
+tile.mythril_bars.name=Мифриловая решётка
+tile.adamantium_bars.name=Адамантовая решётка
+tile.onyx_bars.name=Ониксовая решётка
+
+//SimpleOres Items
+item.mythril_door.name=Мифриловая дверь
+item.adamantium_door.name=Адамантовая дверь
+item.onyx_door.name=Ониксовая дверь
+
+//Fusion Blocks
+tile.steel_bricks.name=Стальной кирпич
+tile.bronze_bricks.name=Бронзовый кирпич
+tile.thyrium_bricks.name=Кирпич тириума
+tile.sinisite_bricks.name=Кирпич синасайта
+	
+tile.steel_brick_stairs.name=Ступеньки из стального кирпича
+tile.bronze_brick_stairs.name=Ступеньки из бронзового кирпича
+tile.thyrium_brick_stairs.name=Ступеньки из кирпича тириума
+tile.sinisite_brick_stairs.name=Ступеньки из кирпича синасайта
+
+tile.steel_bars.name=Стальная решётка
+tile.bronze_bars.name=Бронзовая решётка
+tile.thyrium_bars.name=Решётка из тириума
+tile.sinisite_bars.name=Решётка из синасайта
+
+//Fusion Items
+item.bronze_door.name=Бронзовая дверь
+
+//Netherrocks Blocks
+tile.fyrite_bricks.name=Фуритовый кирпич
+tile.malachite_bricks.name=Малахитовый кирпич
+tile.ashstone_bricks.name=Пепельный кирпич
+tile.illumenite_bricks.name=Иллеминитовый кирпич
+tile.dragonstone_bricks.name=Драконий кирпич
+tile.argonite_bricks.name=Аргонитовый кирпич
+	
+tile.fyrite_brick_stairs.name=Ступеньки из фуритового кирпича
+tile.malachite_brick_stairs.name=Ступеньки из малахитового кирпича
+tile.ashstone_brick_stairs.name=Ступеньки из пепельного кирпича
+tile.illumenite_brick_stairs.name=Ступеньки из иллеминитового кирпича
+tile.dragonstone_brick_stairs.name=Ступеньки из драконьего кирпича
+tile.argonite_brick_stairs.name=Ступеньки из аргонитового кирпича
+
+tile.fyrite_bars.name=Фуритовая решётка
+tile.malachite_bars.name=Малахитовая решётка
+tile.ashstone_bars.name=Пепельная решётка
+tile.illumenite_bars.name=Иллеминитовая решётка
+tile.dragonstone_bars.name=Драконья решётка
+tile.argonite_bars.name=Аргонитовая решётка
+
+//Netherrocks Items
+item.dragonstone_door.name=Драконья дверь
+
+//Update Messages
+aesthetics.updateMessage1=§3Плагин Aesthetics §rустарел. Последняя версия: §c
+aesthetics.updateMessage2=§r. Пожалуйста, загрузите обновление по ссылке §9http://bit.ly/SimpleOres

@@ -1,4 +1,7 @@
 //Blocks
+tile.steel_block.name=Steel Block
+tile.slimy_diamond_block.name=Slimy Diamond Block
+
 tile.bronze_block.name=Bronze Block
 tile.thyrium_block.name=Thyrium Block
 tile.sinisite_block.name=Sinisite Block
@@ -6,6 +9,15 @@ tile.fusion_furnace.name=Fusion Furnace
 tile.fusion_furnace_lit.name=Fusion Furnace
 
 //Items
+item.steel_ingot.name=Steel Ingot
+item.slimy_diamond.name=Slimy Diamond
+item.small_steel_chunk.name=Small Steel Chunk
+item.medium_steel_chunk.name=Medium Steel Chunk
+item.large_steel_chunk.name=Large Steel Chunk
+item.small_slimy_diamond_chunk.name=Small Slimy Diamond Chunk
+item.medium_slimy_diamond_chunk.name=Medium Slimy Diamond Chunk
+item.large_slimy_diamond_chunk.name=Large Slimy Diamond Chunk
+
 item.bronze_ingot.name=Bronze Ingot
 item.thyrium_ingot.name=Thyrium Ingot
 item.sinisite_ingot.name=Sinisite Ingot
@@ -22,6 +34,17 @@ item.medium_sinisite_chunk.name=Medium Sinisite Chunk
 item.large_sinisite_chunk.name=Large Sinisite Chunk
 
 //Tools
+item.steel_pickaxe.name=Steel Pickaxe
+item.steel_axe.name=Steel Axe
+item.steel_shovel.name=Steel Shovel
+item.steel_sword.name=Steel Sword
+item.steel_hoe.name=Steel Hoe
+item.slimy_diamond_pickaxe.name=Slimy Diamond Pickaxe
+item.slimy_diamond_axe.name=Slimy Diamond Axe
+item.slimy_diamond_shovel.name=Slimy Diamond Shovel
+item.slimy_diamond_sword.name=Slimy Diamond Sword
+item.slimy_diamond_hoe.name=Slimy Diamond Hoe
+
 item.bronze_pickaxe.name=Bronze Pickaxe
 item.bronze_axe.name=Bronze Axe
 item.bronze_shovel.name=Bronze Shovel
@@ -41,6 +64,11 @@ item.thyrium_bow.name=Thyrium Bow
 item.sinisite_bow.name=Sinisite Bow
 
 //Armor
+item.steel_helmet.name=Steel Helmet
+item.steel_chestplate.name=Steel Chestplate
+item.steel_leggings.name=Steel Leggings
+item.steel_boots.name=Steel Boots
+
 item.bronze_helmet.name=Bronze Helmet
 item.bronze_chestplate.name=Bronze Chestplate
 item.bronze_leggings.name=Bronze Leggings
@@ -56,10 +84,35 @@ item.sinisite_boots.name=Sinisite Boots
 
 //Achievements
 achievement.fusionAch=Coalescence
-achievement.fusionAch.desc=Craft a Fusion Furnace to open up new possibilities"
-achievement.bronzeAch=My First Fusion
-achievement.bronzeAch.desc=Craft your first alloy, a Bronze Ingot
+achievement.fusionAch.desc=Craft a Fusion Furnace to open up new possibilities
+achievement.steelAch=Better Than Iron
+achievement.steelAch.desc=Craft your first alloy, Steel!
+achievement.steelChestplateAch=Become a Knight
+achievement.steelChestplateAch.desc=Don a Steel Chestplate and become a knight of old
+achievement.slimyDiamondAch=Slimy!
+achievement.slimyDiamondAch.desc=Craft your first Slimy Diamond!
+achievement.slimyDiamondPickaxeAch=Sticky!
+achievement.slimyDiamondPickaxeAch.decs=Craft a Slimy Diamond Pickaxe
+achievement.bronzeAch=The Original
+achievement.bronzeAch.desc=Craft your first Bronze Ingot, the original Fusion alloy
+achievement.bronzeHelmetAch=Tin Can
+achievement.bronzeHelmetAch.desc=It doesn't look overly comfortable, but it might keep your head attached
+achievement.thyriumAch=Over 9000 Enchantability!
+achievement.thyriumAch.desc=Not really. But it's really high
+achievement.thyriumAxeAch=Deforestation
+achievement.thyriumAxeAch.desc=At least plant some saplings after you cut them all down
+achievement.thyriumBowAch=Sniper
+achievement.thyriumBowAch.desc=Craft a bow with increased zoom.
+achievement.sinisiteAch=All Powerful
+achievement.sinisiteAch.desc=It seems to pulse with a dark energy...
+achievement.sinisiteSwordAch=Slice n' Dice
+achievement.sinisiteSwordAch.desc=No one will be able to stand in your way
+achievement.sinisiteBowAch=Unstoppable
+achievement.sinisiteBowAch.desc=Keep your enemies on the back foot with this powerful bow
+
+//Tool Tips
+fusion.slimy_diamond_tools.info=§aSticky!
 
 //Update
-fusionplugin.updateMessage1=§3SimpleOres Fusion §ris out of date. The latest version is §c
-fusionplugin.updateMessage2=§r. Please update from §9http://bit.ly/SimpleOres
+fusion.updateMessage1=§3Fusion §ris out of date. The latest version is §c
+fusion.updateMessage2=§r. Please update from §9http://bit.ly/SimpleOres

@@ -1,4 +1,7 @@
 //Blocks
+tile.steel_block.name=Стальной блок
+tile.slimy_diamond_block.name=Блок слизневого алмаза
+
 tile.bronze_block.name=Бронзовый блок
 tile.thyrium_block.name=Блок тириума
 tile.sinisite_block.name=Блок синасайта
@@ -6,6 +9,15 @@ tile.fusion_furnace.name=Плавильная печь
 tile.fusion_furnace_lit.name=Плавильная печь
 
 //Items
+item.steel_ingot.name=Стальной слиток
+item.slimy_diamond.name=Слизневый алмаз
+item.small_steel_chunk.name=Маленький кусок стали
+item.medium_steel_chunk.name=Средний кусок стали
+item.large_steel_chunk.name=Большой кусок стали
+item.small_slimy_diamond_chunk.name=Маленький кусок слизневого алмаза
+item.medium_slimy_diamond_chunk.name=Средний кусок слизневого алмаза
+item.large_slimy_diamond_chunk.name=Большой кусок слизневого алмаза
+
 item.bronze_ingot.name=Бронзовый слиток
 item.thyrium_ingot.name=Слиток тириума
 item.sinisite_ingot.name=Слиток синасайта
@@ -22,6 +34,17 @@ item.medium_sinisite_chunk.name=Средний кусок синасайта
 item.large_sinisite_chunk.name=Большой кусок синасайта
 
 //Tools
+item.steel_pickaxe.name=Стальная кирка
+item.steel_axe.name=Стальной топор
+item.steel_shovel.name=Стальная лопата
+item.steel_sword.name=Стальной меч
+item.steel_hoe.name=Стальная мотыга
+item.slimy_diamond_pickaxe.name=Кирка из слизневого алмаза
+item.slimy_diamond_axe.name=Топор из слизневого алмаза
+item.slimy_diamond_shovel.name=Лопата из слизневого алмаза
+item.slimy_diamond_sword.name=Меч из слизневого алмаза
+item.slimy_diamond_hoe.name=Мотыга из слизневого алмаза
+
 item.bronze_pickaxe.name=Бронзовая кирка
 item.bronze_axe.name=Бронзовый топор
 item.bronze_shovel.name=Бронзовая лопата
@@ -41,6 +64,11 @@ item.thyrium_bow.name=Лук из тириума
 item.sinisite_bow.name=Лук из синасайта
 
 //Armor
+item.steel_helmet.name=Стальной шлем
+item.steel_chestplate.name=Стальная кираса
+item.steel_leggings.name=Стальные поножи
+item.steel_boots.name=Стальные ботинки
+
 item.bronze_helmet.name=Бронзовый шлем
 item.bronze_chestplate.name=Бронзовая кираса
 item.bronze_leggings.name=Бронзовые поножи
@@ -57,9 +85,34 @@ item.sinisite_boots.name=Ботинки из синасайта
 //Achievements
 achievement.fusionAch=Слияние
 achievement.fusionAch.desc=Сделайте плавильную печь, чтобы открыть новые возможности
-achievement.bronzeAch=Моя первая плавка
-achievement.bronzeAch.desc=Сделайте первый сплав - бронзовый слиток
+achievement.steelAch=Лучше чем железо
+achievement.steelAch.desc=Сделайте свой первый сплав - сталь!
+achievement.steelChestplateAch=Станьте рыцарем
+achievement.steelChestplateAch.desc=Сделайте стальную кирасу и станьте рыцарем древних
+achievement.slimyDiamondAch=Слизневый!
+achievement.slimyDiamondAch.desc=Сделайте Ваш первый слизневый алмаз!
+achievement.slimyDiamondPickaxeAch=Липкая!
+achievement.slimyDiamondPickaxeAch.decs=Сделайте кирку из слизневого алмаза
+achievement.bronzeAch=Истоки
+achievement.bronzeAch.desc=Сделайте Ваш первый бронзовый слиток, первоначальный сплав
+achievement.bronzeHelmetAch=Оловянная жестянка
+achievement.bronzeHelmetAch.desc=Не выглядит комфортной, но она может защитить Вашу голову
+achievement.thyriumAch=Более 9000 зачарованности!
+achievement.thyriumAch.desc=Ну, не совсем. Но она высока
+achievement.thyriumAxeAch=Вырубка леса
+achievement.thyriumAxeAch.desc=Хотябы посадите немного саженцов после вырубки всего леса
+achievement.thyriumBowAch=Снайпер
+achievement.thyriumBowAch.desc=Сделайте лук с увеличенным приближением.
+achievement.sinisiteAch=Всемогущество
+achievement.sinisiteAch.desc=Кажется оно пульсирует тёмной энергией...
+achievement.sinisiteSwordAch=Мясорубка
+achievement.sinisiteSwordAch.desc=Никто не сможет устоять на Вашем пути
+achievement.sinisiteBowAch=Неудержимость
+achievement.sinisiteBowAch.desc=Держите Ваших врагов на расстоянии с помощью этого могучего лука
+
+//Tool Tips
+fusion.slimy_diamond_tools.info=§aЛипкость!
 
 //Update
-fusionplugin.updateMessage1=§3Плагин SimpleOres Fusion §rустарел. Последняя версия: §c
-fusionplugin.updateMessage2=§r. Пожалуйста, обновитесь по ссылке §9http://bit.ly/SimpleOres
+fusionplugin.updateMessage1=§3Плагин Fusion §rустарел. Последняя версия: §c
+fusionplugin.updateMessage2=§r. Пожалуйста, загрузите обновление по ссылке §9http://bit.ly/SimpleOres
