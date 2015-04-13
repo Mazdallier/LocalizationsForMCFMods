@@ -19,6 +19,7 @@ sink_2.name=Глиняный кувшин
 sink_3.name=Кирпичный колодец
 
 tile.salt.name=Соляная руда
+tile.pamcompressedsaltBlock.name=Блок сжатой соли
 
 tile.market.name=Рынок
 
@@ -188,11 +189,12 @@ tile.pamcarrotCake.name=Морковный торт
 tile.pamcheeseCake.name=Чизкейк
 tile.pamcherrycheeseCake.name=Вишнёвый чизкейк
 tile.pampineappleupsidedownCake.name=Ананасовый перевёрнутый торт
-tile.pamchocolatesprinkleCake.name=Торт, посыпанный шоколадом
+tile.pamchocolatesprinkleCake.name=Посыпанный шоколадом торт
 tile.pamredvelvetCake.name=Красный бархатный торт
 tile.pamlamingtonCake.name=Ламингтон
 tile.pampavlovaCake.name=Павлова
 tile.pamholidayCake.name=Праздничный торт
+tile.pampumpkincheeseCake.name=Тыквенный чизкейк
 
 # Items
 item.cottonItem.name=Хлопок
@@ -969,3 +971,7 @@ item.pepperoniItem.name=Пепперони
 item.pickledonionsItem.name=Маринованный лук
 item.porksausageItem.name=Свиная колбаса
 item.raspberrytrifleItem.name=Малиновый трайфл
+item.pumpkincheesecakeItem.name=Тыквенный чизкейк
+item.pumpkinmuffinItem.name=Тыквенный маффин
+item.suaderoItem.name=Говядина по-мексикански
+item.randomtacoItem.name=Случайный тако
