@@ -16,14 +16,15 @@ entity.SpecialMobs.ArmorCreeper.name=Бронированный крипер
 entity.SpecialMobs.DarkCreeper.name=Тёмный крипер
 entity.SpecialMobs.DeathCreeper.name=Смертельный крипер
 entity.SpecialMobs.DirtCreeper.name=Земляной крипер
-entity.SpecialMobs.DoomCreeper.name=Гибельный крипер
+entity.SpecialMobs.DoomCreeper.name=Роковой крипер
 entity.SpecialMobs.DrowningCreeper.name=Утопляющий крипер
 entity.SpecialMobs.EnderCreeper.name=Крипер Края
 entity.SpecialMobs.FireCreeper.name=Огненный крипер
+entity.SpecialMobs.GravityCreeper.name=Гравитационный крипер
 entity.SpecialMobs.JumpingCreeper.name=Прыгающий крипер
 entity.SpecialMobs.LightningCreeper.name=Крипер молний
 entity.SpecialMobs.MiniCreeper.name=Мини-крипер
-entity.SpecialMobs.SplittingCreeper.name=Пронзительный крипер
+entity.SpecialMobs.SplittingCreeper.name=Пронзающий крипер
 
 entity.SpecialMobs.SpecialEnderman.name=Странник Края
 entity.SpecialMobs.BlindingEnderman.name=Ослепляющий странник Края

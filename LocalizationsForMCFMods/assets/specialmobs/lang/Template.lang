@@ -20,6 +20,7 @@ entity.SpecialMobs.DoomCreeper.name=Doom Creeper
 entity.SpecialMobs.DrowningCreeper.name=Drowning Creeper
 entity.SpecialMobs.EnderCreeper.name=Ender Creeper
 entity.SpecialMobs.FireCreeper.name=Fire Creeper
+entity.SpecialMobs.GravityCreeper.name=Gravity Creeper
 entity.SpecialMobs.JumpingCreeper.name=Jumping Creeper
 entity.SpecialMobs.LightningCreeper.name=Lightning Creeper
 entity.SpecialMobs.MiniCreeper.name=Mini Creeper
