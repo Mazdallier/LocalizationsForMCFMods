@@ -14,6 +14,12 @@ item.flabs.upcolor.name=Color Upgrade
 item.flabs.upoutput.name=Auto-Output Upgrade
 item.flabs.upinput.name=Auto-Input Upgrade
 item.flabs.upfactory.name=Factory Upgrade
+item.flabs.upfactory.desc=Does not affect piping connections
+item.flabs.uporedict.name=Ore Dictionary Upgrade
+item.flabs.uppackage.name=Upgrade Package
+item.flabs.uppiping.name=Piping Upgrade
+item.flabs.uppiping.desc1=Changes the sides on which the
+item.flabs.uppiping.desc2=Furnace connect to Hoppers or Pipes
 
 gui.flabs.outdir=Output Direction:
 gui.flabs.indir=Input Direction:

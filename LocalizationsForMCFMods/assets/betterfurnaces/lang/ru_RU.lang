@@ -14,6 +14,12 @@ item.flabs.upcolor.name=Улучшение «Цвет»
 item.flabs.upoutput.name=Улучшение «Авто-выход»
 item.flabs.upinput.name=Улучшение «Авто-вход»
 item.flabs.upfactory.name=Улучшение «Фабрика»
+item.flabs.upfactory.desc=Не влияет на присоединение труб
+item.flabs.uporedict.name=Улучшение «Словарь руд»
+item.flabs.uppackage.name=Улучшение «Упаковка»
+item.flabs.uppiping.name=Улучшение «Трубы»
+item.flabs.uppiping.desc1=Изменяет стороны печи, к которым
+item.flabs.uppiping.desc2=присоединяются воронки или трубы
 
 gui.flabs.outdir=Направление выхода:
 gui.flabs.indir=Направление входа:
