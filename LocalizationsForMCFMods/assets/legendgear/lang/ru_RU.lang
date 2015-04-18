@@ -15,7 +15,7 @@ item.ingotStarsteel.name=Слиток звёздной стали
 item.starglassSword.name=Меч из звёздного стекла
 item.magicBoomerang.name=Магический бумеранг
 item.dustStarsteel.name=Звёздная железная пыль
-
+item.spottingScope.name=Оптическая труба
 
 item.dimensionalCatalyst.name=Пространственный катализатор
 item.abstractionGel.name=Абстрактный гель
@@ -35,12 +35,29 @@ item.orb.zap.name=Шокирующая оболочка
 item.orb.ice.name=Замораживающая оболочка
 
 item.nucleusFIRE.name=Огненное ядро
+item.gemFIRE.name=Огненный камень
 item.nucleusICE.name=Ледяное ядро
+item.gemICE.name=Ледяной камень
 item.nucleusLIGHTNING.name=Ядро молний
+item.gemLIGHTNING.name=Камень молний
 item.nucleusCUT.name=Обрезанное ядро
+item.gemCUT.name=Обрезанный камень
 item.nucleusSKY.name=Небесное ядро
+item.gemSKY.name=Небесный камень
 item.nucleusSUN.name=Солнечное ядро
+item.gemSUN.name=Солнечный камень
 item.nucleusNAVIGATE.name=Навигационное ядро
+item.gemNAVIGATE.name=Навигационный камень
+item.nucleusWEALTH.name=Ядро богатства
+item.gemWEALTH.name=Камень богатства
+item.nucleusDARK.name=Тёмное ядро
+item.gemDARK.name=Тёмный камень
+item.nucleusHEALTH.name=Ядро здоровья
+item.gemHEALTH.name=Камень здоровья
+item.nucleusWEAPON.name=Ядро оружия
+item.gemWEAPON.name=Камень оружия
+item.nucleusSTAR.name=Звёздное ядро
+item.gemSTAR.name=Звёздный камень
 
 item.tome.RAYFIRE.name=Том огненного луча
 item.tome.SCYTHEWIND.name=Том ветра косы
@@ -60,7 +77,14 @@ item.blankSpellbook.name=Пустая книга для заклинаний
 item.blankEmblem.name=Пустая эмблема
 item.phoenixEmblem.name=Эмблема феникса
 item.phoenixCharm.name=Амулет феникса
+item.blastCharm.name=Амулет взрыва
+item.featherCharm.name=Амулет пера
+
 item.sunfireDiamond.name=Алмаз солнечного огня
+item.azureFeather.name=Лазурное перо
+item.azureMantle.name=Лазурная мантия
+item.phoenixMantle.name=Мантия феникса
+
 
 item.twinkleStaff.name=Мерцающий посох
 item.fireStaff.name=Тлеющий посох
@@ -68,6 +92,37 @@ item.iceStaff.name=Ледяной посох
 item.zapStaff.name=Посох тряски
 item.infernoScroll.name=Адский свиток
 item.scythewindScroll.name=Свиток ветра косы
+
+item.SPEED_RING.name=Кольцо рывка
+item.SPEED_RING.desc=Быстрый бег
+item.SOFT_FALL_RING.name=Кольцо снижения
+item.SOFT_FALL_RING.desc=Мягкая посадка
+item.CONVECTION_RING.name=Кольцо конвекции
+item.CONVECTION_RING.desc=Парение над лавой
+item.RESONANCE_RING.name=Кольцо резонанса
+item.RESONANCE_RING.desc=Повышает эффективность других колец
+item.WISH_RING.name=Кольцо желаний
+item.WISH_RING.desc=Звёзды падают немного чаще
+item.MAGE_RING.name=Кольцо мага
+item.MAGE_RING.desc=Уменьшает магическую стоимость заклинаний
+item.WARRIOR_RING.name=Кольцо война
+item.WARRIOR_RING.desc=Усиливает атаки ближнего боя
+item.THIEF_RING.name=Кольцо вора
+item.THIEF_RING.desc=Невидимость, если присесть
+item.PLAIN_RING.name=Обычное кольцо
+item.PLAIN_RING.desc=У него есть потенциал
+item.PHOENIX_RING.name=Кольцо феникса
+item.PHOENIX_RING.desc=Поглощает огонь
+item.COLDFEET_RING.name=Кольцо морозной стопы
+item.COLDFEET_RING.desc=Замораживает воду под ногами
+item.ARROWFIND_RING.name=Кольцо удачи лучника
+item.ARROWFIND_RING.desc=Иногда можно найти стрелы
+item.AZUREFIND_RING.name=Кольцо небесной удачи
+item.AZUREFIND_RING.desc=Иногда можно найти азурит
+item.FORTUNE_RING.name=Кольцо удачи
+item.FORTUNE_RING.desc=Больше изумрудных осколков
+
+
 
 item.record.dragondot.name=Музыкальная пластинка
 item.record.dragondot.desc=Dragondot's Return
@@ -139,6 +194,13 @@ achievement.starsteel=Метеоритное
 achievement.starsteel.desc=Сделайте звёздную сталь
 achievement.literate=Образованность
 achievement.literate.desc=Совершите заклинание, используя большую книгу
+achievement.achvAzurite=Больше пятнышек
+achievement.achvAzurite.desc=Добудьте целый азурит
+achievement.flight=В небеса!
+achievement.flight.desc=Взлетите
+achievement.sunfireDiamond=Сокровище феникса
+achievement.sunfireDiamond.desc=Добудьте алмаз солнечного огня
+
 
 itemGroup.lgTab=LegendGear 2
 

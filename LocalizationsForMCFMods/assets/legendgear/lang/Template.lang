@@ -15,7 +15,7 @@ item.ingotStarsteel.name=Starsteel Ingot
 item.starglassSword.name=Starglass Sword
 item.magicBoomerang.name=Magic Boomerang
 item.dustStarsteel.name=Starry Iron Dust
-
+item.spottingScope.name=Spotting Scope
 
 item.dimensionalCatalyst.name=Dimensional Catalyst
 item.abstractionGel.name=Abstraction Gel
@@ -35,12 +35,29 @@ item.orb.zap.name=Shocking Orb
 item.orb.ice.name=Freezing Orb
 
 item.nucleusFIRE.name=Fire Nucleus
+item.gemFIRE.name=Fire Gem
 item.nucleusICE.name=Ice Nucleus
+item.gemICE.name=Ice Gem
 item.nucleusLIGHTNING.name=Lightning Nucleus
+item.gemLIGHTNING.name=Lightning Gem
 item.nucleusCUT.name=Cut Nucleus
+item.gemCUT.name=Cut Gem
 item.nucleusSKY.name=Sky Nucleus
+item.gemSKY.name=Sky Gem
 item.nucleusSUN.name=Sun Nucleus
+item.gemSUN.name=Sun Gem
 item.nucleusNAVIGATE.name=Find Nucleus
+item.gemNAVIGATE.name=Find Gem
+item.nucleusWEALTH.name=Money Nucleus
+item.gemWEALTH.name=Money Gem
+item.nucleusDARK.name=Dark Nucleus
+item.gemDARK.name=Dark Gem
+item.nucleusHEALTH.name=Health Nucleus
+item.gemHEALTH.name=Health Gem
+item.nucleusWEAPON.name=Weapon Nucleus
+item.gemWEAPON.name=Weapon Gem
+item.nucleusSTAR.name=Star Nucleus
+item.gemSTAR.name=Star Gem
 
 item.tome.RAYFIRE.name=Rayfire Tome
 item.tome.SCYTHEWIND.name=Scythewind Tome
@@ -60,7 +77,14 @@ item.blankSpellbook.name=Blank Spellbook
 item.blankEmblem.name=Blank Emblem
 item.phoenixEmblem.name=Phoenix Emblem
 item.phoenixCharm.name=Phoenix Charm
+item.blastCharm.name=Blast Charm
+item.featherCharm.name=Feather Charm
+
 item.sunfireDiamond.name=Sunfire Diamond
+item.azureFeather.name=Azure Feather
+item.azureMantle.name=Azure Mantle
+item.phoenixMantle.name=Phoenix Mantle
+
 
 item.twinkleStaff.name=Twinkle Staff
 item.fireStaff.name=Ember Staff
@@ -68,6 +92,37 @@ item.iceStaff.name=Frost Staff
 item.zapStaff.name=Jolt Staff
 item.infernoScroll.name=Inferno Scroll
 item.scythewindScroll.name=Scythewind Scroll
+
+item.SPEED_RING.name=Dash Ring
+item.SPEED_RING.desc=Sprint faster
+item.SOFT_FALL_RING.name=Descent Ring
+item.SOFT_FALL_RING.desc=Gentle landings
+item.CONVECTION_RING.name=Convection Ring
+item.CONVECTION_RING.desc=Float above lava
+item.RESONANCE_RING.name=Resonance Ring
+item.RESONANCE_RING.desc=Increase efficiency of other rings
+item.WISH_RING.name=Wish Ring
+item.WISH_RING.desc=Stars fall a bit more often
+item.MAGE_RING.name=Mage's Ring
+item.MAGE_RING.desc=Reduce magic cost of spells
+item.WARRIOR_RING.name=Warrior's Ring
+item.WARRIOR_RING.desc=Empowers melee attacks
+item.THIEF_RING.name=Thief's Ring
+item.THIEF_RING.desc=Invisible while sneaking
+item.PLAIN_RING.name=Plain Ring
+item.PLAIN_RING.desc=Has potential
+item.PHOENIX_RING.name=Phoenix Ring
+item.PHOENIX_RING.desc=Absorb fire
+item.COLDFEET_RING.name=Coldfeet Ring
+item.COLDFEET_RING.desc=Freeze water underfoot
+item.ARROWFIND_RING.name=Archer's Luck Ring
+item.ARROWFIND_RING.desc=Sometimes find arrows
+item.AZUREFIND_RING.name=Sky Luck Ring
+item.AZUREFIND_RING.desc=Occasionally find azurite
+item.FORTUNE_RING.name=Fortune Ring
+item.FORTUNE_RING.desc=Find more emerald shards
+
+
 
 item.record.dragondot.name=Music Disc
 item.record.dragondot.desc=Dragondot's Return
@@ -139,6 +194,13 @@ achievement.starsteel=Meteoric
 achievement.starsteel.desc=Create starsteel
 achievement.literate=Literate
 achievement.literate.desc=Cast a spell using a tome
+achievement.achvAzurite=More Dots
+achievement.achvAzurite.desc=Obtain unbroken azurite
+achievement.flight=To The Skies!
+achievement.flight.desc=Take flight
+achievement.sunfireDiamond=Phoenix's Treasure
+achievement.sunfireDiamond.desc=Collect a Sunfire Diamond
+
 
 itemGroup.lgTab=LegendGear 2
 
