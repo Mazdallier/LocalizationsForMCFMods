@@ -8,6 +8,59 @@ tile.MinicioOreNether.name=Nether Minicio Ore
 tile.MinicioOreEnd.name=End Minicio Ore
 
 tile.CropBooster.name=Growth Pulser
+tile.EssenceStone.name=Essence Stone
+
+tile.EssenceStorage.minicio.name=Minicio Block
+tile.EssenceStorage.accio.name=Accio Block
+tile.EssenceStorage.crucio.name=Crucio Block
+tile.EssenceStorage.imperio.name=Imperio Block
+tile.EssenceStorage.zivicio.name=Zivicio Block
+tile.EssenceStorage.ultimate.name=Mass Zivicio Block
+
+tile.EssenceBlock.coal.name=Black Essence Block
+tile.EssenceBlock.earth.name=Brown Essence Block
+tile.EssenceBlock.emerald.name=Green Essence Block
+tile.EssenceBlock.fire.name=Orange Essence Block
+tile.EssenceBlock.gold.name=Yellow Essence Block
+tile.EssenceBlock.lapis.name=Blue Essence Block
+tile.EssenceBlock.obsidian.name=Purple Essence Block
+tile.EssenceBlock.redstone.name=Red Essence Block
+
+tile.EssenceBrick.coal.name=Black Essence Brick
+tile.EssenceBrick.earth.name=Brown Essence Brick
+tile.EssenceBrick.emerald.name=Green Essence Brick
+tile.EssenceBrick.fire.name=Orange Essence Brick
+tile.EssenceBrick.gold.name=Yellow Essence Brick
+tile.EssenceBrick.lapis.name=Blue Essence Brick
+tile.EssenceBrick.obsidian.name=Purple Essence Brick
+tile.EssenceBrick.redstone.name=Red Essence Brick
+
+tile.EssenceBrick2.coal.name=Black Essence Brick
+tile.EssenceBrick2.earth.name=Brown Essence Brick
+tile.EssenceBrick2.emerald.name=Green Essence Brick
+tile.EssenceBrick2.fire.name=Orange Essence Brick
+tile.EssenceBrick2.gold.name=Yellow Essence Brick
+tile.EssenceBrick2.lapis.name=Blue Essence Brick
+tile.EssenceBrick2.obsidian.name=Purple Essence Brick
+tile.EssenceBrick2.redstone.name=Red Essence Brick
+
+tile.EssenceLamp.coal.name=Black Essence Lamp
+tile.EssenceLamp.earth.name=Brown Essence Lamp
+tile.EssenceLamp.emerald.name=Green Essence Lamp
+tile.EssenceLamp.fire.name=Orange Essence Lamp
+tile.EssenceLamp.gold.name=Yellow Essence Lamp
+tile.EssenceLamp.lapis.name=Blue Essence Lamp
+tile.EssenceLamp.obsidian.name=Purple Essence Lamp
+tile.EssenceLamp.redstone.name=Red Essence Lamp
+
+tile.EssenceSquare.coal.name=Black Essence Square Brick
+tile.EssenceSquare.earth.name=Brown Essence Square Brick
+tile.EssenceSquare.emerald.name=Green Essence Square Brick
+tile.EssenceSquare.fire.name=Orange Essence Square Brick
+tile.EssenceSquare.gold.name=Yellow Essence Square Brick
+tile.EssenceSquare.lapis.name=Blue Essence Square Brick
+tile.EssenceSquare.obsidian.name=Purple Essence Square Brick
+tile.EssenceSquare.redstone.name=Red Essence Square Brick
 
 tile.CropAir.name=Air Crop
 tile.CropCoal.name=Coal Crop

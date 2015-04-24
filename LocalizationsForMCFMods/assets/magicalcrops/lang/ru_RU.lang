@@ -8,6 +8,59 @@ tile.MinicioOreNether.name=Миницио руда Нижнего мира
 tile.MinicioOreEnd.name=Миницио руда Края
 
 tile.CropBooster.name=Ускоритель роста
+tile.EssenceStone.name=Камень эссенции
+
+tile.EssenceStorage.minicio.name=Миницио блок
+tile.EssenceStorage.accio.name=Акцио блок
+tile.EssenceStorage.crucio.name=Круцио блок
+tile.EssenceStorage.imperio.name=Империо блок
+tile.EssenceStorage.zivicio.name=Зивицио блок
+tile.EssenceStorage.ultimate.name=Массивный Зивицио блок
+
+tile.EssenceBlock.coal.name=Блок чёрной эссенции
+tile.EssenceBlock.earth.name=Блок коричневой эссенции
+tile.EssenceBlock.emerald.name=Блок зелёной эссенции
+tile.EssenceBlock.fire.name=Блок оранжевой эссенции
+tile.EssenceBlock.gold.name=Блок жёлтой эссенции
+tile.EssenceBlock.lapis.name=Блок синей эссенции
+tile.EssenceBlock.obsidian.name=Блок фиолетовой эссенции
+tile.EssenceBlock.redstone.name=Блок красной эссенции
+
+tile.EssenceBrick.coal.name=Кирпич из чёрной эссенции
+tile.EssenceBrick.earth.name=Кирпич из коричневой эссенции
+tile.EssenceBrick.emerald.name=Кирпич из зелёной эссенции
+tile.EssenceBrick.fire.name=Кирпич из оранжевой эссенции
+tile.EssenceBrick.gold.name=Кирпич из жёлтой эссенции
+tile.EssenceBrick.lapis.name=Кирпич из синей эссенции
+tile.EssenceBrick.obsidian.name=Кирпич из фиолетовой эссенции
+tile.EssenceBrick.redstone.name=Кирпич из красной эссенции
+
+tile.EssenceBrick2.coal.name=Кирпич из чёрной эссенции
+tile.EssenceBrick2.earth.name=Кирпич из коричневой эссенции
+tile.EssenceBrick2.emerald.name=Кирпич из зелёной эссенции
+tile.EssenceBrick2.fire.name=Кирпич из оранжевой эссенции
+tile.EssenceBrick2.gold.name=Кирпич из жёлтой эссенции
+tile.EssenceBrick2.lapis.name=Кирпич из синей эссенции
+tile.EssenceBrick2.obsidian.name=Кирпич из фиолетовой эссенции
+tile.EssenceBrick2.redstone.name=Кирпич из красной эссенции
+
+tile.EssenceLamp.coal.name=Светильник из чёрной эссенции
+tile.EssenceLamp.earth.name=Светильник из коричневой эссенции
+tile.EssenceLamp.emerald.name=Светильник из зелёной эссенции
+tile.EssenceLamp.fire.name=Светильник из оранжевой эссенции
+tile.EssenceLamp.gold.name=Светильник из жёлтой эссенции
+tile.EssenceLamp.lapis.name=Светильник из синей эссенции
+tile.EssenceLamp.obsidian.name=Светильник из фиолетовой эссенции
+tile.EssenceLamp.redstone.name=Светильник из красной эссенции
+
+tile.EssenceSquare.coal.name=Квадратный кирпич из чёрной эссенции
+tile.EssenceSquare.earth.name=Квадратный кирпич из коричневой эссенции
+tile.EssenceSquare.emerald.name=Квадратный кирпич из зелёной эссенции
+tile.EssenceSquare.fire.name=Квадратный кирпич из оранжевой эссенции
+tile.EssenceSquare.gold.name=Квадратный кирпич из жёлтой эссенции
+tile.EssenceSquare.lapis.name=Квадратный кирпич из синей эссенции
+tile.EssenceSquare.obsidian.name=Квадратный кирпич из фиолетовой эссенции
+tile.EssenceSquare.redstone.name=Квадратный кирпич из красной эссенции
 
 tile.CropAir.name=Ростки воздуха
 tile.CropCoal.name=Ростки угля
