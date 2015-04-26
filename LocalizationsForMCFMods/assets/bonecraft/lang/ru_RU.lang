@@ -2,14 +2,13 @@ itemGroup.tabBonecraft=BoneCraft
 
 tile.pamFossil.name=Окаменелость
 
-item.boneaxeItem.name=Костный топор
-item.bonehoeItem.name=Костная мотыга
-item.bonepickaxeItem.name=Костная кирка
-item.boneshovelItem.name=Костная лопата
-item.boneswordItem.name=Костный меч
+item.boneaxeItem.name=Костяной топор
+item.bonehoeItem.name=Костяная мотыга
+item.bonepickaxeItem.name=Костяная кирка
+item.boneshovelItem.name=Костяная лопата
+item.boneswordItem.name=Костяной меч
 
-item.bonehelmItem.name=Костный шлем
-item.bonechestItem.name=Костная кираса
-item.bonelegsItem.name=Костные поножи
-item.bonebootsItem.name=Костные ботинки
-
+item.bonehelmItem.name=Костяной шлем
+item.bonechestItem.name=Костяная кираса
+item.bonelegsItem.name=Костяные поножи
+item.bonebootsItem.name=Костяные ботинки
