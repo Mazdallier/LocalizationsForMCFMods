@@ -1,0 +1,977 @@
+itemGroup.tabHarvestCraft=HarvestCraft varie
+itemGroup.tabHarvestCraft2=HarvestCraft piante
+itemGroup.tabHarvestCraft3=HarvestCraft cibo
+
+# Tooltips
+tooltip.harvestcraft.item.queenbeeItem=Apiario: Favo di miele, di cera e larve\nGriglia di fabbr.: Pappa reale a 0 durabilità
+
+# Blocks
+tile.cuttingboard.name=Tagliere
+tile.pot.name=Pentola
+
+tile.beehive.name=Nido d'api
+tile.apiary.name=Apiario
+tile.presser.name=Pressatrice
+
+sink_0.name=Botte di legno
+sink_1.name=Vasca di pietra
+sink_2.name=Brocca d'argilla
+sink_3.name=Pozzo di mattoni
+
+tile.salt.name=Sale grezzo
+tile.pamcompressedsaltBlock.name=Blocco di sale compresso
+
+tile.market.name=Mercato
+
+tile.oven.name=Forno
+
+tile.berrygarden.name=Orto di bacche
+tile.desertgarden.name=Orto del deserto
+tile.gourdgarden.name=Orto di zucche
+tile.grassgarden.name=Orto erboso
+tile.groundgarden.name=Orto terreno
+tile.herbgarden.name=Orto d'erbe
+tile.leafygarden.name=Orto foglioso
+tile.mushroomgarden.name=Orto di funghi
+tile.stalkgarden.name=Orto di steli
+tile.textilegarden.name=Orto tessile
+tile.tropicalgarden.name=Orto tropicale
+tile.watergarden.name=Orto acquatico
+
+tile.pamAlmond.name=Mandorla immatura
+tile.pamApple.name=Mela immatura
+tile.pamApricot.name=Albicocca immatura
+tile.pamAvocado.name=Avocado immaturo
+tile.pamBanana.name=Banana immatura
+tile.pamCashew.name=Anacardio immaturo
+tile.pamCherry.name=Ciliegia immatura
+tile.pamChestnut.name=Castagna immatura
+tile.pamCinnamon.name=Cannella immatura
+tile.pamCoconut.name=Noce di cocco immaturo
+tile.pamDate.name=Dattero immaturo
+tile.pamDragonfruit.name=Frutto del drago immaturo
+tile.pamDurian.name=Durian immaturo
+tile.pamFig.name=Fico immaturo
+tile.pamGrapefruit.name=Pompelmo immaturo
+tile.pamLemon.name=Limone immaturo
+tile.pamLime.name=Limetta immaturo
+tile.pamMaple.name=Acero immaturo
+tile.pamMango.name=Mango immaturo
+tile.pamNutmeg.name=Noce moscata immatura
+tile.pamOlive.name=Oliva immatura
+tile.pamOrange.name=Arancia immatura
+tile.pamPapaya.name=Papaia immatura
+tile.pamPaperbark.name=Corteccia cartacea immatura
+tile.pamPeach.name=Pesca immatura
+tile.pamPear.name=Pera immatura
+tile.pamPecan.name=Noce pecan immatura
+tile.pamPeppercorn.name=Grano di pepe immaturo
+tile.pamPersimmon.name=Cachi immaturo
+tile.pamPistachio.name=Pistacchio immaturo
+tile.pamPlum.name=Prugna immatura
+tile.pamPomegranate.name=Melograno immaturo
+tile.pamStarfruit.name=Carambola immatura
+tile.pamVanillabean.name=Bacello di vaniglia immaturo
+tile.pamWalnut.name=Noce immaturo
+
+tile.pamalmondSapling.name=Arboscello di mandorlo
+tile.pamappleSapling.name=Arboscello di melo
+tile.pamapricotSapling.name=Arboscello d'albicocco
+tile.pamavocadoSapling.name=Arboscello d'avocado
+tile.pambananaSapling.name=Arboscello di banano
+tile.pamcashewSapling.name=Arboscello d'anacardio
+tile.pamcherrySapling.name=Arboscello di ciliegio
+tile.pamchestnutSapling.name=Arboscello di castagno
+tile.pamcinnamonSapling.name=Arboscello di cannella
+tile.pamcoconutSapling.name=Arboscello di palma da cocco
+tile.pamdateSapling.name=Arboscello di palma da datteri
+tile.pamdragonfruitSapling.name=Arboscello di pitaya
+tile.pamdurianSapling.name=Arboscello di durio
+tile.pamfigSapling.name=Arboscello di fico
+tile.pamgrapefruitSapling.name=Arboscello di pompelmo
+tile.pamlemonSapling.name=Arboscello di limone
+tile.pamlimeSapling.name=Arboscello di limetta
+tile.pammapleSapling.name=Arboscello d'acero
+tile.pammangoSapling.name=Arboscello di mango
+tile.pamnutmegSapling.name=Arboscello di myristica
+tile.pamoliveSapling.name=Arboscello d'olivo
+tile.pamorangeSapling.name=Arboscello d'arancio
+tile.pampapayaSapling.name=Arboscello di papaia
+tile.pampaperbarkSapling.name=Arboscello di malaleuca
+tile.pampeachSapling.name=Arboscello di pesco
+tile.pampearSapling.name=Arboscello di pero
+tile.pampecanSapling.name=Arboscello di pecan
+tile.pampeppercornSapling.name=Arboscello di pepe
+tile.pampersimmonSapling.name=Arboscello di cachi
+tile.pampistachioSapling.name=Arboscello di pistacchio
+tile.pamplumSapling.name=Arboscello di prugno
+tile.pampomegranateSapling.name=Arboscello di melograno
+tile.pamstarfruitSapling.name=Arboscello di carambola
+tile.pamvanillabeanSapling.name=Arboscello di vaniglia
+tile.pamwalnutSapling.name=Arboscello di noce
+
+tile.pamblackberryCrop.name=Pianta di more
+tile.pamblueberryCrop.name=Pianta di mirtilli
+tile.pamcandleberryCrop.name=Pianta della cera
+tile.pamraspberryCrop.name=Pianta di lamponi
+tile.pamstrawberryCrop.name=Pianta di fragole
+tile.pamcactusfruitCrop.name=Pianta di cactus
+tile.pamasparagusCrop.name=Pianta d'asparagi
+tile.pambarleyCrop.name=Pianta d'orzo
+tile.pamoatsCrop.name=Pianta d'avena
+tile.pamryeCrop.name=Pianta di segale
+tile.pamcornCrop.name=Pianta di granoturco
+tile.pambambooshootCrop.name=Pianta di bambù
+tile.pamcantaloupeCrop.name=Pianta di melone di Cantalupo
+tile.pamcucumberCrop.name=Pianta di cetrioli
+tile.pamwintersquashCrop.name=Pianta di zucca invernale
+tile.pamzucchiniCrop.name=Pianta di zucchine
+tile.pambeetCrop.name=Pianta di barbabietole
+tile.pamonionCrop.name=Pianta di cipolle
+tile.pamparsnipCrop.name=Pianta di pastinacca
+tile.pampeanutCrop.name=Pianta d'arachidi
+tile.pamradishCrop.name=Pianta di ravanelli
+tile.pamrutabagaCrop.name=Pianta di rutabaga
+tile.pamsweetpotatoCrop.name=Pianta di patate dolci
+tile.pamturnipCrop.name=Pianta di rape
+tile.pamrhubarbCrop.name=Pianta di rabarbari
+tile.pamceleryCrop.name=Pianta di sedano
+tile.pamgarlicCrop.name=Pianta d'aglio
+tile.pamgingerCrop.name=Pianta di zenzero
+tile.pamspiceleafCrop.name=Pianta di spezia
+tile.pamtealeafCrop.name=Pianta di tè
+tile.pamcoffeebeanCrop.name=Pianta di caffè
+tile.pammustardseedsCrop.name=Pianta di senape
+tile.pambroccoliCrop.name=Pianta di broccoli
+tile.pamcauliflowerCrop.name=Pianta di cavolfiori
+tile.pamleekCrop.name=Pianta di porri
+tile.pamlettuceCrop.name=Pianta di lattuga
+tile.pamscallionCrop.name=Pianta di cipolline
+tile.pamartichokeCrop.name=Pianta di carciofi
+tile.pambrusselsproutCrop.name=Pianta di cavoletti di Bruxelles
+tile.pamcabbageCrop.name=Pianta di cavolo
+tile.pamspinachCrop.name=Pianta di spinaci
+tile.pamwhitemushroomCrop.name=Pianta di funghi bianchi
+tile.pambeanCrop.name=Pianta di fagioli
+tile.pamsoybeanCrop.name=Pianta di soia
+tile.pambellpepperCrop.name=Pianta di peperoni
+tile.pamchilipepperCrop.name=Pianta di peperoncini
+tile.pameggplantCrop.name=Pianta di melanzane
+tile.pamokraCrop.name=Pianta di gombi
+tile.pampeasCrop.name=Pianta di piselli
+tile.pamtomatoCrop.name=Pianta di pomodori
+tile.pamcottonCrop.name=Pianta di cotone
+tile.pampineappleCrop.name=Pianta d'ananas
+tile.pamgrapeCrop.name=Pianta di vite
+tile.pamkiwiCrop.name=Pianta di kiwi
+tile.pamcranberryCrop.name=Pianta di mirtilli rossi
+tile.pamriceCrop.name=Pianta di riso
+tile.pamseaweedCrop.name=Pianta d'alghe
+
+tile.pamcandleDeco1.name=Candela bianca
+tile.pamcandleDeco2.name=Candela arancione
+tile.pamcandleDeco3.name=Candela magenta
+tile.pamcandleDeco4.name=Candela azzurra
+tile.pamcandleDeco5.name=Candela gialla
+tile.pamcandleDeco6.name=Candela lime
+tile.pamcandleDeco7.name=Candela rosa
+tile.pamcandleDeco8.name=Candela grigio
+tile.pamcandleDeco9.name=Candela grigio chiaro
+tile.pamcandleDeco10.name=Candela ciano
+tile.pamcandleDeco11.name=Candela viola
+tile.pamcandleDeco12.name=Candela blu
+tile.pamcandleDeco13.name=Candela marrone
+tile.pamcandleDeco14.name=Candela verde
+tile.pamcandleDeco15.name=Candela rossa
+tile.pamcandleDeco16.name=Candela nera
+
+tile.pamcarrotCake.name=Torta di carote
+tile.pamcheeseCake.name=Dolce di formaggio
+tile.pamcherrycheeseCake.name=Dolce di formaggio con ciliegie
+tile.pampineappleupsidedownCake.name=Torta all'ananas rovesciata
+tile.pamchocolatesprinkleCake.name=Torta al cioccolato decorata
+tile.pamredvelvetCake.name=Torta red velvet
+tile.pamlamingtonCake.name=Lamington
+tile.pampavlovaCake.name=Pavlova
+tile.pamholidayCake.name=Torta festiva
+tile.pampumpkincheeseCake.name=Torta al formaggio di zucca
+
+# Items
+item.cottonItem.name=Cottone
+item.wovencottonItem.name=Tessuto di cotone
+item.cottonseedItem.name=Seme di cotone
+
+item.candleberryItem.name=Bacca della cera
+item.candleberryseedItem.name=Seme della cera
+item.waxItem.name=Cera di bacca
+
+item.hardenedleatherhelmItem.name=Berretto di cuoio indurito
+item.hardenedleatherchestItem.name=Giubba di cuoio indurito
+item.hardenedleatherleggingsItem.name=Gambiera di cuoio indurito
+item.hardenedleatherbootsItem.name=Stivali di cuoio indurito
+item.hardenedleatherItem.name=Cuoio indurito
+
+item.queenbeeItem.name=Ape regina
+item.waxcombItem.name=Favo di cera
+item.honeycombItem.name=Favo di miele
+item.honeyItem.name=Miele
+item.beeswaxItem.name=Cera d'api
+item.royaljellyItem.name=Pappa reale
+item.grubItem.name=Larva d'ape
+
+item.potItem.name=Pentola
+item.skilletItem.name=Padella
+item.saucepanItem.name=Casseruola
+item.bakewareItem.name=Stampo da cucina
+item.cuttingboardItem.name=Tagliere
+item.mortarandpestleItem.name=Pestello e mortaio
+item.mixingbowlItem.name=Ciotola per mescolare
+item.juicerItem.name=Spremitore
+
+item.asparagusItem.name=Asparago
+item.asparagusseedItem.name=Seme d'asparago
+item.grilledasparagusItem.name=Asparago grigliato
+item.barleyItem.name=Orzo
+item.barleyseedItem.name=Seme d'orzo
+item.beanItem.name=Fagioli
+item.beanseedItem.name=Seme di fagiolo
+item.beetItem.name=Barbabietola
+item.beetseedItem.name=Seme di barbabietola
+item.broccoliItem.name=Broccoli
+item.broccoliseedItem.name=Seme di broccoli
+item.cauliflowerItem.name=Cavolfiore
+item.cauliflowerseedItem.name=Seme di cavolfiore
+item.celeryItem.name=Sedano
+item.celeryseedItem.name=Seme di sedano
+item.cranberryItem.name=Mirtillo rosso
+item.cranberryseedItem.name=Seme di mirtillo rosso
+item.garlicItem.name=Aglio
+item.garlicseedItem.name=Seme d'aglio
+item.gingerItem.name=Zenzero
+item.gingerseedItem.name=Seme di zenzero
+item.leekItem.name=Porro
+item.leekseedItem.name=Seme di porro
+item.lettuceItem.name=Lattuga
+item.lettuceseedItem.name=Seme di lattuga
+item.oatsItem.name=Avena
+item.oatsseedItem.name=Seme d'avena
+item.onionItem.name=Cipolla
+item.onionseedItem.name=Seme di cipolla
+item.parsnipItem.name=Pastinaca
+item.parsnipseedItem.name=Seme di pastinaca
+item.peanutItem.name=Arachide
+item.peanutseedItem.name=Seme d'arachide
+item.pineappleItem.name=Ananas
+item.pineappleseedItem.name=Seme d'ananas
+item.radishItem.name=Ravanello
+item.radishseedItem.name=Seme di ravanello
+item.riceItem.name=Riso
+item.riceseedItem.name=Seme di riso
+item.ricecakeItem.name=Galletta di riso
+item.rutabagaItem.name=Rutabaga
+item.rutabagaseedItem.name=Seme di rutabaga
+item.ryeItem.name=Segale
+item.ryeseedItem.name=Seme di segale
+item.scallionItem.name=Cipollina
+item.scallionseedItem.name=Seme di cipollina
+item.soybeanItem.name=Fagiolo di soia
+item.soybeanseedItem.name=Seme di soia
+item.spiceleafItem.name=Foglia di spezia
+item.spiceleafseedItem.name=Seme di spezia
+item.sunflowerseedsItem.name=Semi di girasole
+item.sunflowerseedItem.name=Seme di girasole
+item.sweetpotatoItem.name=Patata dolce
+item.sweetpotatoseedItem.name=Seme di patata dolce
+item.bakedsweetpotatoItem.name=Patata dolce arrosto
+item.tealeafItem.name=Foglia di tè
+item.teaseedItem.name=Seme di tè
+item.teaItem.name=Tazza di tè
+item.turnipItem.name=Rapa
+item.turnipseedItem.name=Seme di rapa
+item.whitemushroomItem.name=Fungo bianco
+item.whitemushroomseedItem.name=Spora di fungo bianco
+        
+item.artichokeItem.name=Carciofo
+item.artichokeseedItem.name=Seme di carciofo
+item.bellpepperItem.name=Peperone
+item.bellpepperseedItem.name=Seme di peperone
+item.blackberryItem.name=Mora
+item.blackberryseedItem.name=Seme di mora
+item.blueberryItem.name=Mirtillo
+item.blueberryseedItem.name=Seme di mirtillo
+item.brusselsproutItem.name=Cavoletto di Bruxelles
+item.brusselsproutseedItem.name=Seme di cavoletto di Bruxelles
+item.cabbageItem.name=Cavolo
+item.cabbageseedItem.name=Seme di cavolo
+item.cactusfruitItem.name=Frutto di cactus
+item.cactusfruitseedItem.name=Seme di cactus
+item.candleberryItem.name=Bacca della cera
+item.candleberryseedItem.name=Seme della cera
+item.waxItem.name=Cera
+item.cantaloupeItem.name=Melone di Cantalupo
+item.cantaloupeseedItem.name=Seme di melone di Cantalupo
+item.chilipepperItem.name=Peperoncino
+item.chilipepperseedItem.name=Seme di peperoncino
+item.coffeebeanItem.name=Chicchi di caffè
+item.coffeeseedItem.name=Seme di caffè
+item.coffeeItem.name=Tazza di caffè
+item.cornItem.name=Granoturco
+item.cornseedItem.name=Seme di granoturco
+item.popcornItem.name=Popcorn
+item.cottonItem.name=Cottone
+item.cottonseedItem.name=Seme di cotone
+item.wovencottonItem.name=Tessuto di cotone
+item.cucumberItem.name=Cetriolo
+item.cucumberseedItem.name=Seme di cetriolo
+item.eggplantItem.name=Melanzana
+item.eggplantseedItem.name=Seme di melanzana
+item.grilledeggplantItem.name=Melanzana grigliata
+item.grapeItem.name=Uva
+item.grapeseedItem.name=Seme di uva
+item.raisinsItem.name=Uvette
+item.kiwiItem.name=Kiwi
+item.kiwiseedItem.name=Seme di kiwi
+item.mustardseedsItem.name=Semi di senape
+item.mustardseedItem.name=Seme di senape
+item.okraItem.name=Gombo
+item.okraseedItem.name=Seme di gombo
+item.peasItem.name=Piselli
+item.peasseedItem.name=Seme di piselli
+item.raspberryItem.name=Lampone
+item.raspberryseedItem.name=Seme di lampone
+item.rhubarbItem.name=Rabarbaro
+item.rhubarbseedItem.name=Seme di rabarbaro
+item.seaweedItem.name=Alga
+item.seaweedseedItem.name=Seme di alga
+item.strawberryItem.name=Fragola
+item.strawberryseedItem.name=Seme di fragola
+item.tomatoItem.name=Pomodoro
+item.tomatoseedItem.name=Seme di pomodoro
+item.wintersquashItem.name=Zucca invernale
+item.wintersquashseedItem.name=Seme di zucca invernale
+item.zucchiniItem.name=Zucchina
+item.zucchiniseedItem.name=Seme di zucchina
+item.bambooshootItem.name=Germoglio di bambù
+item.bambooshootseedItem.name=Seme di bambù
+item.spinachItem.name=Spinaci
+item.spinachseedItem.name=Seme di spinaci
+
+item.almondItem.name=Mandorla
+item.apricotItem.name=Albicocca
+item.avocadoItem.name=Avocado
+item.bananaItem.name=Banana
+item.cashewItem.name=Anacardio
+item.cherryItem.name=Ciliegia
+item.chestnutItem.name=Castagna
+item.cinnamonItem.name=Cannella
+item.coconutItem.name=Noce di cocco
+item.dateItem.name=Dattero
+item.dragonfruitItem.name=Frutto del drago
+item.durianItem.name=Durian
+item.figItem.name=Fico
+item.grapefruitItem.name=Pompelmo
+item.lemonItem.name=Limone
+item.limeItem.name=Limetta
+item.maplesyrupItem.name=Sciroppo d'acero
+item.mangoItem.name=Mango
+item.nutmegItem.name=Noce moscata
+item.oliveItem.name=Oliva
+item.orangeItem.name=Arancia
+item.papayaItem.name=Papaia
+item.peachItem.name=Pesca
+item.pearItem.name=Pera
+item.pecanItem.name=Noce pecan
+item.peppercornItem.name=Grano di pepe
+item.persimmonItem.name=Cachi
+item.pistachioItem.name=Pistacchio
+item.plumItem.name=Prugna
+item.pomegranateItem.name=Melograno
+item.starfruitItem.name=Carambola
+item.vanillabeanItem.name=Bacello di vaniglia
+item.walnutItem.name=Noce
+
+item.grilledasparagusItem.name=Asparago grigliato
+item.ricecakeItem.name=Galletta di riso
+item.bakedsweetpotatoItem.name=Patata dolce arrosto
+item.teaItem.name=Tazza di tè
+item.coffeeItem.name=Tazza di caffè
+item.grilledeggplantItem.name=Melanzana grigliata
+item.toastedcoconutItem.name=Noce di cocco tostato
+item.vanillaItem.name=Vaniglia
+        
+item.saltItem.name=Sale
+item.flourItem.name=Farina
+item.doughItem.name=Impasto
+item.toastItem.name=Pane tostato
+item.pastaItem.name=Pasta
+item.heavycreamItem.name=Panna montata
+item.butterItem.name=Burro
+item.cheeseItem.name=Formaggio
+item.icecreamItem.name=Gelato
+item.grilledcheeseItem.name=Toast al formaggio
+item.applesauceItem.name=Salsa di mela
+item.applejuiceItem.name=Succo di mela
+item.applepieItem.name=Crostata di mele
+item.caramelappleItem.name=Mela caramellata
+item.pumpkinbreadItem.name=Pane di zucca
+item.roastedpumpkinseedsItem.name=Semi di zucca arrostiti
+item.pumpkinsoupItem.name=Zuppa di zucca
+item.melonjuiceItem.name=Succo d'anguria
+item.melonsmoothieItem.name=Frappè all'anguria
+item.carrotjuiceItem.name=Succo di carota
+item.carrotcakeItem.name=Torta di carote
+item.carrotsoupItem.name=Zuppa di carota
+item.glazedcarrotsItem.name=Carote glassate
+item.butteredpotatoItem.name=Patata imburrata
+item.loadedbakedpotatoItem.name=Patata imburrata carica
+item.mashedpotatoesItem.name=Purè di patate
+item.potatosaladItem.name=Insalata di patate
+item.potatosoupItem.name=Zuppa di patata
+item.friesItem.name=Patatine fritte
+item.grilledmushroomItem.name=Fungo grigliato
+item.stuffedmushroomItem.name=Fungo ripieno
+item.chickensandwichItem.name=Panino al pollo
+item.chickennoodlesoupItem.name=Pastina e brodo di pollo
+item.chickenpotpieItem.name=Pasticcio di pollo
+item.breadedporkchopItem.name=Cotoletta milanese
+item.hotdogItem.name=Hotdog
+item.bakedhamItem.name=Prosciutto cotto
+item.hamburgerItem.name=Hamburger
+item.cheeseburgerItem.name=Cheeseburger
+item.baconcheeseburgerItem.name=Cheeseburger con pancetta
+item.potroastItem.name=Brasato
+item.fishsandwichItem.name=Panino al pesce
+item.fishsticksItem.name=Bastoncini di pesce
+item.fishandchipsItem.name=Fish and chips
+item.mayoItem.name=Maionese
+item.friedeggItem.name=Uovo fritto
+item.scrambledeggItem.name=Uovo strapazzato
+item.boiledeggItem.name=Uovo sodo
+item.eggsaladItem.name=Insalata d'uova
+item.caramelItem.name=Caramello
+item.taffyItem.name=Toffee
+item.spidereyesoupItem.name=Zuppa di occhio di ragno
+item.zombiejerkyItem.name=Striscie di zombi essiccato
+item.cocoapowderItem.name=Polvere di cacao
+item.chocolatebarItem.name=Tavoletta di cioccolato
+item.hotchocolateItem.name=Cioccolata calda
+item.chocolateicecreamItem.name=Gelato al cioccolato
+item.vegetablesoupItem.name=Zuppa di verdure
+item.stockItem.name=Brodo
+item.fruitsaladItem.name=Macedonia
+        
+item.spagettiItem.name=Spaghetti
+item.spagettiandmeatballsItem.name=Spaghetti e polpette
+item.tomatosoupItem.name=Zuppa di pomodoro
+item.ketchupItem.name=Ketchup
+item.chickenparmasanItem.name=Pollo al parmigiano
+item.pizzaItem.name=Pizza
+        
+item.springsaladItem.name=Insalata primavera
+item.porklettucewrapItem.name=Piadina di lattuga al maiale
+item.fishlettucewrapItem.name=Piadina di lattuga al pesce
+item.bltItem.name=Panino al bacon, lattuga e pomodoro
+item.leafychickensandwichItem.name=Panino al pollo e lattuga
+item.leafyfishsandwichItem.name==Panino al fesce e lattuga
+item.deluxecheeseburgerItem.name=Cheeseburger di lusso
+item.delightedmealItem.name=Pasto fantastico
+        
+item.onionsoupItem.name=Zuppa di cipolla
+item.potatocakesItem.name=Torte di patata
+item.hashItem.name=Pasticcio di bistecca
+item.braisedonionsItem.name=Cipolle brasate
+item.heartybreakfastItem.name=Colazione abbondante
+
+item.cornonthecobItem.name=Pannocchia
+item.cornmealItem.name=Farina di granoturco
+item.cornbreadItem.name=Focaccia di granoturco
+item.tortillaItem.name=Tortilla
+item.nachoesItem.name=Nachoes
+item.tacoItem.name=Taco
+item.fishtacoItem.name=Taco al pesce
+item.creamedcornItem.name=Crema di granoturco
+        
+item.strawberrysmoothieItem.name=Frappè alla fragola
+item.strawberrypieItem.name=Crostata di fragole
+item.strawberrysaladItem.name=Insalata di fragole
+item.strawberryjuiceItem.name=Succo di fragola
+item.chocolatestrawberryItem.name=Fragola coperta di cioccolato
+        
+item.peanutbutterItem.name=Burro d'arachidi
+item.trailmixItem.name=Frutta secca
+item.pbandjItem.name=Panino al burro d'arachidi e marmellata
+item.peanutbuttercookiesItem.name=Peanut Butter Cookies
+        
+item.grapejuiceItem.name=Succo d'uva
+item.vinegarItem.name=Aceto
+item.grapejellyItem.name=Marmellata d'uva
+item.grapesaladItem.name=Insalata d'uva
+item.raisincookiesItem.name=Biscotti all'uvetta
+        
+item.picklesItem.name=Cetrioli sottaceto
+item.cucumbersaladItem.name=Insalata di cetrioli
+item.cucumbersoupItem.name=Zuppa di cetriolo
+item.vegetarianlettucewrapItem.name=Piadina di lattuga vegetariana
+item.marinatedcucumbersItem.name=Cetrioli marinati
+
+item.ricesoupItem.name=Zuppa di riso
+item.friedriceItem.name=Riso fritto
+item.mushroomrisottoItem.name=Risotto ai funghi
+item.curryItem.name=Riso al curry
+item.rainbowcurryItem.name=Curry arcobaleno
+        
+item.refriedbeansItem.name=Fagioli fritti
+item.bakedbeansItem.name=Fagioli stufati
+item.beansandriceItem.name=Riso e fagioli
+item.chiliItem.name=Chili
+item.beanburritoItem.name=Burrito ai fagioli
+       
+item.stuffedpepperItem.name=Peperone ripieno
+item.veggiestirfryItem.name=Verdure saltate-in-padella
+item.grilledskewersItem.name=Spiedo grigliato
+item.supremepizzaItem.name=Pizza suprema
+item.omeletItem.name=Omelette
+        
+item.hotwingsItem.name=Ali di pollo piccanti
+item.chilipoppersItem.name=Jalapeño
+item.extremechiliItem.name=Chili estremo
+item.chilichocolateItem.name=Cioccolato al peperoncino
+        
+item.lemonaideItem.name=Limonata
+item.lemonbarItem.name=Barretta al limone
+item.fishdinnerItem.name=Pasto di pesce
+item.lemonsmoothieItem.name=Frappè al limone
+item.lemonmeringueItem.name=Meringa al limone
+item.candiedlemonItem.name=Limone candito
+item.lemonchickenItem.name=Pollo al limone
+        
+item.blueberrysmoothieItem.name=Frappè al mirtillo
+item.blueberrypieItem.name=Crostata di mirtilli
+item.blueberrymuffinItem.name=Muffin di mirtilli
+item.blueberryjuiceItem.name=Succo di mirtillo
+item.pancakesItem.name=Frittelle
+item.blueberrypancakesItem.name=Frittelle ai mirtilli
+        
+item.cherryjuiceItem.name=Succo di ciliegia
+item.cherrypieItem.name=Crostata di ciliegie
+item.chocolatecherryItem.name=Cioccolato alla ciliegia
+item.cherrysmoothieItem.name=Frappè alla ciliegia
+item.cheesecakeItem.name=Dolce di formaggio
+item.cherrycheesecakeItem.name=Dolce di formaggio con ciliegie
+        
+item.stuffedeggplantItem.name=Melanza ripiena
+item.eggplantparmItem.name=Melanzana parmigiana
+        
+item.raspberryicedteaItem.name=Tè freddo al lampone
+item.chaiteaItem.name=Tè chai
+        
+item.espressoItem.name=Espresso
+item.coffeeconlecheItem.name=Caffellatte
+item.mochaicecreamItem.name=Gelato al caffè
+        
+item.pickledbeetsItem.name=Barbabietole sottaceto
+item.beetsaladItem.name=Insalata di barbabietole
+item.beetsoupItem.name=Zuppa di barbabietole
+item.bakedbeetsItem.name=Barbabietola arrosto
+        
+item.broccolimacItem.name=Maccheroni ai broccoli
+item.broccolindipItem.name=Broccoli e salsa
+item.creamedbroccolisoupItem.name=Zuppa di broccoli con crema
+        
+item.sweetpotatopieItem.name=Crostata di patate dolci
+item.candiedsweetpotatoesItem.name=Patate dolci candite
+item.mashedsweetpotatoesItem.name=Purè di patate dolci
+        
+item.steamedpeasItem.name=Piselli al vapore
+item.splitpeasoupItem.name=Zuppa di pisello
+        
+item.pineappleupsidedowncakeItem.name=Torta all'ananas rovesciata
+item.pineapplehamItem.name=Prosciuto all'ananas
+item.pineappleyogurtItem.name=Yogurt all'ananas
+        
+item.turnipsoupItem.name=Zuppa di rapa
+item.roastedrootveggiemedleyItem.name=Miscuglio di verdure e radici arrostito
+item.bakedturnipsItem.name=Rapa arrosto
+        
+item.gingerbreadItem.name=Pane allo zenzero
+item.gingersnapsItem.name=Biscotto allo zenzero
+item.candiedgingerItem.name=Zenzero candito
+        
+item.mustardItem.name=Senape
+item.softpretzelandmustardItem.name=Brezel e senape
+item.spicymustardporkItem.name=Maiale piccante alla senape
+item.spicygreensItem.name=Verdure piccanti
+        
+item.garlicbreadItem.name=Pane all'aglio
+item.garlicmashedpotatoesItem.name=Purè di patate all'aglio
+item.garlicchickenItem.name=Pollo all'aglio
+        
+item.summerradishsaladItem.name=Insalata estate con ravanelli
+item.summersquashwithradishItem.name=Zucca estiva con ravanelli
+        
+item.celeryandpeanutbutterItem.name=Sedano e burro d'arachidi
+item.chickencelerycasseroleItem.name=Casseruola con pollo e sedano
+item.peasandceleryItem.name=Piselli e sedano
+item.celerysoupItem.name=Zuppa di sedano
+        
+item.zucchinibreadItem.name=Pane alle zucchine
+item.zucchinifriesItem.name=Zucchine fritte
+item.zestyzucchiniItem.name=Zucchine aromatizate
+item.zucchinibakeItem.name=Zucchine al forno
+        
+item.asparagusquicheItem.name=Sformato di asparagi
+item.asparagussoupItem.name=Zuppa di asparagi
+        
+item.walnutraisinbreadItem.name=Pane alle noci e uvette
+item.candiedwalnutsItem.name=Noci candite
+item.brownieItem.name=Brownie
+        
+item.papayajuiceItem.name=Succo di papaia
+item.papayasmoothieItem.name=Frappè alla papaia
+item.papayayogurtItem.name=Yogurt alla papaia
+        
+item.starfruitjuiceItem.name=Succo di carambola
+item.starfruitsmoothieItem.name=Frappè alla carambola
+item.starfruityogurtItem.name=Yogurt alla carambola
+        
+item.guacamoleItem.name=Salsa guacamole
+item.creamofavocadosoupItem.name=Creama di zuppa d'avocado
+item.avocadoburritoItem.name=Burrito all'avocado
+        
+item.poachedpearItem.name=Affogato di pera
+item.fruitcrumbleItem.name=Dolce croccante alla frutta
+item.pearyogurtItem.name=Yogurt alla pera
+item.plumyogurtItem.name=Yogurt alla prugna
+        
+item.bananasplitItem.name=Banana split
+item.banananutbreadItem.name=Pane alle banane e noci
+item.bananasmoothieItem.name=Frappè alla banana
+item.bananayogurtItem.name=Yogurt alla banana
+        
+item.coconutmilkItem.name=Latte di cocco
+item.chickencurryItem.name=Curry al pollo
+item.coconutshrimpItem.name=Gamberetto al cocco
+item.coconutyogurtItem.name=Yogurt al cocco
+        
+item.orangejuiceItem.name=Succo d'arancia
+item.orangechickenItem.name=Pollo all'arancia
+item.orangesmoothieItem.name=Frappè all'arancia
+item.orangeyogurtItem.name=Yogurt all'arancia
+        
+item.peachjuiceItem.name=Succo di pesca
+item.peachcobblerItem.name=Crostata di pesche
+item.peachsmoothieItem.name=Frappè alla pesca
+item.peachyogurtItem.name=Yogurt alla pesca
+        
+item.limejuiceItem.name=Succo di limetta
+item.keylimepieItem.name=Crostata di limetta
+item.limesmoothieItem.name=Frappè alla limetta
+item.limeyogurtItem.name=Yogurt alla limetta
+        
+item.mangojuiceItem.name=Succo di mango
+item.mangosmoothieItem.name=Frappè al mango
+item.mangoyogurtItem.name=Yogurt al mango
+        
+item.pomegranatejuiceItem.name=Succo di melograno
+item.pomegranatesmoothieItem.name=Frappè al melograno
+item.pomegranateyogurtItem.name=Yogurt al melograno
+        
+item.vanillayogurtItem.name=Yogurt alla vaniglia
+        
+item.cinnamonrollItem.name=Arrotolato di cannella
+item.frenchtoastItem.name=Toast francese
+        
+item.marshmellowsItem.name=Marshmellow
+item.donutItem.name=Ciambella
+item.chocolatedonutItem.name=Ciambella al cioccolato
+item.powdereddonutItem.name=Ciambella zuccherata
+item.jellydonutItem.name=Ciambella alla marmellata
+item.frosteddonutItem.name=Ciambella glassata
+        
+item.cactussoupItem.name=Zuppa di cactus
+item.wafflesItem.name=Cialde
+item.seedsoupItem.name=Zuppa di semi
+item.softpretzelItem.name=Brezel
+item.jellybeansItem.name=Caramelle gommose
+item.biscuitItem.name=Biscotto
+       
+item.creamcookieItem.name=Biscotto alla crema
+item.jaffaItem.name=Jaffa
+item.friedchickenItem.name=Pollo fritto
+item.chocolatesprinklecakeItem.name=Torta al cioccolato decorata
+item.redvelvetcakeItem.name=Torta red velvet 
+item.footlongItem.name=Panino lungo-un-piede
+        
+item.blueberryyogurtItem.name=Yogurt al mirtillo
+item.lemonyogurtItem.name=Yogurt al limone
+item.cherryyogurtItem.name=Yogurt alla ciliegia
+item.strawberryyogurtItem.name=Yogurt alla fragola
+item.grapeyogurtItem.name=Yogurt all'uva
+item.chocolateyogurtItem.name=Yogurt al cioccolato
+        
+item.blackberryjuiceItem.name=Succo di mora
+item.blackberrycobblerItem.name=Crostata di more
+item.blackberrysmoothieItem.name=Frappè alla mora
+item.blackberryyogurtItem.name=Yogurt alla mora
+item.chocolatemilkItem.name=Latte al cioccolato
+item.pumpkinyogurtItem.name=Yogurt alla zucca
+        
+item.raspberryjuiceItem.name=Succo di lampone
+item.raspberrypieItem.name=Crostata di lamponi
+item.raspberrysmoothieItem.name=Frappè al lampone
+item.raspberryyogurtItem.name=Yogurt al lampone
+item.cinnamonsugardonutItem.name=Ciambella alla cannella e zucchero
+item.melonyogurtItem.name=Yogurt all'anguria
+        
+item.kiwijuiceItem.name=Succo di kiwi
+item.kiwismoothieItem.name=Frappè al kiwi
+item.kiwiyogurtItem.name=Yogurt al kiwi
+item.plainyogurtItem.name=Yogurt naturale
+item.appleyogurtItem.name=Yogurt alla mela
+        
+item.saltedsunflowerseedsItem.name=Semi di girasole salati
+item.sunflowerwheatrollsItem.name=Arrotolato di girasole e grano
+item.sunflowerbroccolisaladItem.name=Insalata di broccoli e girasole
+        
+item.cranberryjuiceItem.name=Succo di mirtillo rosso
+item.cranberrysauceItem.name=Salsa al mirtillo rosso
+item.cranberrybarItem.name=Barretta al mirtillo rosso
+        
+item.peppermintItem.name=Mentine
+        
+item.cactusfruitjuiceItem.name=Succo di frutto di cactus
+        
+item.blackpepperItem.name=Pepe nero
+item.groundcinnamonItem.name=Cannella macinata
+item.groundnutmegItem.name=Noce moscata macinata
+item.oliveoilItem.name=Olio da cucina
+        
+item.baklavaItem.name=Baklava
+item.gummybearsItem.name=Orsetto gommoso
+item.baconmushroomburgerItem.name=Hamburger alla pancetta e funghi
+item.fruitpunchItem.name=Punch alla frutta
+item.meatystewItem.name=Stufato di carne
+item.mixedsaladItem.name=Insalata mista
+item.pinacoladaItem.name=Pinacolada
+item.saladdressingItem.name=Condimento per insalata
+item.shepardspieItem.name=Crostata del pastore
+item.eggnogItem.name=Latte di gallina
+item.custardItem.name=Crema pasticcera
+item.sushiItem.name=Sushi
+item.gardensoupItem.name=Zuppa dall'orto
+        
+item.freshwaterItem.name=Acqua fresca
+item.freshmilkItem.name=Latte fresco
+        
+item.muttonrawItem.name=Montone crudo
+item.muttoncookedItem.name=Montone cotto
+item.calamarirawItem.name=Calamaro crudo
+item.calamaricookedItem.name=Calamaro cotto
+        
+item.applejellyItem.name=Marmellata di mela
+item.applejellysandwichItem.name=Panino alla marmellata di mela
+item.blackberryjellyItem.name=Marmellata di mora
+item.blackberryjellysandwichItem.name=Panino alla marmellata di mora
+item.blueberryjellyItem.name=Marmellata di mirtillo
+item.blueberryjellysandwichItem.name=Panino alla marmellata di mirtillo
+item.cherryjellyItem.name=Marmellata di ciliegia
+item.cherryjellysandwichItem.name=Panino alla marmellata di ciliegia
+item.cranberryjellyItem.name=Marmellata di mirtillo rosso
+item.cranberryjellysandwichItem.name=Panino alla marmellata di mirtillo rosso
+item.kiwijellyItem.name=Marmellata di kiwi
+item.kiwijellysandwichItem.name=Panino alla marmellata di kiwi
+item.lemonjellyItem.name=Marmellata di limone
+item.lemonjellysandwichItem.name=Panino alla marmellata di limone
+item.limejellyItem.name=Marmellata di limetta
+item.limejellysandwichItem.name=Panino alla marmellata di limetta
+item.mangojellyItem.name=Marmellata di mango
+item.mangojellysandwichItem.name=Panino alla marmellata di mango
+item.orangejellyItem.name=Marmellata d'arancia
+item.orangejellysandwichItem.name=Panino alla marmellata d'arancia
+item.papayajellyItem.name=Marmellata di papaia
+item.papayajellysandwichItem.name=Panino alla marmellata di papaia
+item.peachjellyItem.name=Marmellata di pesca
+item.peachjellysandwichItem.name=Panino alla marmellata di pesca
+item.pomegranatejellyItem.name=Marmellata di melograno
+item.pomegranatejellysandwichItem.name=Panino alla marmellata di melograno
+item.raspberryjellyItem.name=Marmellata di lampone
+item.raspberryjellysandwichItem.name=Panino alla marmellata di lampone
+item.starfruitjellyItem.name=Marmellata di carambola
+item.starfruitjellysandwichItem.name=Panino alla marmellata di carambola
+item.strawberryjellyItem.name=Marmellata di fragola
+item.strawberryjellysandwichItem.name=Panino alla marmellata di fragola
+item.watermelonjellyItem.name=Marmellata d'anguria
+item.watermelonjellysandwichItem.name=Panino alla marmellata d'anguria
+        
+item.bubblywaterItem.name=Acqua frizante
+item.cherrysodaItem.name=Bibita alla ciliegia
+item.colasodaItem.name=Cola
+item.gingersodaItem.name=Gingerino
+item.grapesodaItem.name=Bibita all'uva
+item.lemonlimesodaItem.name=Bibita limone-limetta
+item.orangesodaItem.name=Aranciata
+item.rootbeersodaItem.name=Birra di radice
+item.strawberrysodaItem.name=Bibita alla fragola
+        
+item.caramelicecreamItem.name=Gelato al caramello
+item.mintchocolatechipicemcreamItem.name=Gelato alla menta con pezzetti di cioccolato
+item.strawberryicecreamItem.name=Gelato alla fragola
+item.vanillaicecreamItem.name=Gelato alla vaniglia
+        
+item.ediblerootItem.name=Radice commestibile
+        
+item.gingerchickenItem.name=Pollo allo zenzero
+        
+item.oldworldveggiesoupItem.name=Zuppa di verdure del Vecchio Mondo
+item.spicebunItem.name=Dolce speziato
+item.gingeredrhubarbtartItem.name=Crostata zenzerata di rabarbaro
+item.lambbarleysoupItem.name=Zuppa d'agnello e orzo
+item.honeylemonlambItem.name=Agnello al miele e limone
+item.pumpkinoatsconesItem.name=Focaccina d'avena alla zucca
+item.beefjerkyItem.name=Striscie di manzo essiccato
+item.plumjuiceItem.name=Succo di prugna
+item.pearjuiceItem.name=Succo di pera
+item.ovenroastedcauliflowerItem.name=Cavolfiore arrostito al forno
+item.leekbaconsoupItem.name=Zuppa di porro e pancetta
+item.herbbutterparsnipsItem.name=Pastinaca al burro ed erbe
+item.scallionbakedpotatoItem.name=Patata arrostita alla cipollina
+item.soymilkItem.name=Latte di soia
+item.firmtofuItem.name=Tōfu solido
+item.silkentofuItem.name=Tōfu delicato
+
+item.bamboosteamedriceItem.name=Riso con bambù al vapore
+item.roastedchestnutItem.name=Castagne arrostite
+item.sweetpotatosouffleItem.name=Souffle di patate dolci
+item.cashewchickenItem.name=Pollo all'anacardio
+item.apricotjuiceItem.name=Succo d'albicocca
+item.apricotyogurtItem.name=Yogurt all'albicocca
+item.apricotglazedporkItem.name=Maiale glassato all'albicocca
+item.apricotjellyItem.name=Marmellata d'albicocca
+item.apricotjellysandwichItem.name=Panino alla marmellata d'albicocca
+item.apricotsmoothieItem.name=Frappè all'albicocca
+item.figbarItem.name=Barretta di fico
+item.figjellyItem.name=Marmellata di fico
+item.figjellysandwichItem.name=Panino alla marmellata di fico
+item.figsmoothieItem.name=Frappè al fico
+item.figyogurtItem.name=Yogurt al fico
+item.figjuiceItem.name=Succo di fico
+item.grapefruitjuiceItem.name=Succo di pompelmo
+item.grapefruitjellyItem.name=Marmellata di pompelmo
+item.grapefruitjellysandwichItem.name=Panino alla marmellata di pompelmo
+item.grapefruitsmoothieItem.name=Frappè al pompelmo
+item.grapefruityogurtItem.name=Yogurt al pompelmo
+item.grapefruitsodaItem.name=Bibita al pompelmo
+item.citrussaladItem.name=Insalata di agrumi
+item.pecanpieItem.name=Crostata di pecan
+item.pralinesItem.name=Praline
+item.persimmonjuiceItem.name=Succo di cachi
+item.persimmonyogurtItem.name=Yogurt al cachi
+item.persimmonsmoothieItem.name=Frappè al cachi
+item.persimmonjellyItem.name=Marmellata di cachi
+item.persimmonjellysandwichItem.name=Panino alla marmellata di cachi
+item.pistachiobakedsalmonItem.name=Salmone al pistacchio al forno
+item.baconwrappeddatesItem.name=Datteri avvolti in pancetta
+item.datenutbreadItem.name=Pane di datteri e noci
+item.maplesyruppancakesItem.name=Frittelle con sciroppo d'acero
+item.maplesyrupwafflesItem.name=Cialde con sciroppo d'acero
+item.maplesausageItem.name=Salsiccia con sciroppo d'acero
+item.mapleoatmealItem.name=Fiocchi d'avena con sciroppo d'acero 
+item.peachesandcreamoatmealItem.name=Fiocchi d'avena con peche e crema
+item.cinnamonappleoatmealItem.name=Fiocchi d'avena con mele e cannella
+item.maplecandiedbaconItem.name=Pancetta candita di sciroppo d'acero
+item.toastsandwichItem.name=Panino al toast
+item.potatoandcheesepirogiItem.name=Pierogi alla patata e formaggio
+item.zeppoleItem.name=Zeppola
+item.sausageinbreadItem.name=Salsiccia in pane
+item.chocolatecaramelfudgeItem.name=Caramella di cioccolato e caramello
+item.lavendershortbreadItem.name=Shortbread alla lavanda
+item.beefwellingtonItem.name=Filetto alla Wellington
+item.epicbaconItem.name=Pancetta epica
+item.manjuuItem.name=Manjuu
+
+item.chickengumboItem.name=Gumbo al pollo
+item.generaltsochickenItem.name=Pollo del generale Tso
+item.californiarollItem.name=California Roll
+item.futomakiItem.name=Futo Maki
+item.beansontoastItem.name=Toast con fagioli
+item.vegemiteItem.name=Vegemite
+item.honeycombchocolatebarItem.name=Barretta di cioccolato al miele
+item.cherrycoconutchocolatebarItem.name=Barretta di cioccolato alla ciliegia e cocco
+item.fairybreadItem.name=Pane fatato
+item.lamingtonItem.name=Lamington
+item.timtamItem.name=Tim Tam
+item.meatpieItem.name=Pasticcio di carne
+item.chikorollItem.name=Chiko Roll
+item.damperItem.name=Damper
+item.beetburgerItem.name=Hamburger Beet
+item.pavlovaItem.name=Pavlova
+item.gherkinItem.name=Gherkin
+item.mcpamItem.name=McPam
+
+item.ceasarsaladItem.name=Caesar Salad
+item.chaoscookieItem.name=Biscotto del Caos
+item.chocolatebaconItem.name=Pancetta al cioccolato
+item.lambkebabItem.name=Kebab d'agnello
+item.nutellaItem.name=Nutella
+item.snickersbarItem.name=Barretta snickers
+item.spinachpieItem.name=Crostata di spinaci
+item.steamedspinachItem.name=Spinaci al vapore
+item.vegemiteontoastItem.name=Vegemite su toast
+    
+item.anchovyrawItem.name=Acciuga cruda
+item.bassrawItem.name=Spigola cruda
+item.carprawItem.name=Carpa cruda
+item.catfishrawItem.name=Pesce gatto crudo
+item.charrrawItem.name=Salmerino crudo
+item.clamrawItem.name=Vongola cruda
+item.crabrawItem.name=Granchio crudo
+item.crayfishrawItem.name=Gambero crudo
+item.eelrawItem.name=Anguilla cruda
+item.frograwItem.name=Rana cruda
+item.grouperrawItem.name=Cernia cruda
+item.herringrawItem.name=Aringa cruda
+item.jellyfishrawItem.name=Medusa cruda
+item.mudfishrawItem.name=Pesce fango crudo
+item.octopusrawItem.name=Polpo crudo
+item.perchrawItem.name=Pece persico crudo
+item.scalloprawItem.name=Capasanta cruda
+item.shrimprawItem.name=Gamberetto crudo
+item.snailrawItem.name=Lumaca cruda
+item.snapperrawItem.name=Dentice crudo
+item.tilapiarawItem.name=Tilapia crudo
+item.troutrawItem.name=Trota cruda
+item.tunarawItem.name=Tonno crudo
+item.turtlerawItem.name=Tartaruga cruda
+item.walleyerawItem.name=Occhiogrigio crudo
+
+item.holidaycakeItem.name=Torta festiva
+
+item.clamcookedItem.name=Vongola cotta
+item.crabcookedItem.name=Granchio cotto
+item.crayfishcookedItem.name=Gambero cotto
+item.frogcookedItem.name=Cosce di rana cotte
+item.octopuscookedItem.name=Polpo cotto
+item.scallopcookedItem.name=Capasanta cotta
+item.shrimpcookedItem.name=Gamberetto cotto
+item.snailcookedItem.name=Lumaca cotta
+item.turtlecookedItem.name=Tartaruga cotta
+    
+item.appleciderItem.name=Sidro di mele
+item.bangersandmashItem.name=Salsiccie e purè
+item.batteredsausageItem.name=Salsiccia in pastella
+item.batterItem.name=Pastella
+item.chorizoItem.name=Chorizo
+item.coleslawItem.name=Insalata di cavolo
+item.energydrinkItem.name=Bevanda energetica
+item.friedonionsItem.name=Cipolle fritte
+item.meatfeastpizzaItem.name=Piazza quattro salumi
+item.mincepieItem.name=Mince Pie
+item.onionhamburgerItem.name=Hamburger alle cipolle
+item.pepperoniItem.name=Salame piccante
+item.pickledonionsItem.name=Cipolle sottaceto
+item.porksausageItem.name=Salsiccia di maiale
+item.raspberrytrifleItem.name=Trifle di lampone
+item.pumpkincheesecakeItem.name=Torta al formaggio di zucca
+item.pumpkinmuffinItem.name=Muffin di zucca
+item.suaderoItem.name=Suadero
+item.randomtacoItem.name=Taco casuale
