@@ -58,7 +58,7 @@ Author(s): Erasmus_Crowley
 
 Link: http://goo.gl/yQZiNo
 
-Status: Sent to Author. No response for 2 months.
+Status: Now in the official build!
 
 
 - Mod Name(s): FinndusFillies
@@ -76,7 +76,7 @@ Author(s): Silentspy
 
 Link: http://goo.gl/442APq
 
-Status: Sent to Author. When he returns.
+Status: Sent to Author.
 
 
 - Mod Name(s): Mo' Creatures
@@ -85,7 +85,7 @@ Author(s): DrZhark, bloodshot45
 
 Link: http://goo.gl/9rzhH9
 
-Status: Sent to Author. Will be available in 1.8
+Status: Sent to Author. Added in 1.8
 
 
 - Mod Name(s): Mo' Chickens
@@ -194,3 +194,21 @@ Author(s): Forge Team
 Link: http://goo.gl/KVaKeH
 
 Status: Sending doesn't required.
+
+
+- Mod Name(s): Cogs of the machine
+
+Author(s): Deatrathias
+
+Link: http://goo.gl/2srrXI
+
+Status: Pending.
+
+
+- Mod Name(s): Grimoire of Gaia 3
+
+Author(s): Silentine
+
+Link: http://goo.gl/eGA4pO
+
+Status: Sent to Author.

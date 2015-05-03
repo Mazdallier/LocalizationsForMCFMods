@@ -1,0 +1,9 @@
+//blocks
+tile.mythril_furnace.name=Мифриловая печь
+tile.mythril_furnace_lit.name=Мифриловая печь
+tile.onyx_furnace.name=Ониксовая печь
+tile.onyx_furnace_lit.name=Ониксовая печь
+
+//Updater
+machines.updateMessage1=§3Плагин Machines §rустарел. Последняя версия: §c
+machines.updateMessage2=§r. Пожалуйста, загрузите обновление по ссылке §9http://bit.ly/SimpleOres

@@ -12,3 +12,5 @@ This resource pack is licensed under [Calclavia's Educational Public License](ht
 ###Credits:
 
 [Adaptivity](https://github.com/Adaptivity), [fewizz](https://github.com/fewizz), [grimuars](https://github.com/grimuars) (Russian language)
+
+[TheVikingWarrior](https://github.com/TheVikingWarrior) (Italian language)

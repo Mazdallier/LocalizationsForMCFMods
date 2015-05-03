@@ -96,7 +96,7 @@ Author(s): Tropicraft Team
 
 Link: http://goo.gl/wxSyEI
 
-Status: No localization support yet. No 1.7.10 support.
+Status: In progress...
 
 
 - [x] Mod Name(s): Magical Crops
@@ -141,7 +141,7 @@ Author(s): Zaggy1024
 
 Link: http://goo.gl/D9stnc
 
-Status: Not yet started. Soon?
+Status: Not yet started.
 
 
 - [ ] Mod Name(s): Mad Science
