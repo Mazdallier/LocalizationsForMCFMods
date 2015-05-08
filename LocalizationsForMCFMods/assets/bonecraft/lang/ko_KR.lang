@@ -1,0 +1,14 @@
+itemGroup.tabBonecraft=본크래프트[BoneCraft]
+
+tile.pamFossil.name=화석
+
+item.boneaxeItem.name=뼈로된 도끼
+item.bonehoeItem.name=뼈로된 괭이
+item.bonepickaxeItem.name=뼈로된 곡괭이
+item.boneshovelItem.name=뼈로된 삽
+item.boneswordItem.name=뼈로된 검
+
+item.bonehelmItem.name=뼈로된 모자
+item.bonechestItem.name=뼈로된 흉갑
+item.bonelegsItem.name=뼈로된 레깅스
+item.bonebootsItem.name=뼈로된 부츠
