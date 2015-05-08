@@ -1,0 +1,41 @@
+tile.flabs.bf.0.name=철 화로
+tile.flabs.bf.1.name=금 화로
+tile.flabs.bf.2.name=다이아몬드 화로
+tile.flabs.bf.3.name=지옥 화로
+tile.flabs.bf.4.name=익스트림 화로
+
+item.flabs.upender.name=연료 효율 업그레이드
+item.flabs.upore.name=광물정제 업그레이드
+item.flabs.upstorage.name=저장소 업그레이드
+item.flabs.upliquid.name=액체 연료 업그레이드
+item.flabs.upadvender.name=고급 연료 효율 업그레이드
+item.flabs.upadvore.name=고급 광물정제 업그레이드
+item.flabs.upcolor.name=색상 업그레이드
+item.flabs.upoutput.name=자동 출력 업그레이드
+item.flabs.upinput.name=자동 입력 업그레이드
+item.flabs.upfactory.name=공장 업그레이드
+item.flabs.upfactory.desc=파이프에 연결할 수 없습니다.
+item.flabs.uporedict.name=광물사전 업그레이드
+item.flabs.uppackage.name=업그레이드 패키지
+item.flabs.uppiping.name=파이프 업그레이드
+item.flabs.uppiping.desc1=화로옆에 
+item.flabs.uppiping.desc2=깔때기와 파이프가 붙습니다.
+
+gui.flabs.outdir=출력 위치:
+gui.flabs.indir=입력 위치:
+gui.flabs.findir=연료 입력 위치:
+gui.flabs.top=위
+gui.flabs.bot=아래
+gui.flabs.lef=왼쪽
+gui.flabs.rig=오른쪽
+gui.flabs.bac=뒤
+gui.flabs.red=빨강
+gui.flabs.gre=초록
+gui.flabs.blu=파랑
+
+achievement.buildBetterFurnace =철 용광로
+achievement.buildBetterFurnace.desc =철 화로
+achievement.buildExtremeFurnace = 최대 출력
+achievement.buildExtremeFurnace.desc =익스트림 화로
+
+itemGroup.flabs.bfct=베럴 퍼네이스[Better Furnaces]
