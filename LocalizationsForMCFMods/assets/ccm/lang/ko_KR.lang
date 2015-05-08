@@ -1,0 +1,12 @@
+tile.ccmBlockBuilding.name=건설블럭
+tile.ccmBlockPlanner.name=계획탁자
+item.ccmItemBlueprint.name=블루프린트
+item.ccmItemCreationTool.name=필기도구
+item.ccmItemConstructionHelmet.name=단단한 모자
+item.ccmItemWoodHammer.name=나무 망치
+item.ccmItemStoneHammer.name=돌 망치
+item.ccmItemIronHammer.name=철 망치
+item.ccmItemGoldHammer.name=금 망치
+item.ccmItemDiamondHammer.name=다이아몬드 망치
+
+itemGroup.tabConstruction=MrCrayfish's Construction Mod
