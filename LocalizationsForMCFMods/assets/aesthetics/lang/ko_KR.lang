@@ -1,0 +1,80 @@
+//Minecraft Blocks
+tile.iron_bricks.name=철 벽돌
+tile.gold_bricks.name=금 벽돌
+tile.diamond_bricks.name=다이아몬드 벽돌
+	
+tile.iron_brick_stairs.name=철 벽돌 계단
+tile.gold_brick_stairs.name=금 벽돌 계단
+tile.diamond_brick_stairs.name=다이아몬드 벽돌 계단
+
+//SimpleOres Blocks
+tile.copper_bricks.name=구리 벽돌
+tile.tin_bricks.name=주석 벽돌
+tile.mythril_bricks.name=미스릴 벽돌
+tile.adamantium_bricks.name=아다만티움 벽돌
+tile.onyx_bricks.name=오닉스 벽돌
+	
+tile.copper_brick_stairs.name=구리 벽돌 계단
+tile.tin_brick_stairs.name=주석 벽돌 계단
+tile.mythril_brick_stairs.name=미스릴 벽돌 계단
+tile.adamantium_brick_stairs.name=아다만티움 벽돌 계단
+tile.onyx_brick_stairs.name=오닉스 벽돌 계단
+
+tile.copper_bars.name=구리 주괴
+tile.tin_bars.name=주석 주괴
+tile.mythril_bars.name=미스릴 주괴
+tile.adamantium_bars.name=아다만티움 주괴
+tile.onyx_bars.name=오닉스 주괴
+
+//SimpleOres Items
+item.mythril_door.name=미스릴 문
+item.adamantium_door.name=아다만티움 문
+item.onyx_door.name=오닉스 문
+
+//Fusion Blocks
+tile.steel_bricks.name=강철 벽돌
+tile.bronze_bricks.name=청동 벽돌
+tile.thyrium_bricks.name=싸이리엄 벽돌
+tile.sinisite_bricks.name=시니사이트 벽돌
+	
+tile.steel_brick_stairs.name=강철 벽돌 계단
+tile.bronze_brick_stairs.name=청동 벽돌 계단
+tile.thyrium_brick_stairs.name=싸이리엄 벽돌 계단
+tile.sinisite_brick_stairs.name=시니사이트 벽돌 계단
+
+tile.steel_bars.name=강철 주괴
+tile.bronze_bars.name=청동 주괴
+tile.thyrium_bars.name=싸이리엄 주괴
+tile.sinisite_bars.name=시니사이트 주괴
+
+//Fusion Items
+item.bronze_door.name=청동 문
+
+//Netherrocks Blocks
+tile.fyrite_bricks.name=피라이트 벽돌
+tile.malachite_bricks.name=멀러하이트 벽돌
+tile.ashstone_bricks.name=애쉬스톤 벽돌
+tile.illumenite_bricks.name=일루미나이트 벽돌
+tile.dragonstone_bricks.name=용석 벽돌
+tile.argonite_bricks.name=아아거나이트 벽돌
+	
+tile.fyrite_brick_stairs.name=피라이트 벽돌 계단
+tile.malachite_brick_stairs.name=멀러하이트 벽돌 계단
+tile.ashstone_brick_stairs.name=애쉬스톤 벽돌 계단
+tile.illumenite_brick_stairs.name=일루미나이트 벽돌 계단
+tile.dragonstone_brick_stairs.name=용석 벽돌 계단
+tile.argonite_brick_stairs.name=아아거나이트 벽돌 계단
+
+tile.fyrite_bars.name=피라이트 주괴
+tile.malachite_bars.name=멀러하이트 주괴
+tile.ashstone_bars.name=애쉬스톤 주괴
+tile.illumenite_bars.name=일루미나이트 주괴
+tile.dragonstone_bars.name=용석 주괴
+tile.argonite_bars.name=아아거나이트 주괴
+
+//Netherrocks Items
+item.dragonstone_door.name=용석 문
+
+//Update Messages
+aesthetics.updateMessage1=§3Aesthetics §r가 구버전입니다. 최신버전 : §c
+aesthetics.updateMessage2=§r§9http://bit.ly/SimpleOres에서 업데이트해주세요
