@@ -1,0 +1,17 @@
+﻿
+tile.grc.paddyField.name=벼
+tile.grc.riceBlock.name=쌀
+
+item.grc.rice.name=쌀
+item.grc.riceBall.name=오니기리
+	
+fluid.grc.riceSake=사케
+fluid.grc.riceSake0=사케
+fluid.grc.riceSake1=사케
+fluid.grc.riceSake2=사케
+fluid.grc.riceSake3=사케
+
+fluid.grc.riceSake0.modifier=설익음
+fluid.grc.riceSake1.modifier=숙성됨
+fluid.grc.riceSake2.modifier=숙성됨, 강력해짐
+fluid.grc.riceSake3.modifier=숙성됨, 지속됨

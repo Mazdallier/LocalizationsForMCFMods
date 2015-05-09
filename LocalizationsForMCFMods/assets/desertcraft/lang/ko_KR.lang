@@ -1,45 +1,45 @@
-itemGroup.tabDesertcraft=µ¥ÀúÆ® Å©·¡ÇÁÆ®[DesertCraft]
+ï»¿itemGroup.tabDesertcraft=ë°ì €íŠ¸ í¬ë˜í”„íŠ¸[DesertCraft]
 
-tile.pamdesertPlant.0.name=°¥»ö ¼±ÀÎÀå
-tile.pamdesertPlant.1.name=°¥»ö ¼±ÀÎÀå
-tile.pamdesertPlant.2.name=ÃÊ·Ï»ö ¼±ÀÎÀå
-tile.pamdesertPlant.3.name=¿Ã¸®ºê ¼±ÀÎÀå
-tile.pamdesertPlant.4.name=¿Ã¸®ºê ¼±ÀÎÀå
-tile.pamdesertPlant.5.name=±ä ·¯½ºÆ® °ü¸ñ
-tile.pamdesertPlant.6.name=ÂªÀº ·¯½ºÆ® °ü¸ñ
-tile.pamdesertPlant.7.name=·¯½ºÆ® ÀÜµğ
-tile.pamdesertPlant.8.name=·¯½ºÆ® º­ ÀÜµğ
-tile.pamdesertPlant.9.name=±ä È²°¥»ö °ü¸ñ
-tile.pamdesertPlant.10.name=ÂªÀº È²°¥»ö °ü¸ñ
-tile.pamdesertPlant.11.name=È²°¥»ö ÀÜµğ
-tile.pamdesertPlant.12.name=È²°¥»ö º­
-tile.pamdesertPlant.13.name=°¥»ö ´ıºÒ
-tile.pamdesertPlant.14.name=»ç¸· ²É
-tile.pamdesertPlant.15.name=Á×Àº ¹¦¸ñ
+tile.pamdesertPlant.0.name=ê°ˆìƒ‰ ì„ ì¸ì¥
+tile.pamdesertPlant.1.name=ê°ˆìƒ‰ ì„ ì¸ì¥
+tile.pamdesertPlant.2.name=ì´ˆë¡ìƒ‰ ì„ ì¸ì¥
+tile.pamdesertPlant.3.name=ì˜¬ë¦¬ë¸Œ ì„ ì¸ì¥
+tile.pamdesertPlant.4.name=ì˜¬ë¦¬ë¸Œ ì„ ì¸ì¥
+tile.pamdesertPlant.5.name=ê¸´ ëŸ¬ìŠ¤íŠ¸ ê´€ëª©
+tile.pamdesertPlant.6.name=ì§§ì€ ëŸ¬ìŠ¤íŠ¸ ê´€ëª©
+tile.pamdesertPlant.7.name=ëŸ¬ìŠ¤íŠ¸ ì”ë””
+tile.pamdesertPlant.8.name=ëŸ¬ìŠ¤íŠ¸ ë²¼ ì”ë””
+tile.pamdesertPlant.9.name=ê¸´ í™©ê°ˆìƒ‰ ê´€ëª©
+tile.pamdesertPlant.10.name=ì§§ì€ í™©ê°ˆìƒ‰ ê´€ëª©
+tile.pamdesertPlant.11.name=í™©ê°ˆìƒ‰ ì”ë””
+tile.pamdesertPlant.12.name=í™©ê°ˆìƒ‰ ë²¼
+tile.pamdesertPlant.13.name=ê°ˆìƒ‰ ë¤ë¶ˆ
+tile.pamdesertPlant.14.name=ì‚¬ë§‰ ê½ƒ
+tile.pamdesertPlant.15.name=ì£½ì€ ë¬˜ëª©
 
-tile.pamglasssteelWindow.name=À¯¸®°­ Ã¢¹®
+tile.pamglasssteelWindow.name=ìœ ë¦¬ê°• ì°½ë¬¸
 
-item.cactusaxeItem.name=¼±ÀÎÀå µµ³¢
-item.cactushoeItem.name=¼±ÀÎÀå ±ªÀÌ
-item.cactuspickaxeItem.name=¼±ÀÎÀå °î±ªÀÌ
-item.cactusshovelItem.name=¼±ÀÎÀå »ğ
-item.cactusswordItem.name=¼±ÀÎÀå °Ë
+item.cactusaxeItem.name=ì„ ì¸ì¥ ë„ë¼
+item.cactushoeItem.name=ì„ ì¸ì¥ ê´­ì´
+item.cactuspickaxeItem.name=ì„ ì¸ì¥ ê³¡ê´­ì´
+item.cactusshovelItem.name=ì„ ì¸ì¥ ì‚½
+item.cactusswordItem.name=ì„ ì¸ì¥ ê²€
 
-item.cactushelmItem.name=¼±ÀÎÀå ¸ğÀÚ
-item.cactuschestItem.name=¼±ÀÎÀå Èä°©
-item.cactuslegsItem.name=¼±ÀÎÀå ·¹±ë½º
-item.cactusbootsItem.name=¼±ÀÎÀå ºÎÃ÷
+item.cactushelmItem.name=ì„ ì¸ì¥ ëª¨ì
+item.cactuschestItem.name=ì„ ì¸ì¥ í‰ê°‘
+item.cactuslegsItem.name=ì„ ì¸ì¥ ë ˆê¹…ìŠ¤
+item.cactusbootsItem.name=ì„ ì¸ì¥ ë¶€ì¸ 
 
-item.sandstoneaxeItem.name=Sandstone µµ³¢
-item.sandstonehoeItem.name=Sandstone ±ªÀÌ
-item.sandstonepickaxeItem.name=Sandstone °î±ªÀÌ
-item.sandstoneshovelItem.name=Sandstone »ğ
-item.sandstoneswordItem.name=Sandstone °Ë
+item.sandstoneaxeItem.name=Sandstone ë„ë¼
+item.sandstonehoeItem.name=Sandstone ê´­ì´
+item.sandstonepickaxeItem.name=Sandstone ê³¡ê´­ì´
+item.sandstoneshovelItem.name=Sandstone ì‚½
+item.sandstoneswordItem.name=Sandstone ê²€
 
-item.glasssteelaxeItem.name=À¯¸®°­ µµ³¢
-item.glasssteelhoeItem.name=À¯¸®°­ ±ªÀÌ
-item.glasssteelpickaxeItem.name=À¯¸®°­ °î±ªÀÌ
-item.glasssteelshovelItem.name=À¯¸®°­ »ğ
-item.glasssteelswordItem.name=À¯¸®°­ °Ë
+item.glasssteelaxeItem.name=ìœ ë¦¬ê°• ë„ë¼
+item.glasssteelhoeItem.name=ìœ ë¦¬ê°• ê´­ì´
+item.glasssteelpickaxeItem.name=ìœ ë¦¬ê°• ê³¡ê´­ì´
+item.glasssteelshovelItem.name=ìœ ë¦¬ê°• ì‚½
+item.glasssteelswordItem.name=ìœ ë¦¬ê°• ê²€
 
-item.glasssteelItem.name=À¯¸®°­ ÁÖ±«
+item.glasssteelItem.name=ìœ ë¦¬ê°• ì£¼ê´´

@@ -1,0 +1,21 @@
+﻿
+tile.grc.beeBox.name=벌 박스
+tile.grc.beeHive.name=벌집
+
+item.grc.honeyComb.empty.name=벌집
+item.grc.honeyComb.full.name=벌집
+item.grc.honeyJar.name=벌꿀
+item.grc.bee.name=벌
+
+container.grc.beeBox=벌 박스
+	
+fluid.grc.honeyMead=꿀술
+fluid.grc.honeyMead0=꿀술
+fluid.grc.honeyMead1=꿀술
+fluid.grc.honeyMead2=꿀술
+fluid.grc.honeyMead3=꿀술
+
+fluid.grc.honeyMead0.modifier=설익음
+fluid.grc.honeyMead1.modifier=숙성됨
+fluid.grc.honeyMead2.modifier=숙성됨, 강력해짐
+fluid.grc.honeyMead3.modifier=숙성됨, 지속됨

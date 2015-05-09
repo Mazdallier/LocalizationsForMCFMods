@@ -1,0 +1,18 @@
+﻿
+tile.grc.hopVine.name=홉
+
+item.grc.hops.name=홉
+item.grc.hopSeeds.name=홉씨앗
+
+fluid.grc.hopAle=맥주
+fluid.grc.hopAle0=맥주
+fluid.grc.hopAle1=맥주
+fluid.grc.hopAle2=맥주
+fluid.grc.hopAle3=맥주
+fluid.grc.hopAle4=맥주
+
+fluid.grc.hopAle0.modifier=홉이 들어감, 숙성되지않음
+fluid.grc.hopAle1.modifier=홉이 들어감, 숙성됨
+fluid.grc.hopAle2.modifier=홉이 들어감, 숙성됨, 강력함
+fluid.grc.hopAle3.modifier=홉이 들어감, 숙성됨, 지속됨
+fluid.grc.hopAle4.modifier=홉이 안들어감, 숙성되지않음

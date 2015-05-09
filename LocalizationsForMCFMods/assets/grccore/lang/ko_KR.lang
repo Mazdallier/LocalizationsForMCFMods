@@ -1,0 +1,12 @@
+﻿
+itemGroup.tabGrowthCraft=그로쓰크래프트[Growthcraft]
+
+tile.grc.fenceRope.name=울타리의 로프
+tile.grc.ropeBlock.name=로프
+
+item.grc.rope.name=로프
+
+fluid.tile.water=물
+fluid.tile.lava=용암
+
+achievementPage.pageGrowthCraft=그로쓰크래프트
