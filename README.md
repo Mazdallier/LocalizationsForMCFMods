@@ -1,4 +1,4 @@
-LocalizationsForMCFMods
+﻿LocalizationsForMCFMods
 =======================
 
 This repository contains *LocalizationsForMCFMods* resource pack. This resource pack adds new languages to mods from [Minecraft Forum](http://www.minecraftforum.net/).
@@ -14,3 +14,5 @@ This resource pack is licensed under [Calclavia's Educational Public License](ht
 [Adaptivity](https://github.com/Adaptivity), [fewizz](https://github.com/fewizz), [grimuars](https://github.com/grimuars) (Russian language)
 
 [TheVikingWarrior](https://github.com/TheVikingWarrior) (Italian language)
+
+[프요(Puyo061)](https://github.com/Puyo061)  (Korean language)

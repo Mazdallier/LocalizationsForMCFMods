@@ -1,0 +1,45 @@
+itemGroup.tabDesertcraft=데저트 크래프트[DesertCraft]
+
+tile.pamdesertPlant.0.name=갈색 선인장
+tile.pamdesertPlant.1.name=갈색 선인장
+tile.pamdesertPlant.2.name=초록색 선인장
+tile.pamdesertPlant.3.name=올리브 선인장
+tile.pamdesertPlant.4.name=올리브 선인장
+tile.pamdesertPlant.5.name=긴 러스트 관목
+tile.pamdesertPlant.6.name=짧은 러스트 관목
+tile.pamdesertPlant.7.name=러스트 잔디
+tile.pamdesertPlant.8.name=러스트 벼 잔디
+tile.pamdesertPlant.9.name=긴 황갈색 관목
+tile.pamdesertPlant.10.name=짧은 황갈색 관목
+tile.pamdesertPlant.11.name=황갈색 잔디
+tile.pamdesertPlant.12.name=황갈색 벼
+tile.pamdesertPlant.13.name=갈색 덤불
+tile.pamdesertPlant.14.name=사막 꽃
+tile.pamdesertPlant.15.name=죽은 묘목
+
+tile.pamglasssteelWindow.name=유리강 창문
+
+item.cactusaxeItem.name=선인장 도끼
+item.cactushoeItem.name=선인장 괭이
+item.cactuspickaxeItem.name=선인장 곡괭이
+item.cactusshovelItem.name=선인장 삽
+item.cactusswordItem.name=선인장 검
+
+item.cactushelmItem.name=선인장 모자
+item.cactuschestItem.name=선인장 흉갑
+item.cactuslegsItem.name=선인장 레깅스
+item.cactusbootsItem.name=선인장 부츠
+
+item.sandstoneaxeItem.name=Sandstone 도끼
+item.sandstonehoeItem.name=Sandstone 괭이
+item.sandstonepickaxeItem.name=Sandstone 곡괭이
+item.sandstoneshovelItem.name=Sandstone 삽
+item.sandstoneswordItem.name=Sandstone 검
+
+item.glasssteelaxeItem.name=유리강 도끼
+item.glasssteelhoeItem.name=유리강 괭이
+item.glasssteelpickaxeItem.name=유리강 곡괭이
+item.glasssteelshovelItem.name=유리강 삽
+item.glasssteelswordItem.name=유리강 검
+
+item.glasssteelItem.name=유리강 주괴
