@@ -1,0 +1,8 @@
+tile.expchest.name=Exp Chest
+tile.enderexpchest.name=Ender Exp Chest
+expchest.store=Store
+expchest.withdraw=Withdraw
+achievement.expchestcraft=Exp Chest Craft
+achievement.expchestcraft.desc=Craft an Exp Chest
+achievement.enderexpchestcraft=Ender Exp Chest Craft
+achievement.enderexpchestcraft.desc=Craft an Ender Exp Chest

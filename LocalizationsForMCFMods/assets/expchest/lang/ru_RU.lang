@@ -1,0 +1,8 @@
+tile.expchest.name=Сундук для опыта
+tile.enderexpchest.name=Сундук Края для опыта
+expchest.store=Положить
+expchest.withdraw=Забрать
+achievement.expchestcraft=Создание сундука для опыта
+achievement.expchestcraft.desc=Сделайте сундук для опыта
+achievement.enderexpchestcraft=Создание сундука Края для опыта
+achievement.enderexpchestcraft.desc=Сделайте сундук Края для опыта
