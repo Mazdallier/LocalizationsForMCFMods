@@ -18,3 +18,5 @@ This resource pack is licensed under [Calclavia's Educational Public License](ht
 [프요(Puyo061)](https://github.com/Puyo061)  (Korean language)
 
 [3TUSK](https://github.com/3TUSK), [bakaxyf](https://github.com/bakaxyf)  (Chinese language)
+
+[MindlessRanger](https://github.com/MindlessRanger) (Turkish language)
