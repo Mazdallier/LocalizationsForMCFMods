@@ -1,0 +1,41 @@
+tile.flabs.bf.0.name=Demir Fırın
+tile.flabs.bf.1.name=Altın Fırın
+tile.flabs.bf.2.name=Elmas Fırın
+tile.flabs.bf.3.name=Cehennem Fırını
+tile.flabs.bf.4.name=Ekstrem Fırın
+
+item.flabs.upender.name=Yakıt Tasarrufu Güncellemesi
+item.flabs.upore.name=Cevher İşleme Güncellemesi
+item.flabs.upstorage.name=Depo Güncellemesi
+item.flabs.upliquid.name=Sıvı Yakıt Güncellemesi
+item.flabs.upadvender.name=Gelişmiş Yakıt Tasarrufu Güncellemesi
+item.flabs.upadvore.name=Gelişmiş Cevher İşleme Güncellemesi
+item.flabs.upcolor.name=Renk Güncellemesi
+item.flabs.upoutput.name=Otomatik-Çıkış Güncellemesi
+item.flabs.upinput.name=Otomatik-Giriş Güncellemesi
+item.flabs.upfactory.name=Fabrika Güncellemesi
+item.flabs.upfactory.desc=Bağlama noktalarını etkilemez
+item.flabs.uporedict.name=Cevher Sözlüğü Güncellemesi
+item.flabs.uppackage.name=Güncelleme Paketi
+item.flabs.uppiping.name=Bağlama Güncellemesi
+item.flabs.uppiping.desc1=Fırının Borulara bağlanacağı
+item.flabs.uppiping.desc2=yönü değiştirir
+
+gui.flabs.outdir=Çıkış Yönü:
+gui.flabs.indir=Giriş Yönü:
+gui.flabs.findir=Yakıt Giriş Yönü:
+gui.flabs.top=Üst
+gui.flabs.bot=Alt
+gui.flabs.lef=Sol
+gui.flabs.rig=Sağ
+gui.flabs.bac=Arka
+gui.flabs.red=Kırmızı
+gui.flabs.gre=Yeşil
+gui.flabs.blu=Mavi
+
+achievement.buildBetterFurnace = Demir Döküm
+achievement.buildBetterFurnace.desc = Demir Fırın yap
+achievement.buildExtremeFurnace = Sınırda!
+achievement.buildExtremeFurnace.desc = Ekstrem Fırın yap
+
+itemGroup.flabs.bfct=Gelişmiş Fırınlar
