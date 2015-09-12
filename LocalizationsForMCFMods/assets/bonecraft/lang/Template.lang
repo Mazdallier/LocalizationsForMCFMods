@@ -1,14 +1,14 @@
-itemGroup.tabBonecraft=KemikCraft
+itemGroup.tabBonecraft=BoneCraft
 
-tile.pamFossil.name=Fosil
+tile.pamFossil.name=Fossil
 
-item.boneaxeItem.name=Kemik Balta
-item.bonehoeItem.name=Kemik Çapa
-item.bonepickaxeItem.name=Kemik Kazma
-item.boneshovelItem.name=Kemik Kürek
-item.boneswordItem.name=Kemik Kılıç
+item.boneaxeItem.name=Bone Axe
+item.bonehoeItem.name=Bone Hoe
+item.bonepickaxeItem.name=Bone Pickaxe
+item.boneshovelItem.name=Bone Shovel
+item.boneswordItem.name=Bone Sword
 
-item.bonehelmItem.name=Kemik Kask
-item.bonechestItem.name=Kemik Göğüslük
-item.bonelegsItem.name=Kemik Pantalon
-item.bonebootsItem.name=Kemik Ayakkabı
+item.bonehelmItem.name=Bone Helm
+item.bonechestItem.name=Bone Chest
+item.bonelegsItem.name=Bone Legs
+item.bonebootsItem.name=Bone Boots
