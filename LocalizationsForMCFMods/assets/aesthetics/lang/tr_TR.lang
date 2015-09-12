@@ -1,0 +1,86 @@
+//Minecraft Blocks
+tile.iron_bricks.name=Demir Tuğlalar
+tile.gold_bricks.name=Altın Tuğlalar
+tile.diamond_bricks.name=Elmas Tuğlalar
+	
+tile.iron_brick_stairs.name=Demir Tuğla Merdiven
+tile.gold_brick_stairs.name=Altın Tuğla Merdiven//Minecraft Blocks
+tile.iron_bricks.name=Demir Tuğlalar
+tile.gold_bricks.name=Altın Tuğlalar
+tile.diamond_bricks.name=Elmas Tuğlalar
+	
+tile.iron_brick_stairs.name=Demir Tuğla Merdiven
+tile.gold_brick_stairs.name=Altın Tuğla Merdiven
+tile.diamond_brick_stairs.name=Elmas Tuğla Merdiven
+
+//SimpleOres Blocks
+tile.copper_bricks.name=Bakır Tuğlalar
+tile.tin_bricks.name=Kalay Tuğlalar
+tile.mythril_bricks.name=Mitril Tuğlalar
+tile.adamantium_bricks.name=Adamantium Tuğlalar
+tile.onyx_bricks.name=Onix Tuğlalar
+	
+tile.copper_brick_stairs.name=Bakır Tuğla Merdiven
+tile.tin_brick_stairs.name=Kalay Tuğla Merdiven
+tile.mythril_brick_stairs.name=Mitril Tuğla Merdiven
+tile.adamantium_brick_stairs.name=Adamantium Tuğla Merdiven
+tile.onyx_brick_stairs.name=Onix Tuğla Merdiven
+
+tile.copper_bars.name=Bakır Parmaklıklar
+tile.tin_bars.name=Kalay Parmaklıklar
+tile.mythril_bars.name=Mitril Parmaklıklar
+tile.adamantium_bars.name=Adamantium Parmaklıklar
+tile.onyx_bars.name=Onix Parmaklıklar
+
+//SimpleOres Items
+item.mythril_door.name=Mitril Kapı
+item.adamantium_door.name=Adamantium Kapı
+item.onyx_door.name=Onix Kapı
+
+//Fusion Blocks
+tile.steel_bricks.name=Çelik Tuğlalar
+tile.bronze_bricks.name=Bronz Tuğlalar
+tile.thyrium_bricks.name=Thyrium Tuğlalar
+tile.sinisite_bricks.name=Sinizit Tuğlalar
+	
+tile.steel_brick_stairs.name=Çelik Tuğla Merdiven
+tile.bronze_brick_stairs.name=Bronz Tuğla Merdiven
+tile.thyrium_brick_stairs.name=Thyrium Tuğla Merdiven
+tile.sinisite_brick_stairs.name=Sinizit Tuğla Merdiven
+
+tile.steel_bars.name=Çelik Parmaklıklar
+tile.bronze_bars.name=Bronz Parmaklıklar
+tile.thyrium_bars.name=Thyrium Parmaklıklar
+tile.sinisite_bars.name=Sinizit Parmaklıklar
+
+//Fusion Items
+item.bronze_door.name=Bronz Kapı
+
+//Netherrocks Blocks
+tile.fyrite_bricks.name=Fyrite Tuğlalar
+tile.malachite_bricks.name=Malaçit Tuğlalar
+tile.ashstone_bricks.name=İstaşı Tuğlalar
+tile.illumenite_bricks.name=Parlaktaş Tuğlalar
+tile.dragonstone_bricks.name=Ejdertaş Tuğlalar
+tile.argonite_bricks.name=Argonit Tuğlalar
+	
+tile.fyrite_brick_stairs.name=Fyrite Tuğla Merdiven
+tile.malachite_brick_stairs.name=Malaçit Tuğla Merdiven
+tile.ashstone_brick_stairs.name=İstaşı Tuğla Merdiven
+tile.illumenite_brick_stairs.name=Parlaktaş Tuğla Merdiven
+tile.dragonstone_brick_stairs.name=Ejdertaş Tuğla Merdiven
+tile.argonite_brick_stairs.name=Argonit Tuğla Merdiven
+
+tile.fyrite_bars.name=Fyrite Parmaklıklar
+tile.malachite_bars.name=Malaçit Parmaklıklar
+tile.ashstone_bars.name=İstaşı Parmaklıklar
+tile.illumenite_bars.name=Parlaktaş Parmaklıklar
+tile.dragonstone_bars.name=Ejdertaş Parmaklıklar
+tile.argonite_bars.name=Argonit Parmaklıklar
+
+//Netherrocks Items
+item.dragonstone_door.name=Ejdertaş Kapı
+
+//Update Messages
+aesthetics.updateMessage1=§3Aesthetics §ris güncel değil. En son sürüm §c
+aesthetics.updateMessage2=§r. Lütfen güncelleyin §9http://bit.ly/SimpleOres
