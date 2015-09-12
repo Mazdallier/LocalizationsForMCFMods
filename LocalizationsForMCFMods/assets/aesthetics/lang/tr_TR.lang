@@ -1,17 +1,17 @@
 //Minecraft Blocks
-tile.iron_bricks.name=Iron Bricks
-tile.gold_bricks.name=Gold Bricks
-tile.diamond_bricks.name=Diamond Bricks
-	
-tile.iron_brick_stairs.name=Iron Brick Stairs
-tile.gold_brick_stairs.name=Gold Brick Stairs//Minecraft Blocks
 tile.iron_bricks.name=Demir Tuğlalar
-tile.gold_bricks.name=Gold Tuğlalar
-tile.diamond_bricks.name=Diamond Tuğlalar
+tile.gold_bricks.name=Altın Tuğlalar
+tile.diamond_bricks.name=Elmas Tuğlalar
 	
 tile.iron_brick_stairs.name=Demir Tuğla Merdiven
-tile.gold_brick_stairs.name=Gold Tuğla Merdiven
-tile.diamond_brick_stairs.name=Diamond Tuğla Merdiven
+tile.gold_brick_stairs.name=Altın Tuğla Merdiven//Minecraft Blocks
+tile.iron_bricks.name=Demir Tuğlalar
+tile.gold_bricks.name=Altın Tuğlalar
+tile.diamond_bricks.name=Elmas Tuğlalar
+	
+tile.iron_brick_stairs.name=Demir Tuğla Merdiven
+tile.gold_brick_stairs.name=Altın Tuğla Merdiven
+tile.diamond_brick_stairs.name=Elmas Tuğla Merdiven
 
 //SimpleOres Blocks
 tile.copper_bricks.name=Bakır Tuğlalar
