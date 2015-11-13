@@ -1,0 +1,17 @@
+﻿
+tile.grc.appleBlock.name=Pomme
+tile.grc.appleSapling.name=Pousse de pommier
+tile.grc.appleLeaves.name=Feuilles de pommier
+
+item.grc.appleSeeds.name=Trognon de pomme
+	
+fluid.grc.appleCider=Cidre de pomme
+fluid.grc.appleCider0=Cidre de pomme
+fluid.grc.appleCider1=Cidre de pomme
+fluid.grc.appleCider2=Cidre de pomme
+fluid.grc.appleCider3=Cidre de pomme
+
+fluid.grc.appleCider0.modifier=Nouveau
+fluid.grc.appleCider1.modifier=Fermenté
+fluid.grc.appleCider2.modifier=Fermenté, Puissant
+fluid.grc.appleCider3.modifier=Fermenté, Prolongé
