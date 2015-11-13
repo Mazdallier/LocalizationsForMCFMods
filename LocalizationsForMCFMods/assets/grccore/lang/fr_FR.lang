@@ -1,0 +1,12 @@
+﻿
+itemGroup.tabGrowthCraft=Growthcraft
+
+tile.grc.fenceRope.name=Barrière à corde
+tile.grc.ropeBlock.name=Corde
+
+item.grc.rope.name=Corde
+
+fluid.tile.water=Eau
+fluid.tile.lava=Lave
+
+achievementPage.pageGrowthCraft=Growthcraft
