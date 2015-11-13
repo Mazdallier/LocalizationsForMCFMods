@@ -1,0 +1,41 @@
+tile.flabs.bf.0.name=Four en fer
+tile.flabs.bf.1.name=Four en or
+tile.flabs.bf.2.name=Four en diamant
+tile.flabs.bf.3.name=Four infernal
+tile.flabs.bf.4.name=Four Extrême
+
+item.flabs.upender.name=Amélioration d'efficacité du carburant
+item.flabs.upore.name=Amélioration du traitement de minerai
+item.flabs.upstorage.name=Amélioration du stockage
+item.flabs.upliquid.name=Améliration du carburant liquide
+item.flabs.upadvender.name=Amélioration d'efficacité du carburant avancée
+item.flabs.upadvore.name=Amélioration du traitement de minerai avancée
+item.flabs.upcolor.name=Amélioration des couleurs
+item.flabs.upoutput.name=Amélioration des sorties auto
+item.flabs.upinput.name=Amélioration des entrées auto
+item.flabs.upfactory.name=Amélioration d'usine
+item.flabs.upfactory.desc=N'affecte pas les connexions des tuyaux
+item.flabs.uporedict.name=Amélioration dictionnaire des minerais
+item.flabs.uppackage.name=Amélioration de paquets
+item.flabs.uppiping.name=Amélioration des tuyaux
+item.flabs.uppiping.desc1=Change les faces du four auquelles
+item.flabs.uppiping.desc2=se connectent les entonnoirs et tuyaux
+
+gui.flabs.outdir=Direction de sortie :
+gui.flabs.indir=Direction d'entrée :
+gui.flabs.findir=Direction d'entrée carburant :
+gui.flabs.top=Haut
+gui.flabs.bot=Bas
+gui.flabs.lef=Gauche
+gui.flabs.rig=Droite
+gui.flabs.bac=Arrière
+gui.flabs.red=Rouge
+gui.flabs.gre=Vert
+gui.flabs.blu=Bleu
+
+achievement.buildBetterFurnace = Fonderie de fer
+achievement.buildBetterFurnace.desc = Construire un four en fer
+achievement.buildExtremeFurnace = Expensif
+achievement.buildExtremeFurnace.desc = Construire un four extrême
+
+itemGroup.flabs.bfct=Better Furnaces
